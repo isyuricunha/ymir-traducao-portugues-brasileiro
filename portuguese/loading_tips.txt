@@ -1,0 +1,26 @@
+Este é um jogo feito para ser complexo e difícil.
+Quaisquer semelhanças com outra espécie seriam puramente fortuitas e não intencionais.
+A economia nunca é estável. As coisas estão sempre flutuando. Isso é resultado de uma simulação dinâmica onde muitas variáveis influenciam-se continuamente. Não se preocupe se não conseguir manter tudo sob controle.
+A renda de uma classe social é compartilhada igualmente entre todos os porcos pertencentes a essa classe. A renda individual de um porco é, portanto, um valor médio baseado na renda total de sua classe social.
+Um porco com riqueza de 2 poderá satisfazer plenamente suas necessidades de qualquer recurso que custe 2 moedas ou menos.
+Se um recurso custa 4 moedas, um porco com riqueza de 1 só poderá satisfazer 25% de sua necessidade por esse recurso.
+A riqueza de um porco define seu poder de compra, que determina os recursos que ele pode adquirir para satisfazer suas necessidades.
+Riqueza é uma unidade de valor objetivo. É definida pelo tempo gasto por um Porco trabalhando em qualquer coisa, independentemente do valor subjetivo (preço monetário) que sua sociedade atribui ao que ele faz. 
+Riqueza, como uma unidade universal de referência de valor, é a mesma em todas as regiões e para todos os jogadores.
+Cada Porco que gasta tempo trabalhando em algo produz Riqueza proporcionalmente à quantidade de trabalho realizado.
+Um Porco trabalhando em um edifício com o dobro da eficiência de outro produzirá o dobro de trabalho em um dia e, portanto, o dobro de Riqueza.
+Nem o tipo nem o preço dos bens têm efeito sobre a Riqueza. Essas coisas são relativas às sociedades, enquanto a riqueza é uma unidade universal e objetiva que representa o tempo gasto trabalhando em qualquer coisa.
+Moedas representam o direito a uma parte do valor real e não necessariamente têm qualquer valor intrínseco. Em Ymir, esse "valor objetivo real" é a unidade de "Riqueza", representada por moedas chamadas "moedas". 
+Se a riqueza total da região fosse um bolo, cada moeda daria a um Porco o direito a uma fatia dele. O tamanho da fatia dependeria de quantas outras moedas estão em circulação (a soma de todas as rendas na região).
+O número total de moedas em circulação em uma região é a soma de todas as rendas dessa região. Isso determina o valor objetivo (riqueza) que cada moeda representa.
+Em Ymir, para simplificar e evitar a complicação de moedas relativas, a quantidade de moedas em circulação é definida automaticamente como a soma de todas as rendas. Portanto, o valor real (Riqueza) de cada moeda também flutua automaticamente dependendo do total de rendas.
+Você ainda pode acessar os recursos de um edifício de armazenamento sem trabalhadores, mas ele não poderá receber novos recursos.
+Qualquer recurso distribuído e disponibilizado para a população (seja por meio de seus comerciantes, produtores ou qualquer outro meio) é perdido, independentemente de ser realmente vendido ou não.
+O preço de um recurso sempre será pelo menos uma moeda acima de seu custo de produção para garantir benefícios mínimos aos seus produtores.
+Se uma indústria produz algo altamente valorizado, os produtores dos materiais que essa indústria requer cobiçarão a renda dessa indústria e aumentarão o preço de seus materiais de acordo.
+Cada projeto tem um número ideal de pesquisadores. Além disso, qualquer pesquisador extra contribuirá apenas minimamente para o projeto.
+Em um projeto, cada pesquisador contribui com 'pontos de pesquisa' com base em sua inteligência.
+Cuidado: designar pesquisadores para um projeto reduzirá a produtividade de todos os edifícios que empregam a mesma classe populacional, a menos que a política de "pesquisadores pareados" esteja ativa.
+Você não pode controlar diretamente quais ideias seu povo terá nem quando as terão. Cada ideia vem com suas próprias condições ocultas.
+Na aba de construção, você pode escolher construir a versão obsoleta anterior de um edifício clicando com o botão direito no botão do edifício.
+"O conquistador é sempre um amante da paz; ele preferiria assumir o controle de um país sem oposição." - Carl von Clausewitz, Da Guerra
