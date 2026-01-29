@@ -1,0 +1,441 @@
+#msn_200pop#1
+Artesanato tribal
+
+#msn_200pop_1#1
+Como seu povo recém-sedentarizado não está mais sobrecarregado pela necessidade de permanecer móvel e carregar todos os seus pertences, abre-se caminho para a posse de maior riqueza material e o desenvolvimento de novos confortos materiais para aproveitar melhor esse novo estilo de vida. 
+
+#msn_200pop_2#1
+Com o crescimento do tamanho da tribo, mais pessoas significam mais mão de obra disponível para desenvolver essas novas habilidades e conhecimentos.
+
+#msn_200pop_o_1#1
+Dominando novas habilidades
+
+#msn_200pop_o_2#1
+Aumente sua população e desenvolva as artesanatos de Cerâmica e Vestuário.
+
+#msn_agri#1
+Agricultura próspera
+
+#msn_agri_1#1
+A agricultura é a base da civilização e o verdadeiro estabelecimento de um estilo de vida sedentário. 
+
+#msn_agri_o_1#1
+Desenvolvendo a agricultura
+
+#msn_agri_o_2#1
+Desenvolva a agricultura em sua aldeia construindo celeiros para armazenar alimentos de forma mais eficiente, plantando campos e adquirindo criação de animais.
+
+#msn_animbreed#1
+Formando um rebanho de emergência
+
+#msn_animbreed_1#1
+Os caçadores podem nem sempre encontrar manadas migratórias para alimentar a todos.
+
+#msn_animbreed_2#1
+Com nossos caçadores agora familiarizados com as técnicas de capturar animais vivos em vez de matá-los, precisamos preparar currais vigiados e enviar expedições exclusivamente para capturar animais de rebanho, para que possamos trazer um número suficiente deles vivos de volta à aldeia. 
+
+#msn_animbreed_o_1#1
+Capturar animais
+
+#msn_animbreed_o_2#1
+Construa currais e envie caçadores para realizar ações de captura em manadas próximas para preenchê-los.
+
+#msn_barter#1
+Economia de troca
+
+#msn_barter_1#1
+Para continuar desenvolvendo nossa sociedade em crescimento, precisamos fazer a transição da economia de dádivas para a troca, a fim de estabilizar nossa população crescente. Embora uma economia de dádivas funcione bem para uma pequena tribo, uma vez que a população aumenta além da capacidade de cada indivíduo conhecer e lembrar de todos os outros, um sistema de troca mais imediato é necessário, pois eles não conseguem mais acompanhar quem fez o quê. Sem isso, conflitos surgirão rapidamente e nossa sociedade se desestabilizará!
+
+#msn_barter_2#1
+A transição para uma economia de troca é uma mudança significativa. Agora, você terá que gerenciar um saldo do tesouro, e os recursos não serão mais gratuitos para uso: eles terão que ser comprados daqueles que os possuem. Consumíveis como alimentos não serão mais distribuídos automaticamente e diretamente disponíveis para a população: agora, eles precisarão ser disponibilizados para compra em comerciantes ou bancas de mercado (um anexo de construção).
+
+#msn_barter_o_1#1
+Transição da economia de dádivas para a economia de troca
+
+#msn_barter_o_2#1
+Aprovar a política "Troca justa", no menu de governo, na aba econômica.
+
+#msn_chiefhut#1
+Uma cabana para o Chefe
+
+#msn_chiefhut_1#1
+Agora que você eliminou seus oponentes iniciais e assumiu a liderança indiscutível da tribo, é hora de torná-la concreta construindo uma luxuosa cabana do Chefe, digna de seu novo status, onde o governo de seu povo possa ser devidamente gerenciado e organizado.
+
+#msn_chiefhut_2#1
+Uma vez que a cabana esteja pronta e sua liderança seja efetiva, você também enfrentará um novo desafio: manter o favor dos outros porcos influentes e poderosos da tribo, pois ninguém pode governar sozinho... Esses são conhecidos como 'Oligarcas', e uma maneira simples de garantir seu apoio contínuo é comprá-lo com presentes e outras oferendas, como designar servos do trabalho comunitário para eles.
+
+#msn_chiefhut_o_1#1
+Estabelecendo seu governo
+
+#msn_chiefhut_o_2#1
+Construa a cabana do Chefe e promulgue a política de Liderança. Em seguida, ative a política de Subornos Políticos com presentes significativos para garantir o apoio dos Oligarcas e manter uma Legitimidade positiva.
+
+#msn_devmetl#1
+A Idade do Cobre
+
+#msn_devmetl_1#1
+Com a nova descoberta dessas estranhas rochas maleáveis que agora chamamos de 'metal', uma nova era está sobre nós. Elas podem ser usadas para fabricar ferramentas muito melhores e moldadas em formas impossíveis de alcançar com pedras comuns e frágeis.
+
+#msn_devmetl_o_1#1
+Desenvolvendo a metalurgia
+
+#msn_devmetl_o_2#1
+Garanta uma fonte de minério de cobre e aumente a produção de Cobre com acampamentos de fundição e uma produção constante de novas Machados pelos fabricantes de ferramentas.
+
+#msn_exp#1
+Expansão tribal
+
+#msn_exp_1#1
+Com a liderança dentro de nossa tribo agora estabelecida, é hora de considerar a expansão para novos territórios, para que nosso povo possa crescer ainda mais e acessar mais recursos e controlar mais terras.
+
+#msn_exp_2#1
+Se forem bem-sucedidos, poderão começar a explorar as terras ao redor da aldeia e nosso povo crescerá e se tornará mais poderoso. 
+
+#msn_exp_o_1#1
+Controlando territórios do Interior
+
+#msn_exp_o_2#1
+Selecione um território vazio próximo à sua aldeia e adequado para um novo assentamento. Crie uma nova formação de "Colonos" e carregue-os com comida, ferramentas e materiais antes de ordenar que se estabeleçam nesse novo território.
+
+#msn_frstform#1
+Primeiros exploradores
+
+#msn_frstform_1#1
+Agora que nossa população está crescendo, devemos pensar em formar um grupo para explorar nossos arredores. Para isso, devemos reunir um grupo de pelo menos 10 guerreiros da tribo e prepará-los para sair da aldeia!
+
+#msn_frstform_2#1
+Ao contrário da 'milícia', tropas recrutadas em um exército regular são de fato removidas da sua população e se tornam membros permanentes da formação. Se forem dissolvidas, retornarão à população do território. Diferente da milícia, um exército pode se mover para outros territórios, explorar o mapa e realizar ações como ataques, caçadas ou transportar recursos em seu inventário. 
+
+#msn_frstform_3#1
+Cada formação tem um território 'de origem', que, por padrão, é o local onde foi criada. O território de origem é o que 'mantém' a formação, representando o fato de que suas unidades precisarão ser substituídas à medida que envelhecem com o tempo. Cada território pode manter uma certa quantidade de tropas gratuitamente antes de ter sua demografia impactada negativamente. Você pode verificar esse valor no Menu do Território.
+
+#msn_frstform_o_1#1
+Crie seu primeiro exército
+
+#msn_frstform_o_2#1
+Crie uma nova formação do tipo 'exército'. Posicione seu acampamento e recrute pelo menos 10 guerreiros nele.
+
+#msn_frsthnt#1
+Primeira caçada
+
+#msn_frsthnt_1#1
+Caçar manadas migratórias traz muito mais carne e recursos do que caçar animais locais. Devemos organizar nossa primeira caçada reunindo os Porcos de nossa tribo e enviando-os em uma expedição pelos territórios próximos para localizar e caçar uma manada. Isso trará grande abundância para nossa tribo e ajudará a crescer mais rápido e forte!
+
+#msn_frsthnt_o_1#1
+Conclua uma caçada com sucesso
+
+#msn_frsthnt_o_2#1
+Localize uma manada em territórios próximos e conclua com sucesso uma ação de 'caça' usando uma formação de guerreiros e carregadores.
+
+#msn_houses#1
+Construa suas primeiras casas
+
+#msn_houses_1#1
+Agora que temos Sedentarismo, podemos construir nossas primeiras moradias permanentes: cabanas rústicas primitivas.
+
+#msn_houses_2#1
+Moradias adequadas proporcionam bônus à qualidade de vida e à saúde das famílias que nelas residem, o que ajudará a aumentar nossa população total ao reduzir doenças e aumentar o desejo de ter leitões. Quando houver moradias vazias disponíveis, a população lentamente abandonará as tendas improvisadas em que reside atualmente para se mudar para suas novas moradias. No entanto, se a população crescer e não houver casas suficientes, as famílias extras serão forçadas a se mudar para moradias improvisadas novamente, e Favelas surgirão ao redor de sua cidade até que o problema seja resolvido. Favelas não proporcionam qualidade de vida e reduzem a saúde de seus moradores, diminuindo o crescimento da população.
+
+#msn_houses_o_1#1
+Construindo suas primeiras casas
+
+#msn_houses_o_2#1
+Na aba de construções, selecione a construção de casa rústica e coloque pelo menos 10 delas.
+
+#msn_ldrship#2
+Tornando-se o Chefe da Tribo
+
+#msn_ldrship_1#1
+Atualmente, a tribo é liderada informalmente por vários membros influentes de diferentes famílias da comunidade, sem qualquer forma de hierarquia oficial, levando a constantes mudanças de poder e gerando muitos conflitos. Essa forma de governança orgânica torna-se cada vez mais instável à medida que o tamanho da comunidade aumenta, e a necessidade de uma liderança mais organizada e oficial torna-se uma crescente necessidade. 
+
+#msn_ldrship_2#1
+Estabelecer sua liderança indiscutível sobre seu povo não será fácil. Governar requer força, e você precisará de melhores guerreiros para garantir seu domínio e esmagar qualquer tentativa de oposição. Mas a força sozinha não é suficiente, e você precisará persuadir outros membros influentes da tribo a apoiar sua reivindicação e jurar lealdade e obediência à sua família. Certamente, nem todos concordarão com isso, e você deve se preparar para enfrentar agitações assim que seu golpe for iniciado.
+
+#msn_ldrship_fx#2
+Você estará pronto para lançar seu golpe.
+
+#msn_ldrship_o_1#2
+Conquistando apoio
+
+#msn_ldrship_o_2#1
+Presenteie joias e cabanas confortáveis para ganhar o apoio e lealdade de membros influentes da tribo enquanto prepara novos guerreiros para esmagar a oposição. 
+
+#msn_ldrship_strt#1
+Tomando o poder!
+
+#msn_ldrship_strt_1#1
+Agora você garantiu o apoio de todos os membros influentes-chave da tribo que conseguiu conquistar por meio de subornos e favores. Mais guerreiros leais também foram recrutados para esmagar qualquer oposição. Tudo está pronto para lançar seu golpe e se tornar o líder indiscutível da tribo, assegurando sua posição como seu novo Chefe.
+
+#msn_ldrship_strt_2#1
+No entanto, nem todos apoiarão sua reivindicação. Prepare-se para oponentes que certamente pegarão em armas contra você quando fizer seu movimento, e só lance seu golpe quando estiver pronto!
+
+#msn_ldrship_strt_c1#1
+Lance seu golpe!
+
+#msn_ldrship_strt_fx#2
+Isso desencadeará um ataque imediato de seus oponentes na aldeia com 20 Guerreiros e 10 Lanceiros.
+
+#msn_palentfrg#1
+Os 7 artefatos dos céus
+
+#msn_palentfrg_o_1#1
+Encontre todos os 7 fragmentos do Palentir e recupere-os em sua cidade capital.
+
+#msn_palentfrg_o_2#1
+Os fragmentos do Palentir estão espalhados pelo mundo e podem ser reivindicados por qualquer formação. Controlar um fragmento permite que você veja a localização de todos os outros fragmentos. Obtenha o controle de todos os 7 e leve-os para sua capital para remontar a pedra Palentir e desbloquear um grande poder.
+
+#msn1#1
+Criando o primeiro assentamento
+
+#msn1_1#1
+Saudações, [x].
+
+#msn1_2#1
+Após viver como nômades desde o alvorecer dos tempos, sobrevivendo da caça e da coleta, sua tribo primitiva finalmente encontrou um território que parece digno para abandonar seus costumes nômades. Chegou a hora de se estabelecer e construir algo significativo que resista ao teste do tempo, e eles escolheram você para liderá-los.
+
+#msn1_3#1
+Este parece ser um território decente para isso, mas talvez valha a pena continuar sua jornada em busca de terras melhores (não recomendado para novos jogadores). A decisão é sua.
+
+#msn1_o_1#1
+Estabeleça sua tribo em um território
+
+#msn1_o_2#1
+Selecione a formação de sua tribo no mapa-múndi, clique no botão 'ordens' no menu dela (canto inferior esquerdo) e, em seguida, selecione a ordem 'estabelecer' para criar um novo assentamento.
+
+#msn2#1
+Água para a tribo
+
+#msn2_1#1
+Nossa tribo recém-estabelecida agora precisa urgentemente de água potável para sobreviver!
+
+#msn2_2#1
+Precisamos providenciar um local onde os membros da tribo possam facilmente acessar e obter água potável. Não se preocupe com isso depois de colocá-lo: os membros da tribo o usarão por conta própria para obter a água de que precisam.
+
+#msn2_3#1
+Teremos que ficar atentos, porém: embora um seja suficiente para nossa pequena tribo, esses pontos só podem acomodar uma quantidade limitada de pessoas. À medida que a tribo cresce, serão necessários mais pontos.
+
+#msn2_o_1#1
+Construa um coletor de água na margem de qualquer fonte de água doce.
+
+#msn2_o_2#1
+Nas abas de construção, selecione o coletor de água e encontre um local válido para colocá-lo na margem de tiles de água doce. Este edifício não requer nada e produzirá e distribuirá automaticamente água para a população, satisfazendo sua necessidade vital de água.
+
+#msn3#1
+Caça
+
+#msn3_1#1
+Nossa tribo recém-estabelecida morrerá de fome rapidamente se não encontrarmos comida.
+
+#msn3_2#1
+Precisamos construir um acampamento de caça perto de qualquer fonte disponível de animais selvagens que possamos encontrar em nosso novo território. Isso nos fornecerá carne fresca e couro.
+
+#msn3_o_1#1
+Construa um acampamento de caça para caçar animais selvagens naturalmente presentes e produzir carne.
+
+#msn3_o_2#1
+Vá para o seu território recém-estabelecido. Nas abas de construção, selecione o acampamento de caça e examine o terreno. A área destacada ao redor do edifício é seu alcance. Tiles exploráveis aparecem em verde. Procure animais e coloque o acampamento de caça ao alcance para que ele produza carne.
+
+#msn4#1
+Coleta
+
+#msn4_1#1
+Parece que também há plantas no território que produzem vegetais e frutas que podemos colher para alimentar a tribo.
+
+#msn4_2#1
+Precisamos construir um acampamento de coleta perto de qualquer fonte disponível de plantas comestíveis selvagens que possamos encontrar em nosso novo território. 
+
+#msn4_o_1#1
+Construa um acampamento de coleta para explorar plantas comestíveis e produzir mais comida.
+
+#msn4_o_2#1
+Em seu território recém-estabelecido, na aba de construção, selecione o acampamento de coleta e examine o terreno. A área destacada ao redor do edifício é seu alcance. Tiles exploráveis aparecem em verde. Procure plantas comestíveis e coloque o acampamento de coleta ao alcance para que ele as colha e produza comida.
+
+#msn5#1
+Ferramentas
+
+#msn5_1#1
+Estávamos carregando apenas alguns utensílios de pedra conosco. Eles são necessários para praticamente tudo e logo precisaremos de novos se quisermos continuar desenvolvendo a tribo! 
+
+#msn5_2#1
+Devemos designar alguns porcos para a tarefa demorada de coletar pederneira dos terrenos pedregosos por aqui, enquanto outros podem habilmente usar a pederneira para fabricar novas ferramentas de pedra.
+
+#msn5_o_1#1
+Construa um fabricante de ferramentas e um coletor de pederneira para iniciar a produção de Martelos.
+
+#msn5_o_2#1
+Martelos são o primeiro tipo de ferramenta. Ao contrário dos alimentos, a população em si não os consome ou precisa deles, mas são necessários para construir muitas coisas.
+
+#msn6#1
+Madeira
+
+#msn6_1#1
+Também vamos precisar de madeira para fabricar coisas. 
+
+#msn6_2#1
+Devemos designar alguns porcos para a tarefa de coletar madeira das árvores ao nosso redor: vamos precisar dela!
+
+#msn6_o_1#1
+Construa um coletor de madeira perto de algumas árvores para iniciar a produção de Madeira.
+
+#msn6_o_2#1
+A Madeira, assim como os Martelos, não é um recurso consumido diretamente pela população. Porém, ela é necessária para muitas construções e como material para alguns edifícios de produção.
+
+#msn7#1
+Defendendo a tribo
+
+#msn7_1#1
+Pode haver bárbaros hostis por perto e outras tribos não amigáveis. Precisamos estar prontos para nos defender!
+
+#msn7_2#1
+Arremessadores de pedra são porcos simplesmente armados com pedras grandes para arremessar no inimigo. Eles são a primeira unidade de ataque à distância disponível. São lentos e têm um alcance muito curto, tornando-os praticamente inúteis para qualquer coisa além de defender atrás de muros e portões. 
+
+#msn7_3#1
+Devemos criar um pequeno forte de madeira e então recrutar uma milícia de arremessadores de pedra. Posicione-os dentro do forte no modo 'manter posição' usando a 'ferramenta estratégica'. Dessa forma, eles permanecerão no forte durante as batalhas e não tentarão se mover para enfrentar o inimigo. Se guerreiros inimigos atacarem e tentarem invadir o forte, os arremessadores de pedra poderão atacá-los do outro lado, dando-lhe uma vantagem defensiva. Você também pode adicionar guerreiros caso os atacantes consigam invadir, já que os arremessadores de pedra são ruins em combate corpo a corpo.
+
+#msn7_o_1#1
+Crie uma milícia para defender a tribo.
+
+#msn7_o_2#1
+Vá até a aba militar do seu território e crie uma nova formação do tipo 'milícia'. Posicione o acampamento deles e recrute 'arremessadores de pedra'. Use a ferramenta estratégica para posicioná-los e defina o comportamento como "manter posição", idealmente dentro de um pequeno forte de paliçadas de madeira.
+
+#msn8#1
+Novas ideias e conhecimentos
+
+#msn8_1#1
+Ocasionalmente, porcos da nossa tribo terão novas ideias sobre como melhorar nossa sociedade e técnicas. Ideias de outras tribos também podem chegar até nós. Essas ideias desbloqueiam 'projetos' que podemos concluir para desbloquear e dominar novos conhecimentos. 
+
+#msn8_2#1
+Embora não possamos controlar diretamente o surgimento de novas ideias — embora uma população com alta qualidade de vida e inteligência favoreça isso —, podemos escolher investir ou não nos projetos que elas desbloqueiam. Para iniciá-los, os projetos precisam de pesquisadores designados e podem também necessitar de recursos ou dinheiro. Dependendo do número e da inteligência dos pesquisadores e do trabalho exigido, o projeto levará algum tempo para ser concluído. Se for concluído com sucesso, desbloqueará suas recompensas, geralmente incluindo um novo conhecimento.
+
+#msn8_3#1
+O conhecimento frequentemente habilita novos edifícios, políticas ou recursos e permite que sua sociedade evolua. Eles exigem uma certa quantidade de 'espaço de conhecimento' — a capacidade da sua sociedade de armazenar conhecimento —, que você obterá inicialmente apenas por meio da cultura: para cada 10 pontos de cultura, você obtém 1 ponto de espaço de conhecimento. No início do jogo, a melhor maneira de aumentar sua cultura é simplesmente aumentar sua população total.
+
+#msn8_4#1
+Nossa tribo acabou de ter uma de suas primeiras ideias: se estabelecer e se tornar sedentária. Vamos transformar essa ideia em prática ao concluir seu projeto!
+
+#msn8_o_1#1
+Conclua seu primeiro projeto para desbloquear o conhecimento de Sedentarismo.
+
+#msn8_o_2#1
+Na aba de governo (botão da coroa no canto superior esquerdo da tela), vá até a aba de conhecimento e selecione o projeto Sedentarismo. Designe pesquisadores para ele e o inicie. Depois, aguarde sua conclusão.
+
+#vmsn_army#1
+Exército mais forte
+
+#vmsn_army_1#1
+Para a glória do nosso povo, devemos mostrar nossa força tendo o exército mais poderoso do mundo!
+
+#vmsn_army_o#1
+Seja o primeiro a alcançar este nível de força militar, com todos os seus Exércitos combinados.
+
+#vmsn_cltr#1
+O povo mais refinado
+
+#vmsn_cltr_1#1
+Para a glória do nosso povo, devemos demonstrar nossa superioridade tendo o povo mais influente e cultural do mundo!
+
+#vmsn_cltr_o#1
+Seja o primeiro a alcançar a quantidade necessária de Cultura do Estado, com todos os seus territórios combinados.
+
+#vmsn_ecorfrm#1
+Pioneiro econômico
+
+#vmsn_ecorfrm_1#1
+Para a glória do nosso povo, devemos liderar o caminho e ser os primeiros a reformar e inovar nossa economia, fazendo a transição com sucesso para uma nova política econômica.
+
+#vmsn_ecorfrm_o#1
+Seja o primeiro a fazer a transição bem-sucedida da sua economia ao ativar esta política com um saldo orçamentário positivo.
+
+#vmsn_frstbdg#1
+Primeiro construtor
+
+#vmsn_frstbdg_1#1
+Para a glória do nosso povo, devemos ser os primeiros a concluir a construção desses edifícios!
+
+#vmsn_frstbdg_o#1
+Seja o primeiro a concluir a construção de todos os edifícios necessários em um território.
+
+#vmsn_frstknw#1
+Primeiro descobridor
+
+#vmsn_frstknw_1#1
+Pela glória do nosso povo, devemos ser os primeiros a dominar este novo conhecimento!
+
+#vmsn_frstknw_o#1
+Seja o primeiro jogador a desenvolver este conhecimento.
+
+#vmsn_intel#1
+A cidade mais instruída
+
+#vmsn_intel_1#1
+Pela glória do nosso povo, devemos ser um exemplo para todos, reunindo em uma única cidade as pessoas mais instruídas e inteligentes que já existiram no mundo. É somente elevando o conhecimento de todos que prosperaremos e garantiremos o futuro da nossa sociedade.
+
+#vmsn_intel_o#1
+Seja o primeiro a atingir a média de Inteligência requerida em um de seus territórios.
+
+#vmsn_lifeq#1
+A cidade mais agradável
+
+#vmsn_lifeq_1#1
+Pela glória do nosso povo, devemos mostrar ao mundo nossa superioridade ao termos a cidade com a maior qualidade de vida já vista.
+
+#vmsn_lifeq_o#1
+Seja o primeiro a atingir a média de Qualidade de Vida requerida em um de seus territórios.
+
+#vmsn_nbreg#1
+Maior território
+
+#vmsn_nbreg_1#1
+Pela glória do nosso povo, devemos demonstrar nossa dominação controlando o maior território do mundo!
+
+#vmsn_nbreg_o#1
+Seja o primeiro a controlar a quantidade requerida de territórios.
+
+#vmsn_regpop#1
+A maior cidade
+
+#vmsn_regpop_1#1
+Pela glória do nosso povo, devemos ser os primeiros a construir a maior cidade que já existiu!
+
+#vmsn_regpop_o#1
+Seja o primeiro jogador a atingir essa quantidade de população total em um único território.
+
+#vmsn_resprd#1
+Maior produtor
+
+#vmsn_resprd_1#1
+Pela glória do nosso povo, devemos demonstrar nossa capacidade industrial sendo os maiores produtores de um recurso.
+
+#vmsn_resprd_o#1
+Seja o primeiro a ter a produção atual do recurso requerido em um de seus territórios.
+
+#vmsn_resstk#1
+Estocador de recursos
+
+#vmsn_resstk_1#1
+Pela glória do nosso povo, devemos mostrar nossa riqueza e garantir nosso futuro acumulando o maior estoque de um recurso do mundo em um único de nossos territórios.
+
+#vmsn_resstk_o#1
+Seja o primeiro a ter o recurso requerido em seus armazéns em um de seus territórios.
+
+#vmsn_title#1
+Missão de vitória: seja o primeiro a completá-la para ganhar Pontos de Vitória!
+
+#vmsn_totpop#1
+A maior população
+
+#vmsn_totpop_1#1
+Pela glória do nosso povo, devemos ser os primeiros a unir o maior número de pessoas possível sob a mesma bandeira!
+
+#vmsn_totpop_o#1
+Seja o primeiro jogador a atingir essa quantidade de população total em TODOS os seus territórios combinados.
+
+#vmsn_trsr#1
+No Ouro confiamos
+
+#vmsn_trsr_1#1
+Pela glória do nosso povo, devemos acumular o maior tesouro em barras de Ouro já reunido: o Ouro é o que trará prosperidade e garantirá nosso futuro!
+
+#vmsn_trsr_o#1
+Seja o primeiro jogador a acumular a quantidade requerida de barras de ouro em um território.
+
