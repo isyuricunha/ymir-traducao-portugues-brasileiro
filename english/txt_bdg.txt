@@ -1,0 +1,923 @@
+#bdg_all#1
+All buildings
+
+#bdg_annex_dscr#1
+Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+
+#bdg_annex_n#1
+annex
+
+#bdg_battlem_dscr#1
+Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during battles.
+
+#bdg_battlem_n#1
+battlements
+
+#bdg_deco_dscr#1
+Purely cosmetic elements to improve the look of your city.
+
+#bdg_deco_n#1
+decorative
+
+#bdg_gates_dscr#1
+Gates block hostile troops during battles. Needs to be placed adjacent to a platform in 'bridge' mode.
+
+#bdg_gates_n#1
+gate
+
+#bdg_hous_dscr#1
+Accomodates population, improving their health and life quality.
+
+#bdg_hous_n#1
+housing
+
+#bdg_ind_dscr#1
+Produces goods from existing resources.
+
+#bdg_ind_n#1
+industrial building
+
+#bdg_merch_dscr#1
+Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sale's income for themselves, reducing the producer's income in the process.
+
+#bdg_merch_n#1
+distribution
+
+#bdg_pltf_dscr#1
+Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
+
+#bdg_pltf_n#1
+platforms
+
+#bdg_prod_dscr#1
+Exploits terrain tiles to produce raw resources.
+
+#bdg_prod_n#1
+production building
+
+#bdg_roads_dscr#1
+Improves unit movement on this tile and provides bonuses to connected buildings. [Currently only decorative]
+
+#bdg_roads_n#1
+roads
+
+#bdg_srv_dscr#1
+Produces a service (a non-material resource that cannot be stored).
+
+#bdg_srv_n#1
+service
+
+#bdg_stairs_dscr#1
+Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. Press Spacebar to change the direction.
+
+#bdg_stairs_n#1
+stairs
+
+#bdg_stor_dscr#1
+Stocks resources.
+
+#bdg_stor_n#1
+storage
+
+#bdg_towers_dscr#1
+Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+
+#bdg_towers_n#1
+defensive towers
+
+#bdg_walls_dscr#1
+Defensive structure that prevents all units from passing.
+
+#bdg_walls_n#1
+walls
+
+#txt_academ_n#1
+Academia
+
+#txt_acedem_dscr#1
+Wise and knowledgable pigs who study the arts and sciences increase education and culture and contribute to research projects.
+
+#txt_agora_dscr#1
+A unique capital building linked to the 'Democracy' policy that produces State Power. A large plaza where the Citizens gather to vote and discuss matters of the City's governance directly.
+
+#txt_agora_n#1
+Agora
+
+#txt_archtct_dscr#1
+Produces the service Plans, required for important monuments.
+
+#txt_archtct_n#1
+Architect
+
+#txt_bakery_dscr#1
+Makes bread from flour.
+
+#txt_bakery_n#1
+Bakery
+
+#txt_baths_dscr#1
+A place of social gathering and relaxation which also improves health.
+
+#txt_baths_n#1
+Public baths
+
+#txt_batlm1_dscr#1
+Crude wooden battlements providing basic cover from enemy fire to units standing on the platform during battles.
+
+#txt_batlm1_n#1
+Wooden battlements
+
+#txt_batlm2_dscr#1
+Stone battlements providing cover from enemy fire to units on standing on the platform during battles.
+
+#txt_batlm2_n#1
+Stone battlements
+
+#txt_batlm3_dscr#1
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from enemy fire to units standing on the platform during battles.
+
+#txt_batlm3_n#1
+Machicolated stone battlements
+
+#txt_batlm4_dscr#1
+Excellent cover but weaker than stone battlements.
+
+#txt_batlm4_n#1
+Hoardings
+
+#txt_brewery_dscr#1
+Produces beer from barley. Beer is a distributable resource that satisfies the population's need for alcohols.
+
+#txt_brewery_n#1
+Brewery
+
+#txt_brickwk_dscr#1
+Produces bricks, a basic construction material.
+
+#txt_brickwk_n#1
+Brickworks
+
+#txt_builder_dscr#1
+Many buildings can only be constructed by professional teams of builders.
+
+#txt_builder_n#1
+Builders
+
+#txt_butcher_dscr#1
+Slaughters live cattle to produce fresh meat.
+
+#txt_butcher_n#1
+Butcher
+
+#txt_carpetmkr_dscr#1
+Produces rugs, a distributable resource filling the population's need for Furnishings.
+
+#txt_carpetmkr_n#1
+Carpet maker
+
+#txt_cattle_dscr#1
+The cattle farm allows you to create pastures that produce cattle.
+
+#txt_cattle_n#1
+Cattle farm
+
+#txt_charcl_dscr#1
+Carbonizes wood into charcoal.
+
+#txt_charcl_n#1
+Charcoal clamps
+
+#txt_cider_dscr#1
+Produces cider from apples. Cider is a distributable resource than satisfies the population's need for alcohols.
+
+#txt_cider_n#1
+Cider mill
+
+#txt_cityhall_dscr#1
+The regionnal administration center building required for a City.
+
+#txt_cityhall_n#1
+City Hall
+
+#txt_claycamp_dscr#1
+Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
+
+#txt_claycamp_n#1
+Clay exploitation
+
+#txt_claypit_dscr#1
+Place directly over clay tiles. Increases clay production of these tiles.
+
+#txt_claypit_n#1
+Clay pit
+
+#txt_clothmk_dscr#1
+Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing.
+
+#txt_clothmk_n#1
+Clothesmaker
+
+#txt_comunhall_dscr#1
+The regionnal administration center building required for a Village. A large communal house where matters of the village can be discussed and managed.
+
+#txt_comunhall_n#1
+Community Hall
+
+#txt_dock_dscr#1
+Docks for trade ships carrying goods across territories. Produces a large amounr of Cargo which is required to operate trade routes.
+
+#txt_dock_n#1
+Docks
+
+#txt_doctor_dscr#1
+Increases the health of the population.
+
+#txt_doctor_n#1
+Doctor
+
+#txt_drktwr_dscr#1
+Home of the Black King and source of its evil powers gifted by the Palentir.
+
+#txt_drktwr_n#1
+The Black Tower
+
+#txt_dstrplatf_dscr#1
+Orders the destruction of selected platforms.
+
+#txt_dstrplatf_n#1
+Destroy platforms
+
+#txt_eldcounc_dscr#1
+A council of elders to solve conflicts in the city.
+
+#txt_eldcounc_n#1
+Elder's council
+
+#txt_eldrcncl_dscr#1
+A council of family leaders that attempts to solve conflicts amongst the tribe members and provides an early form of law.
+
+#txt_eldrcncl_n#1
+Tribal council
+
+#txt_elephantpen_dscr#1
+Elephant pens allow the storage of a single large animal such as Elephants.
+
+#txt_elephantpen_n#1
+Elephant pen
+
+#txt_farm_dscr#1
+Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
+
+#txt_farm_n#1
+Farm
+
+#txt_fence1_dscr#1
+Rustic fences made of wood.
+
+#txt_fence1_n#1
+Wooden fence
+
+#txt_fence2_dscr#1
+Decorative fences worthy of gardens and avenues.
+
+#txt_fence2_n#1
+Fancy fence
+
+#txt_fence3_dscr#1
+Rustic fences made of stone.
+
+#txt_fence3_n#1
+Stone fence
+
+#txt_field_dscr#1
+Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+
+#txt_field_n#1
+Field
+
+#txt_fisher_dscr#1
+Can exploit wild fishing spots to produce fresh fish. Needs to be placed on the shore in range of a wild fishing spot.
+
+#txt_fisher_n#1
+Fisherpig
+
+#txt_flint_dscr#1
+Produces flint out of gravel terrain tiles. Flint can then be used by tool-makers to craft stone tools.
+
+#txt_flint_n#1
+Flint collector
+
+#txt_flowerbed_dscr#1
+A plain patch of flowers for decoration.
+
+#txt_flowerbed_n#1
+Flowerbed
+
+#txt_forum_dscr#1
+A place of social gathering to discuss matters concerning the community.
+
+#txt_forum_n#1
+Forum
+
+#txt_ftower1#1
+Primitive tower
+
+#txt_ftower1_dscr#1
+A primitive defensive tower made of wood. Fires javelins.
+
+#txt_fundry_dscr#1
+Refines metallic ores into ingots.
+
+#txt_fundry_n#1
+Foundry
+
+#txt_furnmkr_dscr#1
+Produces furniture, a distributable resource filling the population's need for Furnishings.
+
+#txt_furnmkr_n#1
+Furniture maker
+
+#txt_garden1_dscr#1
+Decorative gardens with flowers.
+
+#txt_garden1_n#1
+Flower gardens
+
+#txt_garden2_dscr#1
+Decorative gardens with trees.
+
+#txt_garden2_n#1
+Tree gardens
+
+#txt_gate1_dscr#1
+A cheap, wooden gate.
+
+#txt_gate1_n#1
+Wooden gate
+
+#txt_gate2_dscr#1
+A strong gate made of wood held together by bronze.
+
+#txt_gate2_n#1
+Strong gate
+
+#txt_gate3_dscr#1
+A solid gate reinforced with iron.
+
+#txt_gate3_n#1
+Reinforced gate
+
+#txt_gather_dscr#1
+Can exploit wild agricultural resources. Needs to be placed in range of the resources.
+
+#txt_gather_n#1
+Gathering camp
+
+#txt_grass_dscr#1
+An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
+
+#txt_grass_n#1
+Lawn
+
+#txt_grnry_dscr#1
+Can store food resources.
+
+#txt_grnry_n#1
+Granary
+
+#txt_hapt_dscr#1
+Multistorey buildings that provide housing for multiple households.
+
+#txt_hapt_n#1
+Apartment
+
+#txt_hconf_dscr#1
+Comfortable dwellings that provide high life quality and health bonuses.
+
+#txt_hconf_n#1
+Large house
+
+#txt_hrustc_dscr#1
+Rustic dwellings that provide low life quality and health bonuses.
+
+#txt_hrustc_n#1
+House
+
+#txt_hslum_dscr#1
+Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health.
+
+#txt_hslum_n#1
+Slum
+
+#txt_hunter_dscr#1
+Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+
+#txt_hunter_n#1
+Hunter
+
+#txt_items_dscr#1
+These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+
+#txt_items_n#1
+Items
+
+#txt_jewelry_dscr#1
+Crafts Jewelry out of precious materials.
+
+#txt_jewelry_n#1
+Jewelry maker
+
+#txt_kiln_dscr#1
+Produces fuels like charcoal and coke and building materials like plaster.
+
+#txt_kiln_n#1
+Kiln
+
+#txt_landock_dscr#1
+A resting place for land caravans carrying goods across territories. Produces a small amount of Cargo which is required to operate trade routes.
+
+#txt_landock_n#1
+Caravanserai
+
+#txt_lawmkr_dscr#1
+A unique capital building linked to the 'Lawmaking' policy that produces State Power. An early legislative building where Civil servants specialized in Lawmaking gather to discuss and make new laws.
+
+#txt_lawmkr_n#1
+Lawmaker's House
+
+#txt_libr_dscr#1
+Stores knowledge.
+
+#txt_libr_n#1
+Library
+
+#txt_magistr_dscr#1
+A service building that provides the Justice service to the population, reducing conflict.
+
+#txt_magistr_n#1
+Magistrate
+
+#txt_magistrt_dscr#1
+Reduces conflict in the population.
+
+#txt_magistrt_n#1
+Magistrate
+
+#txt_market_dscr#1
+Market stands distribute to the population the production of the building the stand belongs to. The income generated goes entirely to the producers but it takes one worker off production in order to manage the stand.
+
+#txt_market_n#1
+Market stand
+
+#txt_merchant_dscr#1
+Specialized distributors who make one selectable resource available to the population.
+
+#txt_merchant_n#1
+Merchant
+
+#txt_mill_dscr#1
+Crushes cereals to produce flour which is easier to stock and is used to make bread.
+
+#txt_mill_n#1
+Mill
+
+#txt_mine_dscr#1
+Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+
+#txt_mine_n#1
+Mining camp
+
+#txt_mineshaft_dscr#1
+Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+
+#txt_mineshaft_n#1
+Mining shaft
+
+#txt_ministry_dscr#1
+A unique capital building linked to the 'Ministry' policy that produces State Power.
+
+#txt_ministry_n#1
+Ministry
+
+#txt_mudcamp_dscr#1
+A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+
+#txt_mudcamp_n#1
+Soil miner
+
+#txt_oilpress_dscr#1
+Produces olive oil from olives.
+
+#txt_oilpress_n#1
+Olives press
+
+#txt_oldpcrcl_dscr#1
+A primitive way to store knowledge based on oral tradition.
+
+#txt_oldpcrcl_n#1
+Elder's circle
+
+#txt_orcbutcher_dscr#1
+Slaughters prisoners to produce bacon, the only food Orcs can consumme.
+
+#txt_orcbutcher_n#1
+Orc butcher
+
+#txt_orchuts_dscr#1
+Shoddy huts built by Orcs and piled on top of each other for their dwelling.
+
+#txt_orchuts_n#1
+Orcish dwellings
+
+#txt_orcmine_dscr#1
+Deep underground mines exploited by Orcs to mine and refine Iron directly from the depths of the earth.
+
+#txt_orcmine_n#1
+Orcish mine
+
+#txt_paddock_dscr#1
+Paddocks allow the storage of livestock resources.
+
+#txt_paddock_n#1
+Paddock
+
+#txt_palace1_dscr#1
+A unique early capital building linked to the 'Leadership' policy that produces State Power. Lavish hut where the leader resides and exercices his power.
+
+#txt_palace1_n#1
+Chief's hut
+
+#txt_palace2_dscr#1
+A unique capital building linked to the 'Leadership' policy that produces State Power. Luxurious place of residence of the State's leader and his council exercice power.
+
+#txt_palace2_n#1
+Palace
+
+#txt_paper_dscr#1
+Produces paper
+
+#txt_paper_n#1
+Paper mill
+
+#txt_pastr_dscr#1
+An enclosed area of land where cattle can feed and breed.
+
+#txt_pastr_n#1
+Pasture
+
+#txt_pastrw_dscr#1
+Pastures of wool-producing animals, regularly sheared to collect their wool.
+
+#txt_pastrw_n#1
+Wool Pasture
+
+#txt_pastregg_dscr#1
+Poultry breeds selected for their intensive egg production.
+
+#txt_pastregg_n#1
+Poultry farm
+
+#txt_pastrmilk_n#1
+Dairy Pasture
+
+#txt_pastremilk_dscr#1
+Pasture of cattle breeds selected for their milk production.
+
+#txt_platf1_dscr#1
+A cheap low resistance platform. Used to make cheap defenses and bridges.
+
+#txt_platf1_n#1
+Wooden platform
+
+#txt_platf2_dscr#1
+A solid platform used to make sturdy walls.
+
+#txt_platf2_n#1
+Stone platform
+
+#txt_postoffice_dscr#1
+Produces a communication service reducing distance factors of the regional centers to the capital and of nation subordinates, thus improving administration.
+
+#txt_postoffice_n#1
+Postal Office
+
+#txt_potter_dscr#1
+Potters refine clay into pottery. Pottery is a distributable resource filling the population's need for Furnishings.
+
+#txt_potter_n#1
+Potter
+
+#txt_prisoncamp_dscr#1
+Stores live prisoners.
+
+#txt_prisoncamp_n#1
+Prison camp
+
+#txt_quarry_dscr#1
+Essential annex of the Stonecutter, quarries can produce stone blocks or specialized blocks over special rock types.
+
+#txt_quarry_n#1
+Quarry
+
+#txt_road1_dscr#1
+A basic road that is free to build.
+
+#txt_road1_n#1
+Dirt road
+
+#txt_road2_dscr#1
+A road with pieces of wood embedded in dirt to limit mud during rainy weather.
+
+#txt_road2_n#1
+Wooden road
+
+#txt_road3_dscr#1
+A road paved with crude cobblestones.
+
+#txt_road3_n#1
+Cobblestone road
+
+#txt_road4_dscr#1
+An expensive road made of large stone blocks
+
+#txt_road4_n#1
+Stone road
+
+#txt_road5_dscr#1
+A road made of small stone blocks composed artistically.
+
+#txt_road5_n#1
+Paved road
+
+#txt_road6_dscr#1
+A fancy floor made of small, colourful tiles of stone, glass and other materials.
+
+#txt_road6_n#1
+Mosaic plaza
+
+#txt_road7_dscr#1
+A fancy floor made of shiny marble blocks
+
+#txt_road7_n#1
+Marble plaza
+
+#txt_road8_dscr#1
+An expensive road made of large, white limestone blocks
+
+#txt_road8_n#1
+Limestone road
+
+#txt_road9_dscr#1
+An expensive road made of large sandstone blocks
+
+#txt_road9_n#1
+Sandstone road
+
+#txt_rum_dscr#1
+A distillery that produces rum from sugarcane.
+
+#txt_rum_n#1
+Rumery
+
+#txt_sawmill_dscr#1
+The sawmill refines crude wood into wooden planks, a material required to build many buildings.
+
+#txt_sawmill_n#1
+Sawmill
+
+#txt_school_dscr#1
+Schools increase the intelligence of the population.
+
+#txt_school_n#1
+School
+
+#txt_scrib_dscr#1
+Scribes in the service of the state help keep track of administrative matters.
+
+#txt_scrib_n#1
+Scribe
+
+#txt_senate_dscr#1
+A unique capital building linked to the 'Republic' policy that produces State Power. A legislative building where Senators gather to discuss and make new laws.
+
+#txt_senate_n#1
+Senate
+
+#txt_stairs1_dscr#1
+Stairs that can be placed against cliffs or walls of any height to allow for passage. Press Spacebar to change their direction.
+
+#txt_stairs1_n#1
+Wooden stairs
+
+#txt_stairs2_dscr#1
+Stairs that can be placed against cliffs or walls of any height to allow for passage.  Press Spacebar to change their direction.
+
+#txt_stairs2_n#1
+Stone stairs
+
+#txt_state_court_dscr#1
+An expensive unique capital building linked to the 'Court' policy and produces some State Power. A luxurious building used to host subordinates and vassals in splendor in order to better control them.
+
+#txt_state_court_n#1
+Great Hall
+
+#txt_state_dptmnt_dscr#1
+A costly capital building that produces some additionnal State Power. A governmental administrative building where Civil Servants specialize in managing specific domains of governance, improving its administration.
+
+#txt_state_dptmnt_n#1
+State Department
+
+#txt_state_rcrds_dscr#1
+A unique capital building that produces State Power. A building dedicated to keeping Government documents, improving its administration.
+
+#txt_state_rcrds_n#1
+Government Archives
+
+#txt_steel_dscr1#1
+Produces steel by carburization of wrought iron through smithing.
+
+#txt_steel_dscr2#1
+Produces steel by decarburization of cast iron by melting it.
+
+#txt_steel_n#1
+Steel mill
+
+#txt_stonecut_dscr#1
+Can exploit rock tiles in range to produce crude stone. Quarry annexes produce stone blocks or specialized blocks over tiles of a valid rock type.
+
+#txt_stonecut_n#1
+Stonecutter camp
+
+#txt_storegrnd_dscr#1
+Ground marked as a storage area. It's free, but unguarded and doesn't have a high storage capacity per tile.
+
+#txt_storegrnd_n#1
+Ground storage
+
+#txt_tannery_dscr#1
+Tanneries refine leather into leather clothes, a distributable resource filling the population's need for clothing.
+
+#txt_tannery_n#1
+Tannery
+
+#txt_tavern_dscr#1
+A place of social gathering to drink and party.
+
+#txt_tavern_n#1
+Tavern
+
+#txt_taxcol_dscr#1
+Reduces waste by ensuring population pays their taxes correctly.
+
+#txt_taxcol_n#1
+Tax collector
+
+#txt_theater_dscr#1
+Provides entertainement to the Porcos.
+
+#txt_theater_n#1
+Theater
+
+#txt_toolmk_dscr#1
+Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+
+#txt_toolmk_n#1
+Tool-maker
+
+#txt_tow1_dscr#1
+A cheap but weak defensive tower made of leather covered wood. Fires arrows.
+
+#txt_tow1_n#1
+Watchtower
+
+#txt_tow2_dscr#1
+A defensive tower made of thick wooden beams. Fires arrows.
+
+#txt_tow2_n#1
+Wooden tower
+
+#txt_tow3_dscr#1
+Stone towers are much sturdier than their wooden counterparts. Fires arrows.
+
+#txt_tow3_n#1
+Stone tower
+
+#txt_tow4_dscr#1
+This tower is built out of solid stone blocks to increase resistance to enemy artillery. Fires arrows.
+
+#txt_tow4_n#1
+Heavy tower
+
+#txt_townhall_dscr#1
+The regionnal administration center building required for a Town.
+
+#txt_townhall_n#1
+Town Hall
+
+#txt_treasury_dscr#1
+A unique capital building linked to the 'Treasury' policy that produces State Power. Manages the State's treasury.
+
+#txt_treasury_n#1
+Treasury
+
+#txt_trmarket_dscr#1
+Allows the creation of bulk trade offers to exchange goods with other territories.
+
+#txt_trmarket_n#1
+Market
+
+#txt_wall1_dscr#1
+A simple defensive wall made of timber.
+
+#txt_wall1_n#1
+Palisade
+
+#txt_wall2_dscr#1
+A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palissade.
+
+#txt_wall2_n#1
+Mudbrick wall
+
+#txt_wall3_dscr#1
+A simple defensive wall made of cobblestone held together with crude masonry.
+
+#txt_wall3_n#1
+Cobblestone wall
+
+#txt_wall4_dscr#1
+A simple defensive wall made of fired bricks. Stronger than mudbricks.
+
+#txt_wall4_n#1
+Brick wall
+
+#txt_wall5_dscr#1
+A solid defensive wall made of stone blocks.
+
+#txt_wall5_n#1
+Stoneblocks wall
+
+#txt_warehouse_dscr#1
+Warehouses can store all types of basic materials. They are guarded and can store a larger number of resources than ground storages.
+
+#txt_warehouse_n#1
+Warehouse
+
+#txt_wash_dscr#1
+A place where people can come wash their laundry.
+
+#txt_wash_n#1
+Washhouse
+
+#txt_watercol_dscr#1
+A place where people can collect fresh water from rivers or lakes.
+
+#txt_watercol_n#1
+Water collector
+
+#txt_waterwheel_dscr#1
+Provides mechanical power to the building, improving its efficiency.
+
+#txt_waterwheel_n#1
+Waterwheel
+
+#txt_weapmk_dscr#1
+Weapon-makers can produce a wide range of weapons and armors which are used to equip and recruit troops.
+
+#txt_weapmk_n#1
+Weapon-maker
+
+#txt_weaver_dscr#1
+The weaver refines different raw materials (cotton, flax, wool...) into textiles. Textiles can then be used for various things like clothesmaking.
+
+#txt_weaver_n#1
+Weaver
+
+#txt_well_dscr#1
+Extracts water from the ground.
+
+#txt_well_n#1
+Well
+
+#txt_windwheel_dscr#1
+Provides mechanical power to the building, improving its efficiency.
+
+#txt_windwheel_n#1
+Windwheel
+
+#txt_winery_dscr#1
+Produces wine from grapes.
+
+#txt_winery_n#1
+Wine cellar
+
+#txt_woodc_dscr#1
+Woodcutters can exploit most of the available trees in range to produce wood.
+
+#txt_woodc_n#1
+Woodcutter
+
+#txt_brutes_n#1
+Brutes hut
+
+#txt_brutes_dscr#1
+Powerful warriors of the tribe whose loyalty is bought in nature and who keep protestors in check.
