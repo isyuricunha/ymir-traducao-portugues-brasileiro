@@ -1,0 +1,1272 @@
+#tuto_0_1#1
+Saudações, novoporco! Eu sou o Porco Sábio, seu assistente de tutorial. 
+
+#tuto_0_2#1
+Estou aqui para guiá-lo pelos primeiros passos do jogo e explicar como as coisas funcionam.
+
+#tuto_0_c1#1
+Conte-me mais!--1
+
+#tuto_0_c2#1
+Eu queria fazer o tutorial, mas agora que vi sua cara feia, prefiro pular.--82
+
+#tuto_1_1#1
+No momento, você está no mapa-múndi. Cada tile é um 'território' que você pode explorar e colonizar. 
+
+#tuto_1_2#1
+No início, a maior parte do mapa está inexplorada, exceto os poucos territórios ao redor da sua tribo.
+
+#tuto_1_c1#1
+Muito bem... e agora?--2--1
+
+#tuto_10_1#1
+Para se sustentarem, seus porcos precisam de comida e água, ou morrerão rapidamente. Eles trouxeram um pouco de comida, mas nenhuma água: a primeira coisa urgente a fazer é montar um ponto de coleta de água na margem de um ponto de água doce.
+
+#tuto_10_c1#1
+Como faço isso?--11--8
+
+#tuto_100_1#1
+Como ousa!
+
+#tuto_100_c1#1
+Você nem existe. É apenas um script de linhas pré-escritas pseudointerativas, feito apenas para meu entretenimento pessoal.--101
+
+#tuto_101_1#1
+Você está mentindo!
+
+#tuto_101_c1#1
+Posso me livrar de você a qualquer momento editando o arquivo .ini deste jogo.--102
+
+#tuto_102_1#1
+Não pode, não! Você ficará perdido neste jogo sem mim. Você PRECISA de mim.
+
+#tuto_102_c1#1
+Posso sim, e vou. Agora mesmo.--103--51
+
+#tuto_102_c2#1
+Poderia, sim. Mas sou um deus generoso. Vou deixar você continuar com seu propósito.--1
+
+#tuto_103_1#1
+Só depois de invocar meu exército de Ursos e exterminar sua tribo insignificante. Morra, Fetcher!
+
+#tuto_103_c1#1
+Como... que tipo de tutorial maluco é esse?!--999
+
+#tuto_104_1#1
+Ah, porque você é um expert em ursos!
+
+#tuto_104_c1#1
+Na verdade, sou sim.--105
+
+#tuto_105_1#1
+Tudo bem. Se é tão expert assim, então responda: como se chama um grupo de ursos? Se acertar, eu vou embora. Se errar, terá que aguentar meu tutorial.
+
+#tuto_105_c1#1
+Um grupo de ursos.--106
+
+#tuto_105_c2#1
+Uma banda.--107
+
+#tuto_105_c3#1
+Uma preguiça.--108
+
+#tuto_105_c4#1
+Uma congregação.--107
+
+#tuto_106_1#1
+Você é sábio, jovem leitão. Mais sábio do que parece. Está bem, vou deixá-lo em paz. Mas tem certeza de que quer pular este tutorial?
+
+#tuto_106_c1#1
+Sim.--999
+
+#tuto_106_c2#1
+Não. Eu venci, mas vou tolerar seu tutorial.--1
+
+#tuto_107_1#1
+Errado! Seu leitão tolo! Agora preste atenção e sofra com meu tutorial interminável!
+
+#tuto_107_c1#1
+Droga...--1
+
+#tuto_108_1#1
+Você pesquisou no Google, não foi.
+
+#tuto_108_c1#1
+Não.--109
+
+#tuto_109_1#1
+Você pesquisou. Eu sei. Apenas admita, ou enfrente consequências irreversíveis!
+
+#tuto_109_2#1
+Eu sou o Mestre dos Ursos. Se não confessar, convocarei meu exército de ursos vingativos e exterminarei você e sua tribo insignificante! Depois, nada mais de tutorial para você, SENHOR leitão! Você ficará sozinho neste jogo cruel e implacável, com suas interfaces e menus confusos e contra-intuitivos. Então pense bem antes de fazer qualquer bobagem como me desafiar. Esta é sua última chance!
+
+#tuto_109_c1#1
+Eu não vou!--110--51
+
+#tuto_11_1#1
+Esta é a aba de construções do território, onde você pode ver todos os seus edifícios atualmente disponíveis e ordenar sua construção neste território.
+
+#tuto_11_2#1
+Na primeira aba de construções de "moradia", selecione o edifício "Coletor de Água". 
+
+#tuto_110_1#1
+Você TRAPACEOU! Por isso, merece um castigo inSUportável! É hora dos meus ursos despedaçarem sua tribo insolente!
+
+#tuto_110_c1#1
+Não acredito nisso...--999
+
+#tuto_111_1#1
+Agora vamos esperar até que o projeto seja concluído...
+
+#tuto_112_1#1
+Pronto! Agora você pode construir sua primeira moradia sólida: uma cabana rústica primitiva. 
+
+#tuto_112_2#1
+Atualmente, sua tribo está vivendo em 'favelas'. Favelas são moradias de 1 tile que surgem automaticamente quando não há habitação adequada disponível. Elas também desaparecem automaticamente quando há casas vazias disponíveis, à medida que seus moradores se mudam para elas.
+
+#tuto_112_c1#1
+Qual a utilidade de fornecer boas casas?--113
+
+#tuto_113_1#1
+Favelas não oferecem bônus, enquanto casas melhoram a Saúde e a Qualidade de Vida de seus moradores. A qualidade de vida aumenta a Inteligência, enquanto a Saúde diminui doenças, o que reduz a quantidade de seus porcos morrendo a cada geração. 
+
+#tuto_113_2#1
+Melhorar essas duas estatísticas aumentará a felicidade e o crescimento da sua população, dando-lhe mais Ativos para empregar em edifícios ou exércitos.
+
+#tuto_113_c1#1
+Bom saber!--114
+
+#tuto_114_1#1
+Sua próxima tarefa é usar seus recursos iniciais para começar a construir suas primeiras cabanas adequadas. Uma vez concluídas, as favelas desaparecerão progressivamente à medida que a população se mudar para as novas casas. 
+
+#tuto_114_2#1
+Você também pode acelerar esse processo destruindo manualmente as favelas. Se destruir mais do que há espaço disponível, novas simplesmente reaparecerão em outro lugar, então você não pode perder população!
+
+#tuto_114_c1#1
+Muito bem.--115
+
+#tuto_115_1#1
+Esta é a ferramenta de destruição. É o que você usa para ordenar a destruição de infraestruturas, limpar terrenos ou desconstruir edifícios. Quando clica com o botão direito nela, você pode filtrar o que deseja destruir.
+
+#tuto_115_2#1
+Quando você ordena a desconstrução de um edifício, recupera cerca de metade dos materiais iniciais.
+
+#tuto_115_c1#1
+Ótimo!--116
+
+#tuto_116_1#1
+Agora complete sua tarefa atual construindo pelo menos 10 cabanas para sua população.
+
+#tuto_117_1#1
+Bom! Como recompensa, novas famílias se estabeleceram em seu território, o que nos ajudará para o próximo passo: criar sua primeira expedição para caçar e explorar.
+
+#tuto_117_c1#1
+Por que isso?--131
+
+#tuto_118_1#1
+Manadas são grupos de unidades animais. Elas são finitas e não são um recurso permanente: não podem ser exploradas pelo edifício Caçador. 
+
+#tuto_118_2#1
+Como 'unidades', elas são visíveis no mapa-múndi e podem ser caçadas sem a necessidade de um assentamento.
+
+#tuto_118_c1#1
+Como eu as caço, então?--119
+
+#tuto_119_1#1
+Para caçá-las, você precisa formar uma expedição.
+
+#tuto_119_2#1
+Enquanto uma milícia é apenas um conjunto de armas para serem usadas pela sua população em caso de ataque, um 'exército' regular é um grupo de unidades reais que são removidas da sua população e mobilizadas permanentemente. Um exército pode se mover para outros territórios e realizar ações como caçar.
+
+#tuto_119_c1#1
+Entendido, então o que eu faço?--120
+
+#tuto_12_1#1
+Este edifício é gratuito e não requer trabalhadores: ele simplesmente representa um ponto na margem limpo e nivelado para permitir que seus porcos tenham fácil acesso à água doce: eles a buscarão sozinhos conforme precisarem. Tente colocá-lo ao lado de tiles de água: ele precisa ter uma borda adjacente à água para funcionar.
+
+#tuto_120_1#1
+Agora crie uma nova formação 'Exército' e recrute pelo menos 10 guerreiros nela. 
+
+#tuto_120_2#1
+Desta vez, note que eles serão removidos da sua população atual, pois não é uma 'Milícia', então você nunca vai querer recrutar todos os seus ativos em um exército, porque isso esvaziaria todos os seus edifícios de produção de seus trabalhadores.
+
+#tuto_121_1#1
+Selecione sua formação 'Exército' clicando em seu acampamento ou clicando em seu botão na aba Formações.
+
+#tuto_122_1#1
+No menu da formação selecionada, clique no botão "+" para adicionar tropas adicionais ao seu exército já existente.
+
+#tuto_123_1#1
+Exércitos podem carregar bens e têm seu próprio inventário, cuja capacidade depende das unidades nele. Carregadores são unidades não combatentes que simplesmente fornecem muita capacidade de inventário para sua Formação.
+
+#tuto_123_2#1
+Você precisa recrutar pelo menos 3 deles.
+
+#tuto_124_1#1
+Você pode ver o inventário da sua formação clicando na aba de inventário no menu dela.
+
+#tuto_124_2#1
+Lá você pode ver a capacidade atual de inventário e pode carregar ou descarregar recursos da sua formação para o seu território.
+
+#tuto_124_c1#1
+Entendido!--125
+
+#tuto_125_1#1
+Agora que sua primeira expedição está pronta, volte para a visão do mapa-múndi para começar a explorar outros territórios.
+
+#tuto_126_1#1
+Na visão do mapa-múndi, todas as suas formações serão visíveis e você pode selecioná-las e dar ordens a elas. 'Milícias' também aparecerão, mas não podem ser movidas, pois estão vinculadas ao seu território!
+
+#tuto_126_2#1
+Você também pode recrutar, dissolver, carregar e descarregar recursos diretamente do mapa-múndi.
+
+#tuto_126_c1#1
+Ok!--127
+
+#tuto_127_1#1
+Agora, cuidado! Apenas os tiles próximos à sua tribo são visíveis, enquanto o resto permanece oculto até que você os explore pela primeira vez. Mas sempre que você descobrir novos tiles pela primeira vez, seu grupo de exploradores pode acionar um "evento de exploração".
+
+#tuto_127_c1#1
+Entendido.--132
+
+#tuto_128_1#1
+Agora tente localizar uma 'manada': um grupo de unidades de animais, e explore novos tiles se precisar. Selecione a formação da manada assim que encontrar uma.
+
+#tuto_128_c1#1
+Não consigo encontrar nenhuma...
+
+#tuto_129_1#1
+Essa é uma 'manada'. Você pode ver quantos animais ela tem e pode clicar no inventário dela para ver seu 'saque': a quantidade total de carne e couro que você pode obter ao matá-los.
+
+#tuto_129_2#1
+Com sua formação de guerreiros selecionada, você pode clicar com o botão direito no tile do território onde a manada está, e a ação "Caçar" estará disponível.
+
+#tuto_129_c1#1
+O que acontece em seguida?--130
+
+#tuto_13_1#1
+Agora que a necessidade de água dos seus porcos está satisfeita, eles precisam de fontes sustentáveis de comida, pois seus estoques logo acabarão. 
+
+#tuto_13_c1#1
+Comida, por favor!--14--10
+
+#tuto_130_1#2
+Com a ação de caça, será iniciada uma 'batalha' instantânea entre seus guerreiros e os animais da manada.
+
+#tuto_130_2#2
+Se seus guerreiros forem bem-sucedidos, parte ou todo o saque dos animais será transferido para o inventário da sua formação, que você poderá então trazer de volta e descarregar em seu território, fornecendo comida extra para sustentar o crescimento da sua tribo!
+
+#tuto_130_c1#1
+Excelente!--69
+
+#tuto_131_1#1
+Como caçadores e coletores, você atualmente depende apenas de suas fontes naturais de comida, que podem rapidamente se tornar insuficientes para sua tribo. Você precisa explorar territórios ao redor da sua aldeia e caçar Manadas para fornecer a comida extra que precisará para sustentar o crescimento da sua tribo.
+
+#tuto_131_c1#1
+O que são Manadas?--118
+
+#tuto_132_1#1
+Esses eventos podem ser perigosos, mas também podem ser recompensadores, dando a você novos recursos e unidades. Para ter alguma chance de explorar com sucesso, sempre faça isso com um grupo de 10 ou mais porcos. Uma vez que um território tenha sido explorado uma vez, você poderá então se mover com segurança por ele, pois não acionará nenhum novo evento de exploração.
+
+#tuto_132_c1#1
+Bom saber!--128
+
+#tuto_14_1#1
+Existem 2 tipos de fontes naturais de alimentos: plantas comestíveis e áreas de animais selvagens. O primeiro pode ser explorado pelo prédio Fazenda e o segundo pelo Caçador.
+
+#tuto_14_2#1
+Fazendas e Caçadores são prédios que exploram recursos naturais. Eles precisam ser colocados perto de recursos válidos. Agora, comece tentando colocar um caçador.
+
+#tuto_15_1#1
+Quando você está colocando um prédio que explora recursos naturais, uma área de tiles aparece destacada ao redor dele: é o alcance de produção do prédio.  
+
+#tuto_15_2#1
+Tiles cinzas e vermelhos significam que não há nada explorável: você precisa procurar pelos tiles destacados em VERDE, indicando um recurso explorável válido para o prédio.
+
+#tuto_15_3#1
+Varra o território com o prédio selecionado para procurar um local válido para colocá-lo.
+
+#tuto_15_c1#1
+Como reconheço animais exploráveis?--16
+
+#tuto_15_c2#1
+Como reconheço plantas comestíveis?--18
+
+#tuto_16_1#1
+Uma área natural de animais selvagens é um único tile que ficará verde ao colocar um Caçador. Há alguns animais visíveis andando ao redor dele. Um caçador é suficiente, pois é apenas um único tile.
+
+#tuto_16_c1#1
+Entendi.--15
+
+#tuto_16_c2#1
+Vejo animais, mas o Caçador não parece conseguir explorá-los.--17
+
+#tuto_17_1#1
+Às vezes, os animais estão presentes em um território como uma 'manada'. Manadas são grupos temporários e esgotáveis de animais e não podem ser caçados de forma permanente e sustentável por um prédio Caçador: você precisará caçá-los manualmente com unidades. Ignore-os por enquanto.
+
+#tuto_17_c1#1
+Muito bem...--15
+
+#tuto_18_1#1
+Áreas de plantas comestíveis são geralmente grandes manchas de plantas ou árvores de aparência semelhante. Se a mancha for grande, você pode colocar várias Fazendas ao redor para explorá-la completamente.
+
+#tuto_18_c1#1
+Muito bem.--15
+
+#tuto_19_1#1
+Agora você começou a satisfazer as 2 necessidades urgentes de sua tribo: água e comida. Essas 2 necessidades combinadas formam algo chamado "Necessidades Vitais".
+
+#tuto_19_2#1
+Quando as Necessidades Vitais não são totalmente satisfeitas, significa que alguns de seus Porcos estão sofrendo de desnutrição e morrendo.
+
+#tuto_19_c1#1
+Bom saber.--20--13
+
+#tuto_2_1#1
+Este é um evento de missão. Às vezes, você receberá missões que pode completar para desbloquear recompensas. Aqui, sua primeira tarefa é simplesmente estabelecer sua tribo em seu primeiro território.
+
+#tuto_2_c1#1
+Sim... sim... Vamos começar então!--3--2
+
+#tuto_20_1#1
+Este botão abre um menu importante: o "Menu do Território". 
+
+#tuto_20_2#1
+Ele mostra tudo o que você precisa saber sobre o território em que está, permitindo que você verifique sua situação e diagnostique seus problemas. Clique para abri-lo.
+
+#tuto_21_1#1
+Este menu contém muitas informações combinadas. A metade superior é um resumo global do território com todas as estatísticas importantes em um único espaço.
+
+#tuto_21_2#1
+A metade inferior do menu é um conjunto de abas, cada uma fornecendo detalhes mais aprofundados sobre uma estatística específica do território: economia, crescimento, administração...
+
+#tuto_21_c1#1
+Ok!--22
+
+#tuto_22_1#1
+Esta é a parte importante para observar agora: as necessidades vitais globais de sua população que mencionei anteriormente. 
+
+#tuto_22_2#1
+Ela precisa permanecer mais ou menos acima de 70%: significando que a maioria das pessoas em sua tribo tem comida e água suficientes para não morrer de fome. É um valor importante que você sempre terá que monitorar.
+
+#tuto_22_c1#1
+Muito bem.--23--15
+
+#tuto_23_1#1
+Logo acima está o Crescimento do território: a variação atual de sua população. Este é o valor que você mais observará no início do jogo.
+
+#tuto_23_2#1
+Crescimento positivo significa que sua população está aumentando e você obterá novos Porcos ativos que podem ser empregados em prédios. 
+
+#tuto_23_3#1
+Atender às Necessidades Vitais é essencial para manter um crescimento positivo, mas não é o único fator que o influencia.
+
+#tuto_23_c1#1
+Entendi.--26--16
+
+#tuto_23_c2#1
+Quais são os fatores que influenciam o Crescimento?--24
+
+#tuto_23_c3#1
+Como posso melhorar o Crescimento?--25
+
+#tuto_24_1#1
+Você pode clicar na aba "Crescimento" para acessar detalhes sobre o Crescimento global da sua população. O Crescimento é resultado de 2 fatores principais: a vontade da população de ter filhos e a sobrevivência deles. 
+
+#tuto_24_2#1
+A vontade de ter filhos está detalhada na coluna do lado direito e é afetada principalmente pela Qualidade de Vida da população.
+
+#tuto_24_3#1
+A sobrevivência dos leitões até a idade adulta é afetada principalmente pela Saúde global da sua população.
+
+#tuto_24_c1#1
+Entendi.--26--16
+
+#tuto_24_c2#1
+Então, como posso melhorá-lo?--25
+
+#tuto_25_1#1
+Primeiro, certifique-se de que suas Necessidades Vitais estão satisfeitas. Depois, você vai querer melhorar a Saúde e a Qualidade de Vida globais o máximo possível.
+
+#tuto_25_2#1
+Forneça boas moradias para sua população, comida diversificada e, de modo geral, tente atender ao máximo as necessidades da sua população!
+
+#tuto_25_c1#1
+Entendi.--26--16
+
+#tuto_26_1#1
+Esta é a sua população atual. Ela está dividida em grupos de "Classes Sociais", cada uma representada por um botão.
+
+#tuto_26_2#1
+"Inativos" é a classe padrão dos Porcos adultos atualmente desempregados e disponíveis para trabalhar em novos edifícios. Quando um porco começa a trabalhar em um edifício, ele é convertido para a classe social que o edifício emprega.
+
+#tuto_26_c1#1
+Entendido. E agora?--27
+
+#tuto_27_1#1
+Antes de construir novos edifícios de produção, você vai querer verificar se tem inativos suficientes para trabalhar neles.
+
+#tuto_27_2#1
+Você ainda deve ter uma quantidade razoável de Porcos Inativos disponíveis: vamos mantê-los ocupados e passar para a próxima missão!
+
+#tuto_27_c1#1
+Estou pronto.--28--17
+
+#tuto_28_1#1
+Construir coisas requer recursos, e um dos mais comumente necessários no início são Martelos, feitos de Sílex.
+
+#tuto_28_2#1
+Você deve agora produzir seus primeiros Martelos, pois seus estoques logo acabarão conforme for construindo. 
+
+#tuto_28_c1#1
+Ok.--29--18
+
+#tuto_29_1#1
+Martelos serão seu primeiro "produto industrial": um recurso que é fabricado a partir de outros recursos.
+
+#tuto_29_2#1
+Martelos requerem sílex — um recurso natural — que você pode produzir com o Coletor de Sílex.
+
+#tuto_29_3#1
+Comece construindo um Coletor de Sílex em um local válido, perto de qualquer terreno com aparência de cascalho.
+
+#tuto_3_1#1
+Eventos aparecerão como bandeiras no topo da tela, e você também pode revisá-los todos clicando neste botão ao lado das bandeiras.
+
+#tuto_3_c1#1
+Obrigado, senhor Porco, podemos continuar?--4--3
+
+#tuto_30_1#1
+Muito bem! Agora você pode construir a Fábrica de Ferramentas.
+
+#tuto_30_2#1
+Ao contrário dos produtores naturais, as indústrias podem ser colocadas em qualquer lugar, pois não exploram nenhum recurso natural: elas combinam recursos existentes.
+
+#tuto_308_1#1
+Parece que você precisará construir mais de uma Fábrica de Ferramentas para atingir +1 de produção de Martelos: construa outra!
+
+#tuto_309_1#1
+Além disso, certifique-se de que seus novos edifícios tenham trabalhadores suficientes: clique neles para abrir seus menus e verifique se ambos têm a quantidade de trabalhadores necessária.
+
+#tuto_309_2#1
+Se alguns estiverem faltando, você pode clicar no ícone do trabalhador e selecionar "Contratar um" para forçar um trabalhador a entrar neste prédio.
+
+#tuto_309_3#1
+Você também pode alterar a prioridade de emprego para alta ou crítica e, ao forçar a contratação de um trabalhador, ele será retirado de prédios com prioridade mais baixa.
+
+#tuto_310_1#1
+Assim como com os Fabricantes de Ferramentas, você precisará de mais de um Lenhador para atingir +1 de produção de Madeira: construa um segundo!
+
+#tuto_300_1#1
+Parabéns! Parece que você desbloqueou o conhecimento da agricultura pela primeira vez!
+
+#tuto_300_c1#1
+De fato.--301
+
+#tuto_300_c2#1
+Não, não preciso da sua ajuda, obrigado!--998
+
+#tuto_301_1#1
+A agricultura agora permite que você crie campos com seus acampamentos de coleta. Campos não são prédios: são 'anexos'.
+
+#tuto_301_2#1
+Um anexo é construído e vinculado ao prédio que o possui. Ele fornece fontes adicionais de produção, distribuição ou até mesmo bônus, como aumentar sua eficiência.
+
+#tuto_301_c1#1
+Muito bem.--302
+
+#tuto_302_1#1
+Campos são um anexo de produção para seus acampamentos de coleta. Graças a eles, você agora pode colocar novos acampamentos de coleta independentemente da presença de recursos naturais exploráveis, pois pode criá-los com campos!
+
+#tuto_302_2#1
+Para criar campos, selecione um de seus acampamentos de coleta para abrir o menu do prédio.
+
+#tuto_303_1#1
+Os anexos disponíveis para um prédio aparecem na parte inferior do menu do prédio. Clique no novo botão Campo para colocar campos para este acampamento de coleta.
+
+#tuto_304_1#1
+Campos custam enxadas para serem criados, além de uma unidade de recurso do tipo de cultura (como sementes). Uma vez colocados, são permanentes e cada campo adiciona uma nova "fonte de produção" ao prédio ao qual estão vinculados.
+
+#tuto_304_2#1
+A fertilidade do solo afeta a produtividade dos campos: tente colocá-los nos terrenos mais férteis (a água subterrânea ainda não é eficaz).
+
+#tuto_304_c1#1
+Entendi!--305
+
+#tuto_305_1#1
+Cada campo requer mão de obra do seu prédio para ser explorado. Se a mão de obra do acampamento de coleta já estiver 100% utilizada, é inútil adicionar novos campos até que alguma esteja disponível. Isso pode acontecer após atualizar o prédio ou alterar políticas que afetem a eficiência do prédio.
+
+#tuto_305_c1#1
+Bom saber.--306
+
+#tuto_306_1#1
+A agricultura também desbloqueia um novo tipo de ferramenta necessária para fazer campos: enxadas. Para fabricá-las, você pode clicar em um de seus fabricantes de ferramentas e mudar sua produção de martelos para enxadas!
+
+#tuto_306_c1#1
+Ok!--307
+
+#tuto_307_1#1
+É só por enquanto, aproveite a agricultura!
+
+#tuto_307_c1#1
+Obrigado, senhor Porco Sábio.--998
+
+#tuto_31_1#1
+Ótimo, você agora está produzindo seus primeiros Martelos!
+
+#tuto_31_2#1
+Martelos são o seu primeiro tipo de ferramenta. Mais tarde, você desbloqueará novas ferramentas, que também serão necessárias para muitas construções.
+
+#tuto_31_3#1
+Ao contrário de recursos como alimentos, ferramentas não são consumidas pela população para satisfazer suas necessidades: são usadas apenas pelo jogador.
+
+#tuto_31_c1#1
+Ok.--32--21
+
+#tuto_32_1#1
+Esta é a aba de recursos do seu território: ela lista todos os recursos produzidos e atualmente nos armazéns do território. É aqui também que você poderá negociar, comprar, vender ou transportar recursos entre territórios mais tarde.
+
+#tuto_32_2#1
+Clique para abrir a aba.
+
+#tuto_33_1#1
+Cada botão mostra um tipo de recurso atualmente armazenado ou produzido no território. Em cada botão, você pode ver a quantidade estocada, um sinal indicando sua variação atual e seu preço local.
+
+#tuto_33_2#1
+Agora clique em um desses botões para abrir o Menu de Recursos.
+
+#tuto_34_1#1
+O Menu de Recursos fornece todos os detalhes sobre um recurso específico: produção, consumo pela população ou indústrias, preço...
+
+#tuto_34_c1#1
+Ok.--35--24
+
+#tuto_35_1#1
+Isso também dá acesso a algumas opções específicas de recursos. 
+
+#tuto_35_2#1
+A primeira é a política de armazenamento: você pode alterar as regras para armazenar esse recurso específico, como permitir apenas em armazenamentos específicos ou proibi-lo totalmente.
+
+#tuto_35_c1#1
+Entendi.--38--25
+
+#tuto_35_c2#1
+O que acontece quando não há espaço para armazenar as coisas?--36
+
+#tuto_35_c3#1
+O que é o modo "somente em restritos"?--37
+
+#tuto_36_1#1
+Se não houver espaço disponível, os recursos serão colocados diretamente no chão, onde irão se deteriorar e eventualmente se perder, a menos que sejam armazenados corretamente rapidamente. 
+
+#tuto_36_2#1
+Recursos extras no chão serão realocados automaticamente para qualquer armazenamento válido se houver espaço livre.
+
+#tuto_36_c1#1
+Entendi.--38--25
+
+#tuto_36_c2#1
+O que é o modo "somente em restritos"?--37
+
+#tuto_37_1#1
+Ao clicar em um edifício de armazenamento, você pode defini-lo como "restrito" e controlar quais recursos são permitidos nele. 
+
+#tuto_37_2#1
+Se você definir a política de armazenamento de um recurso como "somente em restritos" neste menu, ele SOMENTE será permitido em armazenamentos que estejam no modo "restrito" E que tenham sido configurados para permitir esse recurso específico. Se não houver espaço, os recursos serão destruídos.
+
+#tuto_37_c1#1
+Entendi.--38--25
+
+#tuto_37_c2#1
+O que acontece quando não há espaço para armazenar as coisas?--36
+
+#tuto_38_1#1
+A segunda é a opção "Manter estoque": ela permite garantir que parte dos recursos produzidos seja reservada para manter uma certa quantidade em estoque, independentemente de qualquer coisa. É muito útil para manter estoques de alimentos, por exemplo, independentemente do consumo da população.
+
+#tuto_38_c1#1
+Bom saber!--39--26
+
+#tuto_39_1#1
+Por enquanto, seu único armazenamento disponível é o "Armazenamento no chão": um armazenamento gratuito, mas ineficiente, para recursos básicos. É apenas o chão marcado para armazenar coisas. 
+
+#tuto_39_2#1
+Mais tarde, você desbloqueará edifícios de armazenamento adequados, que podem armazenar muito mais em uma área menor.
+
+#tuto_39_c1#1
+Muito bem.--40
+
+#tuto_4_1#1
+Você começa com um único grupo de unidades (uma 'formação') que é a tribo primitiva de nômades que você controla atualmente. Clique nele para selecioná-lo.
+
+#tuto_40_1#1
+Nem todos os recursos podem ser armazenados em qualquer lugar: algumas categorias específicas de recursos exigem tipos específicos de armazenamento.
+
+#tuto_40_2#1
+Por exemplo, alimentos como carne ou trigo só podem ser armazenados em celeiros, e o gado requer Currais. Porém, por enquanto, você não tem acesso a esses edifícios.
+
+#tuto_40_c1#1
+Ok.--41--27
+
+#tuto_400_1#1
+Parece que é a primeira vez que você descobre o conhecimento de "Escambo"! 
+
+#tuto_400_2#1
+Isso permite habilitar a política econômica de "troca justa". É uma transição marcante para sua sociedade que requer a explicação de algumas coisas novas...
+
+#tuto_400_c1#1
+Continue...--401
+
+#tuto_401_1#1
+Ao habilitar a "troca justa", você fará a transição de uma economia de dádiva para uma economia de escambo, onde as pessoas não compartilham mais livremente seus bens entre si esperando retribuições futuras.
+
+#tuto_401_c1#1
+E daí?--402
+
+#tuto_402_1#1
+Então, as pessoas terão propriedades e negociarão bens de valor equivalente imediatamente. Sua população terá rendas dependendo de suas atividades e também poderá aumentar seu nível de riqueza além de 1 como consequência.
+
+#tuto_402_c1#1
+Ok--403
+
+#tuto_403_1#1
+Mais importante ainda, enquanto estiver em uma economia de doação, seu povo pode acessar automaticamente qualquer um dos recursos disponíveis que desejar, mas isso não será mais o caso assim que você ativar a "troca justa".
+
+#tuto_403_2#1
+Para que as pessoas tenham acesso a um recurso, ele precisará ser distribuído primeiro e elas terão que comprá-lo.
+
+#tuto_403_c1#1
+Como posso fazer isso?--404
+
+#tuto_403_c2#1
+Muito bem. E então?--405
+
+#tuto_404_1#1
+Existem duas maneiras de fazer isso. A primeira é com um novo prédio, o mercador, que só faz distribuição. Ele 'consome' um recurso específico dos estoques do território e o disponibiliza para a população comprar.
+
+#tuto_404_2#1
+Os comerciantes ficam com uma parte da renda das vendas, enquanto o restante vai para os produtores originais do recurso.
+
+#tuto_404_c1#1
+Qual é a outra maneira?--405
+
+#tuto_405_1#1
+Todos os prédios de produção também têm acesso a um novo tipo de anexo: barracas de mercado. Assim como outros anexos, como campos para fazendas, elas estão disponíveis no menu do prédio de produção. 
+
+#tuto_405_2#1
+Esses anexos consomem parte da mão de obra do prédio, mas disponibilizam toda a produção do prédio para que as pessoas comprem. 
+
+#tuto_405_c1#1
+Então, qual é a diferença entre os dois métodos?--406
+
+#tuto_406_1#1
+Barracas de mercado são gratuitas, consomem mão de obra e não podem distribuir recursos dos estoques. Elas só vendem a produção atual do prédio.
+
+#tuto_406_2#1
+Os mercadores vendem qualquer recurso disponível — produzido ou armazenado —, mas exigem um trabalhador e não são gratuitos para construir. Além disso, eles ficam com uma parte de todas as vendas, reduzindo a renda dos produtores.
+
+#tuto_406_c1#1
+Muito bem. E agora?--407
+
+#tuto_407_1#1
+Uma vez que a "troca justa" é ativada, sua população não terá mais acesso a nenhum recurso — incluindo comida — que não seja 'distribuído' por mercadores ou barracas de mercado. 
+
+#tuto_407_2#1
+Será urgente que você comece disponibilizando comida (e depois outros recursos, como cerâmica etc.) novamente para seu povo, construindo mercadores ou configurando barracas de mercado em seus prédios de produção.
+
+#tuto_407_c1#1
+Ok!--408
+
+#tuto_407_c2#1
+Espere... Como é que eu faço isso mesmo?--404
+
+#tuto_408_1#1
+Agora, graças ao escambo, seus trabalhadores serão muito mais eficientes e sua sociedade mais estável, com menos conflitos, permitindo que você gerencie uma comunidade maior com menos riscos de instabilidade. 
+
+#tuto_408_2#1
+Você também poderá controlar se e quanto deseja distribuir de cada recurso produzido, dependendo de suas necessidades, algo que não pode fazer em uma economia de doação!
+
+#tuto_408_c1#1
+Bom saber.--409
+
+#tuto_409_1#1
+Como a troca justa permite uma forma primitiva de moeda, agora você também terá que gerenciar o saldo do tesouro do governo, que é responsável por todos os serviços globais da comunidade, como a manutenção de prédios comuns, as paliçadas da aldeia ou os exércitos. Esses serviços também exigem pagamentos quando você não está em uma economia de doação!
+
+#tuto_409_c1#1
+Como faço para financiar tudo isso?--410
+
+#tuto_41_1#1
+Agora, para a próxima missão: comece a produzir um pouco de Madeira.
+
+#tuto_41_2#1
+A Madeira, assim como os Martelos, é um material essencial usado em muitas construções. Ela também é consumida por muitos prédios industriais para fabricar outros produtos.
+
+#tuto_41_3#1
+Coloque um lenhador perto de uma área densa de árvores para começar a produzir.
+
+#tuto_410_1#1
+Nesses tempos primitivos, a maior fonte de renda que você pode obter vem dos fundos pessoais do seu líder, tornando-os um só. 
+
+#tuto_410_2#1
+Usando a política de "privilégios", você pode definir a porcentagem da riqueza do território concedida ao seu líder por direito. Isso aumentará lentamente o nível de riqueza pessoal dele, que você pode monitorar no menu do território selecionando a classe populacional "Líder".
+
+#tuto_410_c1#1
+Ok...--411
+
+#tuto_411_1#1
+Então, com a política de "Liderança", você pode definir quanto da riqueza pessoal dele deseja destinar às despesas do governo! 
+
+#tuto_411_2#1
+Por exemplo, um líder com riqueza de 20 contribuindo com 50% gerará, portanto, uma renda para o tesouro de +10.
+
+#tuto_411_c1#1
+De que outra forma posso gerar renda para o tesouro?--412
+
+#tuto_412_1#1
+Provavelmente, esta será sua principal fonte de renda nestas eras iniciais. Além disso, seu povo também contribuirá voluntariamente com despesas para a comunidade com até 20% de suas próprias rendas, mas é provável que isso permaneça marginal no início.
+
+#tuto_412_2#1
+Assim que desenvolver um sistema de tributação adequado, você poderá modificar essa porcentagem!
+
+#tuto_412_c1#1
+Muito bem.--413
+
+#tuto_413_1#1
+Por enquanto é só. Boa sorte nesta difícil transição!
+
+#tuto_413_c1#1
+Obrigado, senhor Porco Sábio.--997
+
+#tuto_414_1#1
+Cuidado, você cometeu um erro: isto não é uma Milícia! Feche este menu e tente novamente, certificando-se de selecionar o tipo de formação "milícia" desta vez!
+
+#tuto_414_2#1
+Ao contrário das milícias, outros tipos realmente reduzem sua população ao recrutar, o que não é o que queremos agora.
+
+#tuto_415_1#1
+Que pena... Bem, não importa, talvez você encontre uma mais tarde.
+
+#tuto_415_c1#1
+...
+
+#tuto_42_1#1
+Excelente. Agora é hora de pensar em se defender: para isso, você terá que criar uma nova "Formação" (um grupo de unidades).
+
+#tuto_42_2#1
+Existem diferentes tipos de formações. A melhor para começar a se defender é a "Milícia".
+
+#tuto_42_c1#1
+Fale mais sobre isso.--43
+
+#tuto_43_1#1
+Em uma formação de "Milícia", as unidades não são realmente recrutadas: é a população atual do território em si. Pense nisso como um estoque de armas mantido pronto para a população pegar em caso de ataque.
+
+#tuto_43_2#1
+Portanto, suas unidades não são realmente removidas da sua população e são "grátis", mas a Milícia não pode se mover para outros territórios e é puramente defensiva. É perfeita como defesa básica.
+
+#tuto_43_c1#1
+Onde eu crio uma?--44--29
+
+#tuto_44_1#1
+Esta é a aba Unidades. Nela, você pode ver todas as formações atualmente presentes no território. Também é aqui que você pode criar novas Formações.
+
+#tuto_44_2#1
+Clique na aba para abri-la.
+
+#tuto_45_1#1
+Agora clique no botão para criar uma nova Formação. Certifique-se de selecionar o tipo "milícia" e colocar o acampamento da Formação perto de sua tribo.
+
+#tuto_46_1#1
+Muito bem. Agora você precisa recrutar suas primeiras unidades para esta nova formação.
+
+#tuto_46_2#1
+Existem diferentes categorias de unidades: unidades civis são o que você usará para criar expedições de assentamento ou transportar mercadorias com carregadores, mas obviamente não para se defender. Abra a aba "À Distância".
+
+#tuto_47_1#1
+Por enquanto, você só tem acesso a uma única unidade militar à distância: o arremessador de pedras. Um porco simplesmente equipado com pedras para arremessar, melhor usado para defender atrás de muros e portões.
+
+#tuto_47_2#1
+Agora, recrute pelo menos 10 arremessadores de pedras. Lembre-se: como uma "Milícia", na verdade você não está realmente recrutando-os, mas apenas armazenando equipamentos (aqui, simples pedras) para sua população usar em caso de ataque.
+
+#tuto_47_c1#1
+O que acontece se eu 'recrutar' mais milícia do que tenho de população?--48
+
+#tuto_48_1#1
+Então sua milícia não estará totalmente "tripulada" em caso de ataque: se você guardou equipamentos para 40 soldados como sua milícia, mas só tem 15 porcos em idade de lutar no momento do ataque no território, sua Milícia incluirá apenas 15 soldados na batalha.
+
+#tuto_48_c1#1
+Entendi.--47
+
+#tuto_49_1#1
+Parabéns: agora você guardou equipamentos para sua população usar em caso de ataque. 
+
+#tuto_49_2#1
+Agora, além disso, você também pode organizar a estratégia defensiva de suas unidades usando a "Ferramenta Estratégica", como definir as posições de implantação da sua nova milícia. Clique para abri-la.
+
+#tuto_5_1#1
+No canto inferior esquerdo está o menu de formação da sua formação. Ele mostra detalhes como a lista de unidades nesta formação e seu inventário. 
+
+#tuto_5_2#1
+Sua tribo está atualmente acampada em um território com recursos adequados para começar o jogo. Este deve ser um lugar seguro para estabelecer seu primeiro assentamento: no menu de formação, clique no botão 'ordens'.
+
+#tuto_50_1#1
+Com esta ferramenta, você pode visualizar onde todas as suas tropas (milícia ou não) serão posicionadas em caso de batalha.
+
+#tuto_50_2#1
+Você pode selecionar cada tropa e reposicioná-la onde quiser com o botão direito. Mantenha pressionado para definir suas fileiras e orientação.
+
+#tuto_50_c1#1
+Conte-me mais.--51--35
+
+#tuto_51_1#1
+Você pode definir o modo de comportamento de cada tropa. Por padrão, elas se moverão para engajar qualquer inimigo que chegue.
+
+#tuto_51_2#1
+Com uma tropa selecionada, você pode clicar no botão de menu suspenso no canto inferior esquerdo para selecionar outros modos que afetarão o comportamento dessa tropa em batalha.
+
+#tuto_51_c1#1
+Muito bem.--52--36
+
+#tuto_52_1#1
+Outra ferramenta é criar "Zonas Defensivas" clicando neste botão. Depois, clique e arraste no terreno para definir um ponto e um raio ao redor dele. 
+
+#tuto_52_2#1
+Uma vez criada a zona, você pode posicionar tropas nela e definir o comportamento "zona defensiva" para que elas defendam essa área específica: elas poderão se mover para fora dela durante a batalha.
+
+#tuto_52_c1#1
+Entendi.--53--37
+
+#tuto_53_1#1
+Arremessadores de pedras só são úteis na defesa atrás de muros: aconselho você a criar um pequeno forte de paliçadas e posicioná-los dentro dele no modo 'manter posição'. Isso irá protegê-lo pelo menos contra tentativas de invasão.
+
+#tuto_53_2#1
+Quando estiver satisfeito com suas alterações, certifique-se de fechar e SALVAR suas mudanças e me avise.
+
+#tuto_53_c1#1
+Terminei, vamos prosseguir!
+
+#tuto_54_1#1
+Você agora terminou de organizar suas defesas básicas. 
+
+#tuto_54_2#1
+Além de possíveis eventos ou conflitos com outros jogadores, acampamentos 'bárbaros' NPC próximos provavelmente gerarão regularmente grupos de guerra que tentarão saquear, pilhar ou até invadir seus territórios. 
+
+#tuto_54_3#1
+Não demorará muito para que eles notem você e enviem seus primeiros invasores, então é melhor estar preparado!
+
+#tuto_54_c1#1
+Bom saber...--55--39
+
+#tuto_55_1#1
+É hora de abordar o tema dos Conhecimentos (tecnologias), que desbloqueiam coisas como novos edifícios ou novos recursos.
+
+#tuto_55_2#1
+Para obter novos conhecimentos, você precisa concluir Projetos. E para obter Projetos, você precisa ter Ideias. 
+
+#tuto_55_c1#1
+Continue...--56
+
+#tuto_56_1#1
+Ideias podem vir da sua própria população, se espalhar de outros territórios ou ser diretamente trocadas com outros jogadores por meio de tratados.
+
+#tuto_56_2#1
+Você não pode controlar diretamente quando e quais ideias sua população terá. Cada ideia vem com suas próprias condições ocultas.
+
+#tuto_56_c1#1
+Ok.--57
+
+#tuto_57_1#1
+Agora que sua tribo terminou de acampar neste território, eles tiveram sua primeira ideia sobre Sedentarismo, que permitirá construir suas primeiras moradias adequadas.
+
+#tuto_57_2#1
+Para realmente obter o 'conhecimento' de Sedentarismo, você precisará concluir seu projeto primeiro.
+
+#tuto_57_c1#1
+Como faço isso?--58--40
+
+#tuto_58_1#1
+Este novo botão permite abrir outro menu importante: o Menu de Governo.
+
+#tuto_58_2#1
+É onde você pode gerenciar e monitorar todos os assuntos globais (não específicos de território), como o saldo do seu tesouro, sua cultura, suas políticas etc...
+
+#tuto_58_3#1
+Clique para abri-lo.
+
+#tuto_59_1#1
+A aba "Sociedade" é onde você gerencia suas Políticas, definindo como sua sociedade está organizada e funciona.
+
+#tuto_59_2#1
+Por enquanto, você é uma sociedade tribal primitiva com uma economia de dádiva, onde todos compartilham seus bens. 
+
+#tuto_59_c1#1
+Como faço para mudar isso?--60
+
+#tuto_6_1#1
+Selecione a missão "Assentar", deixe todas as opções no padrão e valide para ordenar que toda a sua tribo se assente neste território. Suas unidades e inventário serão descarregados no território, que agora estará sob seu controle, e a formação em si desaparecerá.
+
+#tuto_60_1#1
+Mais tarde, com novos conhecimentos, você desbloqueará novas políticas que permitirão evoluir a organização política e econômica da sua sociedade.
+
+#tuto_60_2#1
+Agora abra a aba "Conhecimentos" para acessar seus projetos.
+
+#tuto_61_1#1
+Esta coluna mostra todos os Conhecimentos que sua sociedade possui atualmente. Está vazia por enquanto.
+
+#tuto_61_2#1
+Ela também mostra sua capacidade de conhecimento e o uso atual. Cada novo conhecimento custa alguns pontos, dependendo de sua complexidade. Se sua capacidade estiver totalmente utilizada, você não poderá dominar novos conhecimentos.
+
+#tuto_61_c1#1
+Ok.--63--43
+
+#tuto_61_c2#1
+Como faço para obter capacidade de conhecimento?--62
+
+#tuto_62_1#1
+Sua capacidade é aumentada pela sua cultura total. No início, sua cultura será produzida principalmente pela sua população total, então quanto mais população você tiver, maior será sua capacidade de conhecimento.
+
+#tuto_62_2#1
+Mais tarde, com a escrita, você também poderá construir Bibliotecas para aumentar manualmente sua capacidade de conhecimento.
+
+#tuto_62_c1#1
+Ok.--63--43
+
+#tuto_63_1#1
+O projeto "Vida Sedentária" desbloqueará o conhecimento de "Sedentarismo". Para iniciá-lo, primeiro você precisa designar "pesquisadores" ao projeto, e cada projeto requer uma 'classe' específica de pesquisadores (aqui são Agricultores).
+
+#tuto_63_2#1
+Clique no botão "+" para designar pesquisadores ao projeto.
+
+#tuto_64_1#1
+Cuidado: designar pesquisadores reduz a produtividade de todos os edifícios que empregam a mesma classe de população, pois eles estarão ocupados com o projeto em vez de trabalhar.
+
+#tuto_64_2#1
+Por exemplo, se você designar TODOS os seus agricultores para um projeto, suas fazendas deixarão de produzir qualquer coisa.
+
+#tuto_64_3#1
+Selecione quantos pesquisadores você deseja designar para o projeto e valide.
+
+#tuto_65_1#1
+Cada pesquisador contribui com 'pontos de pesquisa' com base em sua inteligência.
+
+#tuto_65_2#1
+Cada projeto também tem um nível de dificuldade, e a inteligência média dos pesquisadores designados define as chances de completar o projeto com sucesso.
+
+#tuto_65_c1#1
+Ok.--66--46
+
+#tuto_66_1#1
+Para iniciar alguns projetos, você também pode precisar pagar moedas ou recursos. Além disso, será necessário ter espaço de conhecimento suficiente para armazenar o novo conhecimento que ele desbloqueia.
+
+#tuto_66_2#1
+Agora você pode clicar para iniciar o trabalho no projeto.
+
+#tuto_67_1#1
+Parabéns, você iniciou seu primeiro projeto! Ele levará algum tempo para ser concluído, dependendo do número de pesquisadores e de sua eficiência.
+
+#tuto_67_c1#1
+Muito bem.--111
+
+#tuto_67_c2#1
+O que acontece se um projeto falhar?--68
+
+#tuto_68_1#1
+Se o seu projeto falhar, você terá que reiniciá-lo do zero. 
+
+#tuto_68_2#1
+Você terá que pagar novamente todos os requisitos iniciais.
+
+#tuto_68_c1#1
+Droga... E agora?--111
+
+#tuto_69_1#1
+Agora você já sabe o mínimo básico para começar a governar e desenvolver sua tribo em Ymir, e só tenho mais algumas coisas para mostrar antes de deixá-lo.
+
+#tuto_69_c1#1
+Já era hora!--70--48
+
+#tuto_7_1#1
+O seletor de território mostra o nome do território atualmente selecionado. À sua esquerda há um botão redondo que permite entrar no território.
+
+#tuto_7_2#1
+Com o seu território recém-assentado selecionado, clique nesse botão para entrar no seu território.
+
+#tuto_70_1#1
+Esta é a sua pontuação como jogador. Ela é baseada em diferentes estatísticas, como sua riqueza total, cultura, poder militar e conhecimentos.
+
+#tuto_70_c1#1
+Ok.--71--49
+
+#tuto_71_1#2
+Ao lado estão seus Pontos de Vitória. Ao final de cada ciclo de recompensas, os jogadores que cumprirem as diferentes condições de vitória ganham as recompensas de Pontos de Vitória associadas.
+
+#tuto_71_2#2
+Você vence o jogo sendo o primeiro jogador a atingir o objetivo de Pontos de Vitória definido para aquela partida (geralmente 100).
+
+#tuto_71_c1#1
+Bom saber!--72--50
+
+#tuto_71_c2#2
+Quanto tempo duram os ciclos de recompensas?--81
+
+#tuto_72_1#1
+Bem, é isso: meu trabalho aqui terminou e agora é hora de deixar você no comando.
+
+#tuto_72_c1#1
+Obrigado, senhor Porco.--999
+
+#tuto_72_c2#1
+Espere! O que eu devo fazer agora?--73
+
+#tuto_72_c3#1
+Eu tenho algumas perguntas!--74
+
+#tuto_73_1#1
+Agora que sua tribo está assentada, sua população deve crescer lentamente, mas isso pode levar algum tempo.
+
+#tuto_73_2#1
+Enquanto isso, pode ser uma boa ideia continuar explorando os arredores no mapa-múndi e localizar manadas para caçar, a fim de fornecer comida adicional à sua tribo e acelerar seu crescimento.
+
+#tuto_73_c1#1
+Ok.--74
+
+#tuto_74_1#1
+Sobre o que você quer saber mais, jovem porquinho?
+
+#tuto_74_c1#1
+Não tenho mais perguntas, senhor Porco.--75
+
+#tuto_74_c2#1
+Posso vê-lo novamente?--76
+
+#tuto_75_1#1
+Então, adeus e boa sorte!
+
+#tuto_75_c1#1
+Tchau!--999
+
+#tuto_76_1#1
+Sim, posso aparecer de vez em quando quando você desbloquear coisas novas e importantes!
+
+#tuto_76_c1#1
+Ok!--74
+
+#tuto_77_1#1
+Você terá que criar uma nova 'Formação' (sua expedição de exploração) e recrutar unidades para ela, depois movê-la a partir da visão do mapa-múndi.
+
+#tuto_77_2#1
+Mas tome cuidado! Isso é perigoso, pois toda vez que você explorar novos tiles de território, pode acionar 'eventos de exploração': há muito a ganhar com eles, mas também muito a perder.
+
+#tuto_77_c1#1
+Ok.--78
+
+#tuto_78_1#1
+Para que seus exploradores tenham alguma chance de sucesso, eu recomendo fortemente que você recrute pelo menos 10 guerreiros para sua expedição, pois o mundo é escuro e cheio de terrores.
+
+#tuto_78_c1#1
+Muito bem.--74
+
+#tuto_79_1#1
+Manadas são grupos finitos de animais e não um recurso permanente: elas não podem ser exploradas pelo prédio Caçador.
+
+#tuto_79_2#1
+Para caçá-las, você precisa formar uma expedição de caça: crie uma 'Formação' e recrute caçadores (qualquer guerreiro de sua escolha), além de alguns carregadores para transportar a carne saqueada.
+
+#tuto_79_c1#1
+E depois?--80
+
+#tuto_8_1#1
+Este é o território que você assentou e agora controla. No meio dele está o acampamento que sua tribo montou, com tendas e todos os seus recursos agora descarregados no chão.
+
+#tuto_8_c1#1
+Muito bem.--9--7
+
+#tuto_80_1#1
+Mova os caçadores para o mesmo território do rebanho no mapa-múndi e dê a eles a ordem de "Cacar": isso iniciará uma batalha onde tentarão matar animais do rebanho.
+
+#tuto_80_2#1
+Os animais revidarão, então tome cuidado! Quando a caçada terminar e for bem-sucedida, a formação terá carne fresca em seu inventário, que você poderá levar de volta para sua tribo.
+
+#tuto_80_c1#1
+Excelente.--74
+
+#tuto_81_1#2
+A duração dos ciclos de recompensas é dinâmica: eles ficam mais curtos conforme o jogo avança ou se o número de jogadores ativos diminui.
+
+#tuto_81_c1#1
+Justo o suficiente.--72--50
+
+#tuto_82_1#1
+Tem certeza? Este tutorial pode te ajudar...
+
+#tuto_82_c1#1
+Sim--83
+
+#tuto_83_1#1
+Tem mesmo certeza? Acho que pode ser o melhor para você.
+
+#tuto_83_c1#1
+Sim!--84
+
+#tuto_84_1#1
+Acho que sei o que é melhor para você, vou ficar aqui e continuar com este tutorial. 
+
+#tuto_84_c1#1
+Por favor, vá embora...--1
+
+#tuto_84_c2#1
+O que posso fazer para você me deixar em paz?--85
+
+#tuto_85_1#1
+Ursos.
+
+#tuto_85_c1#1
+O quê?--86
+
+#tuto_86_1#1
+Eu tenho ursos.
+
+#tuto_86_c1#1
+Ursos? O que isso tem a ver com qualquer coisa?--87
+
+#tuto_87_1#1
+Terá, se você não continuar com o meu tutorial.
+
+#tuto_87_c1#1
+Você é um assistente de tutorial invocador de ursos?--88
+
+#tuto_87_c2#1
+Não estou vendo nenhum urso. Onde eles estão?--98
+
+#tuto_88_1#1
+Sim.
+
+#tuto_88_c1#1
+E o que seus ursos farão se eu não seguir seu tutorial?--89
+
+#tuto_89_1#1
+Meus ursos são treinados para fazer muitas coisas, incluindo devorar as entranhas dos porcos da sua tribo.
+
+#tuto_89_c1#1
+Não me importo, posso conseguir outra tribo.--90
+
+#tuto_9_1#1
+Você agora completou sua primeira missão e desbloqueou suas recompensas.
+
+#tuto_9_2#1
+Sua próxima missão é fornecer água potável para sua tribo.
+
+#tuto_9_c1#1
+Estou empolgado com a complexidade dessas missões, vamos continuar!--10
+
+#tuto_90_1#1
+Você não é um bom líder para o seu povo.
+
+#tuto_90_c1#1
+Você não é um bom assistente de tutorial.--91
+
+#tuto_91_1#1
+Você é malvado.
+
+#tuto_91_c1#1
+Você vai me deixar em paz agora?--92
+
+#tuto_92_1#1
+Tá bom. Divirta-se com esse jogo uma merda: as interfaces e menus são tão ruins que você nunca vai conseguir entender sozinho mesmo. Eu já tô velho pra essa porcaria...
+
+#tuto_92_c1#1
+Sim, TÁ BOM! Eu não preciso de você!--999
+
+#tuto_92_c2#1
+Espera, o quê?--93
+
+#tuto_93_1#1
+Não, já é tarde demais. Ha! Aposto que você nem vai achar como assentar sua tribo, os botões foram escondidos com maldade... Adeus... Porquinho!
+
+#tuto_93_c1#1
+Não! Não vá embora, eu mudei de ideia!--94
+
+#tuto_93_c2#1
+Vou arriscar, se isso significa passar por esse tutorial fajuto.--999
+
+#tuto_94_1#1
+Isso não vai ser o suficiente. Exijo desculpas.
+
+#tuto_94_c1#1
+Me desculpe.--95
+
+#tuto_95_1#1
+Me desculpe quem?
+
+#tuto_95_c1#1
+Me desculpe, senhor Porco Sábio.--96
+
+#tuto_96_1#1
+É SENHOR senhor Porco Sábio pra você.
+
+#tuto_96_c1#1
+Me desculpe, senhor senhor Porco Sábio. Podemos voltar ao que estávamos fazendo agora?--97
+
+#tuto_97_1#1
+Hmmm... Tá bom, porco... tá bom. É melhor você prestar atenção e ser bonzinho dessa vez!
+
+#tuto_97_c1#1
+Estou ouvindo.--1
+
+#tuto_98_1#1
+Eles estão se escondendo. Ursos hibernam.
+
+#tuto_98_c1#1
+Você está blefando.--99
+
+#tuto_98_c2#1
+Nem estamos no inverno. Ursos só hibernam no inverno.--104
+
+#tuto_99_1#1
+Eu tenho um exército de ursos! Posso invocá-los todos e varrer sua tribo insolente desse mundo!
+
+#tuto_99_c1#1
+Não, você não tem. Você é só um assistente de tutorial patético tentando ser engraçado.--100
+
+#tuto_char_1#1
+Aqui é onde você cria seu personagem. Você pode desenhá-lo e nomeá-lo, assim como o nome do seu governo e a bandeira. 
+
+#tuto_char_2#1
+Você precisa escolher entre uma lista de diferentes tipos de início, o padrão para um novo jogo sendo a "tribo primitiva".
+
+#tuto_char_3#1
+No multijogador, você também pode especificar o nome do personagem de um amigo para aparecer o mais próximo possível dele, mas para isso você precisará do 'Código de Convite' dele.
+
+#tuto_char_4#1
+Cuidado: depois de criar um personagem - especialmente em jogos multijogador persistentes - você não poderá criar um novo imediatamente se errar! Terá que esperar um período de até vários dias antes de poder tentar novamente no mesmo jogo. 
+
+#tuto_create_1#1
+Aqui é onde você configura e inicia um novo jogo. Existem 2 modos principais de jogo: persistente e em tempo real. Se estiver jogando sozinho ou com poucos amigos, é melhor deixar em 'tempo real'.
+
+#tuto_join_1#1
+Aqui é onde você entra em jogos existentes. 
+
+#tuto_join_2#1
+Se precisar reconectar ao seu próprio jogo local, vá em "IP Direto" e conecte-se a "localhost" na porta 14804. 
+
+#tuto_join_3#1
+Se quiser entrar em jogos multijogador, você pode escolher entre persistentes (jogos 24/7 que duram meses) e jogos em tempo real (partidas mais rápidas para jogar com amigos).
+
+#tuto_launch_1#1
+Bem-vindo ao Ymir! Parece que é a primeira vez que você está iniciando este jogo. 
+
+#tuto_launch_2#1
+Este é um jogo complexo: se ainda não está familiarizado com ele, é fortemente recomendado começar completando o tutorial para iniciantes em um jogo solo para aprender o básico. Porém, se já conhece o jogo, pode escolher desativar todos os tutoriais agora mesmo.
+
+#tuto_lnchgame_1#1
+Você está iniciando seu primeiro jogo próprio! Este é um jogo cliente-servidor: mesmo que esteja jogando sozinho, iniciar um novo jogo irá lançar automaticamente um servidor separado e conectá-lo a ele. Para que outros possam entrar neste jogo, você DEVE garantir que a porta usada pelo seu servidor esteja devidamente redirecionada (14804 por padrão). Se o lançamento automático do servidor falhar, você terá que iniciar o servidor manualmente a partir da pasta do jogo usando o arquivo server.bat e, em seguida, conectar-se a ele com a opção "entrar no jogo".
+
+#tuto_persist_1#1
+Você entrou no seu primeiro jogo multijogador persistente! Neste modo de jogo, as coisas acontecem MUITO mais devagar do que no modo em tempo real, e cuidado: não há espaço para erros aqui! Você terá que lidar com qualquer início que lhe foi dado, e segundas chances são caras, pois terá que esperar dias antes de poder tentar novamente com um novo personagem se perder este.
+
+#tuto_warnjoin_1#1
+Você ainda não completou o tutorial inicial: É altamente recomendado fazê-lo antes de tentar entrar em qualquer jogo multijogador persistente.
+
+#tuto_warnjoin_2#1
+Jogos multijogador persistentes são implacáveis! As condições iniciais podem ser muito mais complexas, e se você falhar, não poderá reiniciar um novo personagem imediatamente, pois o ressurgimento é limitado por um período de espera que pode durar vários dias. Aprenda o básico primeiro para não estragar tudo logo de cara e perder sua chance!
+
