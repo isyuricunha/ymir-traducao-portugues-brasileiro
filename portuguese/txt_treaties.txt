@@ -1,0 +1,324 @@
+#agrim_admtax_1#1
+Transferência de poder
+
+#agrim_admtax_2#1
+Transfere [x]% do poder estatal
+
+#agrim_admtax_3#1
+[x] transfere uma porcentagem de seu poder estatal para [y].
+
+#agrim_ceasefr_1#1
+Cessar-fogo
+
+#agrim_ceasefr_2#1
+Cessar-fogo
+
+#agrim_ceasefr_3#1
+Encerra a guerra entre os membros do tratado.
+
+#agrim_embrg_1#1
+Embargo contra...
+
+#agrim_embrg_2#1
+Embargo contra [x]
+
+#agrim_embrg_3#1
+Proíbe o comércio com um estado específico
+
+#agrim_fvassal_1#1
+Subjugado
+
+#agrim_fvassal_2#1
+Subjugado por [x]
+
+#agrim_fvassal_3#1
+[x] será subjugado pela nação de [y].
+
+#agrim_gividea_1#1
+Dar ideia
+
+#agrim_gividea_2#1
+Dar ideia para [x]
+
+#agrim_gividea_3#1
+[y] receberá de [x] uma nova ideia para conhecimentos que ainda não possui.
+
+#agrim_givtech_1#1
+Dar conhecimento
+
+#agrim_givtech_2#1
+Dar conhecimento de [x]
+
+#agrim_givtech_3#1
+[x] gastará Pontos de Pesquisa para transferir diretamente um Conhecimento para [y].
+
+#agrim_givreg_1#1
+Dar região
+
+#agrim_givreg_2#1
+Doação da região '[x]' 
+
+#agrim_givreg_3#1
+Transfere a propriedade de uma região para [y].
+
+#agrim_goldo_1#1
+Pagamento único
+
+#agrim_goldo_2#1
+Paga [x] moedas
+
+#agrim_goldo_3#1
+Pagamento único de moedas de [x] para [y], no momento da assinatura do tratado.
+
+#agrim_goldr_1#1
+Transferência de moedas
+
+#agrim_goldr_2#1
+Transferência contínua de [x] moedas da renda
+
+#agrim_goldr_3#1
+[x] transfere continuamente moedas para [y] enquanto o tratado permanecer ativo.
+
+#agrim_goldtax_1#1
+Imposto sobre moedas
+
+#agrim_goldtax_2#1
+Entrega [x]% da renda em moedas
+
+#agrim_goldtax_3#1
+[x] transfere uma porcentagem de sua renda total em moedas para [y].
+
+#agrim_pass_1#1
+Direito de passagem
+
+#agrim_pass_2#1
+Concede direito de passagem
+
+#agrim_pass_3#1
+Permite que unidades de [y] viajem pelos territórios de [x].
+
+#agrim_peace_1#1
+Tratado de paz
+
+#agrim_peace_2#1
+Tratado de paz
+
+#agrim_peace_3#1
+Proíbe guerra entre os membros do tratado.
+
+#agrim_trad_1#1
+Acordo comercial
+
+#agrim_trad_2#1
+Permite comércio
+
+#agrim_trad_3#1
+Concede a [y] acesso a todas as ofertas comerciais e rotas comerciais de [x].
+
+#agrim_tradrt_1#1
+Rota comercial
+
+#agrim_tradrt_2#1
+Rota comercial
+
+#agrim_tradrt_3#1
+Estabelece uma rota comercial vinculada a um tratado
+
+#agrim_vassal_1#1
+Juntar-se à nação
+
+#agrim_vassal_2#1
+Juntando-se a [x]
+
+#agrim_vassal_3#1
+[x] jurará lealdade a [y].
+
+#agrim_err_maxsubor1#1
+No momento, você não pode gerenciar mais subordinados!
+
+#agrim_err_maxsubor2#1
+O personagem [x] não pode gerenciar mais subordinados da Nação no momento!
+
+#agrim_war_1#1
+Declarar guerra a...
+
+#agrim_war_2#1
+Declarando guerra a [x]
+
+#agrim_war_3#1
+Declarar guerra a outro estado especificado
+
+#diplo_ndef#1
+Pacto defensivo nacional
+
+#diplo_ndef_dscr_1#1
+Qualquer declaração de guerra feita contra um membro da Nação desencadeará uma declaração automática de guerra de todos os outros membros da Nação, com cláusulas de rompimento recaindo sobre o agressor. 
+
+#diplo_npass#1
+Direito de passagem nacional
+
+#diplo_npass_dscr_1#1
+Todos os membros da Nação podem se mover pelos territórios uns dos outros.
+
+#diplo_ntrade#1
+Acordo comercial nacional
+
+#diplo_ntrade_dscr_1#1
+Todos os membros da Nação obtêm direitos comerciais automáticos entre si.
+
+#treaty_closes#1
+Cláusulas de rompimento
+
+#treaty_coinpen#1
+Penalidade financeira
+
+#treaty_coinpen_c1#1
+% do PIB transferido como penalidade se [x] romper este tratado,
+
+#treaty_coinpen_c2#1
+para [x].
+
+#treaty_gdp#1
+[x]% do PIB
+
+#treaty_honor#2
+Compromisso político
+
+#treaty_honor_c1#2
+A quantidade de Pontos Políticos que [x] perderá se quebrar este tratado ilegitimamente antes de seu término.
+
+#treaty_nocls#1
+(quebras de cláusulas não têm efeito porque a outra parte está atualmente inativa)
+
+#treaty_powcost#1
+Custo de poder estatal para manter este tratado
+
+#treaty_brk_mode#2
+Condições de quebra
+
+#treaty_brk_mode_1#2
+Direto
+
+#treaty_brk_mode_1_c1#2
+As cláusulas de quebra serão acionadas se [x] violar este tratado durante seu período de vigência, encerrando-o ou declarando guerra à outra parte como beligerante principal.
+
+#treaty_brk_mode_2#2
+Indireto
+
+#treaty_brk_mode_2_c1#2
+As cláusulas de quebra serão acionadas se [x] violar este tratado durante seu período de vigência, encerrando-o ou declarando uma guerra que inclua a outra parte (como beligerante principal ou co-beligerante forçado).
+
+#treaty_warbound#2
+Casus-belli
+
+#treaty_warbound_1#2
+Nenhum
+
+#treaty_warbound_1_c1#2
+Quebrar este tratado não constituirá um casus-belli para a outra parte.
+
+#treaty_warbound_2#1
+Reparações
+
+#treaty_warbound_2_c1#2
+Quebrar este tratado dará à outra parte um casus-belli de 'guerra de reparações'.
+
+#treaty_warbound_3#1
+PUNIÇÃO
+
+#treaty_warbound_3_c1#1
+Quebrar este tratado dará à outra parte um casus-belli de 'guerra de punição', que, se vencida, levará à eliminação definitiva deste Personagem.
+
+#war_raid#1
+Campanha de saque
+
+#war_raid_dscr#1
+Esta é uma guerra sem outro objetivo além de pilhar recursos, dinheiro e escravos do defensor.
+
+#war_extor#1
+Extorsão
+
+#war_extor_dscr#1
+Esta é uma guerra com o objetivo de submeter o defensor para forçá-lo a pagar tributos ao agressor.
+
+#war_extor_afx1#1
+defensor paga 15% de imposto como tributo
+
+#war_repair#1
+Reparação
+
+#war_repair_dscr#1
+Esta é uma guerra com o objetivo de submeter o defensor para forçá-lo a pagar reparações por quebrar acordos.
+
+#war_punish#1
+Punição
+
+#war_punish_dscr#1
+Esta é uma guerra para punir um defensor rebelde que traiu sua palavra. O agressor busca agora a erradicação definitiva da dinastia e governo do defensor, considerado ingovernável: se vitorioso, o defensor será eliminado do jogo.
+
+#war_punish_afx1#1
+defensor é morto (torna-se 'inativo')
+
+#war_annex#1
+Anexação
+
+#war_annex_dscr#1
+Esta é uma guerra com o objetivo de anexar um território do defensor sobre o qual o agressor possui uma reivindicação.
+
+#war_annex_afx1#1
+agressor assume o território reivindicado
+
+#war_liberate#1
+Libertação
+
+#war_liberate_dscr#1
+Esta é uma guerra com o objetivo de libertar um território legítimo que está sob domínio do defensor.
+
+#war_subj#1
+Subjugação
+
+#war_subj_dscr#1
+Esta é uma guerra com o objetivo de vassalizar o defensor à força, fazendo com que ele se junte à Nação do atacante como seu subordinado.
+
+#war_subj_afx1#1
+o defensor se torna um Estado tributário
+
+#war_stealtrib#1
+Roubo de Tributário
+
+#war_stealtrib_dscr#1
+Esta é uma guerra com o objetivo de tomar à força o controle de um Estado tributário do defensor, fazendo com que ele se junte à Nação do atacante como seu próprio subordinado subjugado.
+
+#war_stealtrib_afx1#1
+o alvo se torna um Estado tributário
+
+#war_humil#1
+Humilhação
+
+#war_humil_dscr#1
+Esta é uma guerra específica entre Rivais com o objetivo de humilhar o defensor por meio da derrota, custando-lhe Pontos de Vitória e Cultura. Suas penalidades não são cumulativas.
+
+#war_humil_afx1#1
+o defensor perde 50% de seus Pontos de Vitória.
+
+#war_humil_afx2#1
+o defensor recebe -30 de Legitimidade temporária.
+
+#war_humil_dfx1#1
+o atacante perde 50% de seus Pontos de Vitória.
+
+#war_humil_dfx2#1
+o atacante recebe -30 de Legitimidade temporária.
+
+#war_prop#1
+Propriedades especiais:
+
+#war_prop_nowin#1
+não pode ser vencida automaticamente
+
+#war_prop_nocall#1
+não pode convocar aliados
+
+#war_prop_nosubor#1
+subordinados não são forçados a participar
+
