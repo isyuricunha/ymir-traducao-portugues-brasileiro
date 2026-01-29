@@ -1,0 +1,1191 @@
+#tech_academ#1
+Academia
+
+#tech_academ_dscr_1#1
+Instituições de ensino superior e pesquisa.
+
+#tech_agrcultr#1
+Agricultura
+
+#tech_agrcultr_dscr_1#1
+O conhecimento do cultivo de plantas.
+
+#tech_airblstl#1
+Descarburação por sopro de ar
+
+#tech_airblstl_dscr_1#1
+Um processo muito eficiente de produção de aço por meio da descarburação do ferro-gusa (rico em carbono) com a injeção de ar quente no ferro fundido em um cadinho. Isso permite a remoção de carbono e outras impurezas por meio de sua combustão, gerando calor suficiente para manter o ferro derretido.
+
+#tech_alambic#1
+Alambique
+
+#tech_alambic_dscr_1#1
+Um dispositivo que permite separar diferentes substâncias de um líquido, usado principalmente para destilar bebidas alcoólicas.
+
+#tech_algebr#1
+Álgebra
+
+#tech_algebr_dscr_1#1
+Uma 'linguagem' para números e operações, a álgebra é o estudo de símbolos matemáticos e das regras para manipulá-los.
+
+#tech_animcaptr#1
+Captura de animais
+
+#tech_animcaptr_dscr_1#1
+Como capturar, domesticar e cuidar de animais selvagens para mantê-los como gado para momentos de necessidade. 
+
+#tech_animdom#1
+Criação de animais
+
+#tech_animdom_dscr_1#1
+Após saber como cuidar de animais capturados, agora sabemos como lidar com sua reprodução, permitindo-nos produzir novos animais por conta própria!
+
+#tech_animhusb#1
+Pecuária
+
+#tech_animhusb_dscr_1#1
+Parece que, por meio da seleção de animais com comportamentos e características desejadas, podemos modificá-los e criar novos animais que produzem mais e são mais dóceis, muito diferentes dos originais selvagens. Nós os domesticamos! 
+
+#tech_archbdg#1
+Construção de arcos
+
+#tech_archbdg_dscr_1#1
+A expertise arquitetônica de construir arcos totalmente autoportantes. Esse sistema aprimorado de suporte de carga permite criar estruturas mais leves, altas e com mais aberturas.
+
+#tech_archery#1
+Arquearia
+
+#tech_archery_dscr_1#1
+A arte, prática e habilidade de usar arcos para disparar flechas.
+
+#tech_archives#1
+Arquivamento
+
+#tech_archives_dscr#1
+A prática de organizar e manter arquivos para aprimorar a administração.
+
+#tech_archtct#1
+Arquitetos
+
+#tech_archtct_dscr_1#1
+Construtores especializados focados apenas no projeto e planejamento de edifícios. Seus conhecimentos especializados em matemática e elaboração de plantas permitem a construção de estruturas muito mais refinadas e complexas.
+
+#tech_ard#1
+Arado
+
+#tech_ard_dscr_1#1
+Uma ferramenta agrícola composta por uma simples haste arrastada pelo solo e puxada por animais de tração, tornando o preparo dos campos muito mais rápido e fácil.
+
+#tech_aritmet#1
+Aritmética
+
+#tech_aritmet_dscr_1#1
+O estudo dos números, especialmente as propriedades das operações tradicionais de adição, subtração, multiplicação e divisão.
+
+#tech_barrel#1
+Barril
+
+#tech_barrel_dscr_1#1
+Um recipiente feito de tábuas de madeira unidas por aros de metal. Resistente, desmontável, com uso otimizado de espaço e perfeito para envelhecer e armazenar bebidas alcoólicas.
+
+#tech_barter#1
+Troca
+
+#tech_barter_dscr_1#1
+As pessoas agora negociarão mercadorias de valores equivalentes em vez de 'presentear' serviços esperando retribuições futuras. Isso reduz conflitos entre comunidades maiores que não conseguem acompanhar as relações entre si.
+
+#tech_barter_fx1#1
+Permite dinheiro estocável com a política de Troca.
+
+#tech_barter_fx2#1
+Desativar Economia de Dons libera transferências de produção regionais. 
+
+#tech_baskpress#1
+Prensa de cesto
+
+#tech_baskpress_dscr_1#1
+Uma prensa mecânica que usa um cabrestante para aplicar pressão sobre frutas colocadas em um cesto de madeira com ripas verticais, substituindo a antiga técnica de prensa de viga.
+
+#tech_baths#1
+Banhos
+
+#tech_baths_dscr_1#1
+A expertise na construção de banhos públicos complexos com piscinas, água aquecida e saunas.
+
+#tech_battleaxe#1
+Machado de batalha
+
+#tech_battleaxe_dscr_1#1
+Um machado projetado especificamente para combate.
+
+#tech_beamprss#1
+Prensa de viga
+
+#tech_beamprss_dscr_1#1
+A prensa de viga permite extrair suco de frutas de forma mais eficiente do que esmagá-las à mão ou com os pés, utilizando o princípio da alavanca com uma grande viga horizontal sobre uma plataforma elevada que contém uma bacia rasa onde as frutas são colocadas.
+
+#tech_beastwr#1
+Guerreiros de elite
+
+#tech_beastwr_dscr_1#1
+Castas de guerreiros de elite inspiradas no espírito de animais selvagens ferozes.
+
+#tech_beer#1
+Cerveja
+
+#tech_beer_dscr_1#1
+Uma bebida alcoólica fermentada a partir de cereais. 
+
+#tech_blastfurn#1
+Alto-forno
+
+#tech_blastfurn_dscr_1#1
+Um forno potente o suficiente para fundir completamente o ferro e produzir rapidamente grandes quantidades de ferro a partir do minério. No entanto, com alto teor de carbono e outras impurezas (enxofre), tornando-o muito frágil, o ferro 'fundido' produzido frequentemente requer processamento adicional caro.
+
+#tech_bllws#1
+Fole
+
+#tech_bllws_dscr_1#1
+Um dispositivo mecânico que permite soprar ar em fornos, melhorando sua eficiência e qualidade.
+
+#tech_bloomry#1
+Forja Catalã
+
+#tech_bloomry_dscr_1#1
+Um forno simples capaz de atingir temperaturas altas o suficiente para fundir a maioria dos metais.
+
+#tech_bread#1
+Fermentação do pão
+
+#tech_bread_dscr_1#1
+A prática de assar pão fermentado.
+
+#tech_brigdn#1
+Brigantina
+
+#tech_brigdn_dscr_1#1
+Uma vestimenta de tecido pesado e couro revestida com pequenas placas de aço oblongas rebitadas ao tecido, oferecendo um bom equilíbrio entre mobilidade, custo e proteção.
+
+#tech_bronze#1
+Trabalho em bronze
+
+#tech_bronze_dscr_1#1
+O conhecimento de como produzir bronze misturando cobre e estanho, melhorando muito a durabilidade e solidez do cobre.
+
+#tech_builders#1
+Construtores
+
+#tech_builders_dscr_1#1
+Trabalhadores especializados em construção, permitindo métodos de construção mais complexos e elaborados.
+
+#tech_calculus#1
+Cálculo
+
+#tech_calculus_dscr_1#1
+O estudo matemático da mudança contínua por meio da união entre álgebra e geometria.
+
+#tech_carpet#1
+Fabricação de tapetes
+
+#tech_carpet_dscr_1#1
+A expertise em tecer tapetes para isolar e embelezar lares.
+
+#tech_castnet#1
+Redes de pesca
+
+#tech_castnet_dscr_1#1
+A expertise em tecer redes e como lançá-las para capturar peixes nas margens ou em águas rasas.
+
+#tech_cattleliers#1
+Cavalaria pecuária
+
+#tech_cattleliers_dscr_1#1
+Lidar e gerenciar o gado fica muito mais fácil e eficiente montado em cavalos!
+
+#tech_cementation#1
+Cementação
+
+#tech_cementation_dscr_1#1
+Um processo para fabricar aço por meio da carbonetação de ferro 'forjado' (sem carbono) com fornos especializados, aquecendo barras de ferro e carvão dispostos em camadas alternadas para infundir carbono no ferro.
+
+#tech_charcoal#1
+Carvão vegetal
+
+#tech_charcoal_dscr_1#1
+Como produzir carvão vegetal a partir da madeira por pirólise lenta: o aquecimento da madeira sem oxigênio. O carvão vegetal pode então ser usado como combustível mais eficiente que a madeira, pois produz muito mais calor! 
+
+#tech_chnmail#1
+Cota de malha
+
+#tech_chnmail_dscr_1#1
+Um tipo de armadura composta por pequenos anéis de metal interligados em um padrão para formar uma malha, oferecendo grande proteção contra golpes perfurantes e cortantes. 
+
+#tech_cider#1
+Sidra
+
+#tech_cider_dscr_1#1
+Uma bebida alcoólica feita a partir da fermentação do suco de maçãs.
+
+#tech_city#1
+Administração da cidade
+
+#tech_city_dscr#1
+O desenvolvimento de um governo regional organizado, empregando funcionários públicos para administrar a capital regional e todos os territórios da região.
+
+#tech_cloth#1
+Vestuário
+
+#tech_cloth_dscr_1#1
+O conceito de usar roupas em vez de andar nu.
+
+#tech_coing#1
+Cunhagem de moedas
+
+#tech_coing_dscr_1#1
+Uma moeda padronizada e garantida pelo governo para aumentar a confiança e facilitar as trocas.
+
+#tech_coke#1
+Coque
+
+#tech_coke_dscr_1#1
+Como processar carvão mineral em coque, um novo combustível que pode então ser usado no lugar do carvão vegetal.
+
+#tech_column#1
+Construção em pórtico
+
+#tech_column_dscr_1#1
+Um sistema de construção em que elementos horizontais resistentes são sustentados por elementos verticais robustos, com grandes espaços entre eles.
+
+#tech_compbow#1
+Arco composto
+
+#tech_compbow_dscr_1#1
+Um arco feito de chifre, madeira e tendões laminados juntos para melhor desempenho e com tamanho reduzido, ideal para arqueiros montados.
+
+#tech_concrete#1
+Concreto
+
+#tech_concrete_dscr_1#1
+Um tipo de argamassa que endurece por hidratação (com água), em vez de carbonatação (absorvendo CO₂), permitindo que resista e endureça na presença de água.
+
+#tech_constrct#1
+Habilidade de mestre de obras
+
+#tech_constrct_dscr_1#1
+Construtores especializados que supervisionam, organizam e coordenam o trabalho de outros trabalhadores para aumentar a qualidade e eficiência de projetos de construção.
+
+#tech_constrplan#1
+Planejamento de construção
+
+#tech_constrplan_dscr_1#1
+O gerenciamento do uso da terra e a coordenação de todas as construções por uma autoridade administrativa central, também responsável por desenvolver infraestruturas que beneficiem a todos, como o traçado de ruas e estradas públicas da cidade.
+
+#tech_corbarch#1
+Arco em falsa ogiva
+
+#tech_corbarch_dscr_1#1
+Uma melhoria na eficiência de suporte de carga em relação ao projeto de viga e lintel, este método de construção de arcos utiliza a técnica arquitetônica de falsa ogiva para cobrir espaços maiores em paredes.
+
+#tech_council#1
+Conselho
+
+#tech_council_dscr_1#1
+Um conselho de conselheiros exclusivamente dedicado a auxiliar o Líder no governo. Eles passam o tempo farejando coisas e ocasionalmente resolvendo problemas ou tomando decisões em nome do Líder.
+
+#tech_court#1
+Corte
+
+#tech_court_dscr_1#1
+O estabelecimento de uma Corte para receber e entreter vassalos e subordinados, a fim de melhorar sua gestão e controlá-los melhor.
+
+#tech_crossbow#1
+Besta
+
+#tech_crossbow_dscr_1#1
+Um arco mecânico que não requer força para manter a tensão e exige menos treinamento do usuário.
+
+#tech_cuirass#1
+Couraça
+
+#tech_cuirass_dscr_1#1
+Uma peça de armadura pesada formada por uma ou várias placas de metal que cobre o torso.
+
+#tech_currcy#1
+Moeda
+
+#tech_currcy_dscr_1#1
+A escolha de uma mercadoria comum, como lingotes de metal, para realizar todas as trocas, facilitando o comércio, bem como o armazenamento e a medição de riqueza. 
+
+#tech_cuves#1
+Cubas
+
+#tech_cuves_dscr_1#1
+A habilidade de construir grandes reservatórios metálicos para líquidos, melhorando a qualidade e produtividade de indústrias como cervejarias.
+
+#tech_decarb#1
+Pudlagem
+
+#tech_decarb_dscr_1#1
+O processo de produção de aço por descarbonetação do ferro-gusa (rico em carbono) ao derretê-lo e misturá-lo com oxidantes por longos períodos, em vez de carbonizar o ferro forjado (sem carbono) por meio de forjamento manual com carvão. Ao usar ferro-gusa como material, que é muito mais fácil de produzir em massa via altos-fornos, este processo torna a produção de aço muito mais eficiente. 
+
+#tech_democracy#1
+Democracia
+
+#tech_democracy_dscr#1
+Governo como uma democracia direta, onde os cidadãos votam e participam diretamente do governo, e onde a maioria decide sem qualquer líder ou representantes.
+
+#tech_diagnos#1
+Diagnóstico
+
+#tech_diagnos_dscr_1#1
+O processo de determinar qual doença ou condição explica os sintomas e sinais de uma pessoa. 
+
+#tech_domcat#1
+Gato doméstico
+
+#tech_domcat_dscr_1#1
+A criação de felinos domesticados para proteger reservas de alimentos contra pragas.
+
+#tech_domdog#1
+Cão doméstico
+
+#tech_domdog_dscr_1#1
+Domesticar lobos selvagens para auxiliar os porcos em suas tarefas diárias, especialmente na caça e na guarda.
+
+#tech_domebdg#1
+Construção de cúpulas
+
+#tech_domebdg_dscr_1#1
+A expertise arquitetônica de construir grandes cúpulas para criar espaços internos monumentais.
+
+#tech_educ#1
+Educação
+
+#tech_educ_dscr_1#1
+O processo de facilitar o aprendizado e a transmissão de conhecimento, tradições, habilidades, valores, crenças e hábitos.
+
+#tech_eldcncl#1
+Conselho tribal
+
+#tech_eldcncl_dscr_1#1
+Um conselho de anciãos de cada família da tribo que se reúne para resolver questões e conflitos dentro da tribo: porcos velhos e sábios que conseguiram sobreviver até aqui certamente merecem respeito e devem ser ouvidos.
+
+#tech_elephrid#1
+Montaria em elefantes
+
+#tech_elephrid_dscr_1#1
+O conhecimento de como cuidar e domesticar paquidermes selvagens e como treiná-los para diversas tarefas, como combate.
+
+#tech_engineer#1
+Engenharia
+
+#tech_engineer_dscr_1#1
+A aplicação de matemática e conhecimentos científicos para inventar, construir, pesquisar e aprimorar coisas como máquinas e ferramentas.
+
+#tech_ferment#1
+Fermentação
+
+#tech_ferment_dscr_1#1
+O conhecimento de controlar a fermentação de alimentos para alterar suas propriedades.
+
+#tech_fineryforg#1
+Forja de refino
+
+#tech_fineryforg_dscr_1#1
+O refinamento do ferro 'fundido' (cheio de carbono) em ferro 'forjado' puro, aquecendo-o com oxidantes e martelando-o mecanicamente por longos períodos para remover impurezas.
+
+#tech_fishboat#1
+Barcos de pesca
+
+#tech_fishboat_dscr_1#1
+Usar barcos para pescar peixes maiores diretamente em alto-mar, em vez de ficar limitado às margens.
+
+#tech_foodstor#1
+Armazenamento de alimentos
+
+#tech_foodstor_dscr_1#1
+Como construir depósitos otimizados para armazenar alimentos e protegê-los contra umidade e pragas.
+
+#tech_forg#1
+Forjamento
+
+#tech_forg_dscr_1#1
+A arte de trabalhar o ferro martelando-o.
+
+#tech_furnitr#1
+Fabricação de móveis
+
+#tech_furnitr_dscr_1#1
+Como produzir peças finas de mobiliário para casas usando madeira e metal.
+
+#tech_garden#1
+Jardinagem
+
+#tech_garden_dscr_1#1
+A arte de cuidar, cultivar e organizar plantas para fins estéticos.
+
+#tech_geometry#1
+Geometria
+
+#tech_geometry_dscr_1#1
+Um ramo da matemática que trata de questões de forma, tamanho, posição relativa de figuras e propriedades do espaço.
+
+#tech_gillnet#1
+Redes de emalhar
+
+#tech_gillnet_dscr_1#1
+Redes de emalhar são compostas por painéis verticais de rede que ficam suspensos por uma linha com flutuadores espaçados regularmente, que mantêm a linha na superfície da água, emalhando peixes que colidem com a rede.
+
+#tech_glaz#1
+Vitrificação
+
+#tech_glaz_dscr_1#1
+Vitrificação é o processo de revestir cerâmica com substâncias vítreas, melhorando a estética e a solidez da olaria. Também a torna impermeável, permitindo que retenha líquidos com mais eficiência.
+
+#tech_glue#1
+Cola
+
+#tech_glue_dscr_1#1
+Uma substância adesiva produzida a partir de materiais animais fervidos, usada em marcenaria e na produção de móveis.
+
+#tech_godmono#1
+Dádiva da Sabedoria
+
+#tech_godmono_dscr_1#1
+Um conhecimento concedido pelo Palentir sobre como construir artefatos monolíticos que trazem prosperidade, felicidade e sabedoria aos habitantes ao seu redor.
+
+#tech_godmord#1
+Dádiva do Poder
+
+#tech_godmord_dscr_1#1
+Um conhecimento concedido pelo Palentir que ensina como construir uma gigantesca torre negra, prometendo realizar seu desejo de dominação mundial assim que concluída.
+
+#tech_goldsmth#1
+Ourivesaria
+
+#tech_goldsmth_dscr_1#1
+A arte de trabalhar com Ouro e outros metais preciosos para criar objetos decorativos, como joias.
+
+#tech_gov#1
+Governança
+
+#tech_gov_dscr_1#1
+Um governo organizado e hierarquizado, composto por Servidores Públicos e regulado por leis formais.
+
+#tech_granary#1
+Celeiro
+
+#tech_granary_dscr_1#1
+Como construir estruturas projetadas especificamente para armazenar alimentos e protegê-los de pragas, garantindo sua conservação por mais tempo.
+
+#tech_grndmining#1
+Mineração Subterrânea
+
+#tech_grndmining_dscr_1#1
+A expertise de escavar galerias subterrâneas e de prospectar e explorar depósitos de minérios no subsolo.
+
+#tech_guard#1
+Guardas
+
+#tech_guard_dscr_1#1
+Os guardas fazem valer a autoridade do governo patrulhando as cidades e protegendo o governo e seus oficiais.
+
+#tech_helbard#1
+Alabarda
+
+#tech_helbard_dscr_1#1
+Uma arma de haste de duas mãos que combina o ataque perfurante de lanças e o corte de machados de batalha.
+
+#tech_herb#1
+Herbalismo
+
+#tech_herb_dscr_1#1
+O estudo de plantas, frutos e raízes e seus efeitos sobre as pessoas, para curar doenças e outros males do corpo.
+
+#tech_hops#1
+Lúpulo
+
+#tech_hops_dscr_1#1
+A prática de adicionar Lúpulo na fabricação de cerveja, o que não apenas confere amargor e sabor, mas também atua como agente estabilizante, aumentando sua durabilidade.
+
+#tech_horsebckrid#1
+Equitação
+
+#tech_horsebckrid_dscr_1#1
+Domesticamos e treinamos animais para que possamos montá-los diretamente em seus dorsos!
+
+#tech_hvhelmet#1
+Elmo Pesado
+
+#tech_hvhelmet_dscr_1#1
+O conhecimento de projetar e fabricar elmos pesados de metal para maior proteção. 
+
+#tech_hvshield#1
+Escudo Pesado
+
+#tech_hvshield_dscr_1#1
+Um escudo muito grande reforçado com placas de metal, como bronze ou ferro.
+
+#tech_iron#1
+Metalurgia do Ferro
+
+#tech_iron_dscr_1#1
+O conhecimento sobre o Ferro, seus diferentes minérios, sua extração em fornos e como trabalhar com ele.
+
+#tech_irrig#1
+Irrigação
+
+#tech_irrig_dscr_1#1
+A técnica de gerenciamento e transporte de água para manter grandes áreas de plantações bem irrigadas.
+
+#tech_irrig_fx1#1
+Eficiência dos campos +0,1
+
+#tech_javelin#1
+Dardo
+
+#tech_javelin_dscr_1#1
+Uma lança leve projetada principalmente para ser arremessada como arma de longo alcance, causando alto dano mesmo contra inimigos blindados.
+
+#tech_jewelry#1
+Joalheria
+
+#tech_jewelry_dscr_1#1
+A arte de criar joias, itens decorativos usados para adorno pessoal, frequentemente empregados para exibir status social.
+
+#tech_kiln#1
+Fornalha
+
+#tech_kiln_dscr_1#1
+Uma fornalha é uma câmara termicamente isolada que produz temperaturas suficientes para completar processos como endurecimento, secagem ou mudanças químicas.
+
+#tech_knives#1
+Facas
+
+#tech_knives_dscr_1#1
+Como fabricar novas ferramentas especificamente projetadas para facilitar o abate.
+
+#tech_lamnrarm#1
+Armadura laminada
+
+#tech_lamnrarm_dscr_1#1
+Uma armadura feita de fileiras ou faixas sobrepostas de placas sólidas, proporcionando melhor mobilidade do que couraças inteiriças.
+
+#tech_lawmaking#1
+Legislação
+
+#tech_lawmaking_dscr#1
+Uma instituição de Servidores Civis especializados em legislação.
+
+#tech_laws#1
+Código de leis
+
+#tech_laws_dscr_1#1
+Agora temos um conjunto universal de regras para definir o que é permitido e o que não é em nossa sociedade, de modo que todos estejam sujeitos às mesmas regras e penalidades de forma justa.
+
+#tech_lead#1
+Liderança
+
+#tech_lead_dscr_1#1
+Um Porco para governar a todos. Certamente é mais eficiente do que perder tempo discutindo com cada membro da tribo sobre qual lama é a melhor lama.
+
+#tech_lead_fx1#1
+Desbloqueia a fabricação de reivindicações
+
+#tech_lever#1
+Alavanca
+
+#tech_lever_dscr_1#1
+Uma máquina simples composta por uma viga ou haste rígida pivotada em uma dobradiça fixa, que permite amplificar uma força de entrada para gerar uma força de saída maior, melhorando significativamente a capacidade de manipular cargas pesadas em manutenção e construção.
+
+#tech_lhelmet#1
+Elmo
+
+#tech_lhelmet_dscr_1#1
+Uma peça protetora de armadura usada na cabeça.
+
+#tech_longbow#1
+Arco longo
+
+#tech_longbow_dscr_1#1
+Um tipo de arco que é alto, permitindo que arqueiros experientes tenham um alcance e potência de tiro consideráveis.
+
+#tech_longsword#1
+Espada longa
+
+#tech_longsword_dscr_1#1
+Um tipo de espada caracterizada por um cabo cruciforme com empunhadura para uso com duas mãos e de comprimento significativo.
+
+#tech_loom2#1
+Tear de pesos
+
+#tech_loom2_dscr_1#1
+O tear é um dispositivo usado para tecer pano em vez de fazê-lo manualmente, melhorando sua produção.
+
+#tech_loom3#1
+Tear manual
+
+#tech_loom3_dscr_1#1
+Um tear aprimorado que permite a produção de tecido de forma mais rápida e prática.
+
+#tech_loom4#1
+Tear de pedal para tear de chão
+
+#tech_loom4_dscr_1#1
+Um tear maior que fica diretamente no chão e usa pedais chamados teares para controlar seus mecanismos.
+
+#tech_loom5#1
+Tear de lançadeira volante
+
+#tech_loom5_dscr_1#1
+Com a lançadeira volante, um único tecelão agora pode produzir tecido mais largo que um braço e em velocidades muito maiores do que as alcançadas com teares anteriores.
+
+#tech_loom6#1
+Tear mecânico
+
+#tech_loom6_dscr_1#1
+Um tear mecanizado.
+
+#tech_manure#1
+Adubação com esterco
+
+#tech_manure_dscr_1#1
+Acontece que colocar esterco no solo faz as plantas crescerem mais rápido e maiores, quem diria?
+
+#tech_manure_fx1#1
+Eficiência dos campos +0.1
+
+#tech_market#1
+Mercado
+
+#tech_market_dscr_1#1
+Mercados são locais com comerciantes especializados que mantêm contato com as necessidades e ofertas de cidades estrangeiras, permitindo comprar e vender facilmente mercadorias de cidades da sua rede de comércio.
+
+#tech_marriages#1
+Casamentos de aliança
+
+#tech_marriages_dscr#1
+A prática de organizar casamentos políticos para selar alianças entre estados.
+
+#tech_marriages_fx1#1
+Permite +1 subordinado para líderes de Nações.
+
+#tech_masonry#1
+Alvenaria
+
+#tech_masonry_dscr_1#1
+A construção de estruturas a partir de unidades individuais, como pedras ou tijolos, que são frequentemente assentadas e unidas por argamassa.
+
+#tech_metalrgy#1
+Metalurgia
+
+#tech_metalrgy_dscr_1#1
+O conhecimento sobre metais, duros e maleáveis ao serem martelados, ao contrário das pedras frágeis.
+
+#tech_metcast#1
+Fundição de metais
+
+#tech_metcast_dscr_1#1
+A expertise de usar metais totalmente liquefeitos, despejados em moldes para produzir objetos metálicos de forma eficiente.
+
+#tech_metrolog#1
+Metrologia
+
+#tech_metrolog_dscr_1#1
+O uso de unidades padronizadas de medida para coisas como distâncias, volumes ou pesos. 
+
+#tech_metshield#1
+Escudo de metal
+
+#tech_metshield_dscr_1#1
+Um escudo reforçado com placas de metal, como bronze ou ferro, para resistência adicional.
+
+#tech_miningtl#1
+Ferramentas de mineração
+
+#tech_miningtl_dscr_1#1
+A expertise de fabricar ferramentas e equipamentos especializados para mineração.
+
+#tech_mudbdg#1
+Construção com barro
+
+#tech_mudbdg_dscr_1#1
+A prática de construir estruturas feitas de várias argamassas derivadas de barro e água.
+
+#tech_mudbrick#1
+Tijolos de barro
+
+#tech_mudbrick_dscr_1#1
+Como usar e processar solo para transformá-lo em tijolos sólidos, facilitando a construção com materiais baratos.
+
+#tech_multistor#1
+Edifício de múltiplos andares
+
+#tech_multistor_dscr_1#1
+A expertise arquitetônica de construir edifícios altos com múltiplos andares.
+
+#tech_obsidn#1
+Armas de obsidiana
+
+#tech_obsidn_dscr_1#1
+A arte de fabricar armas letais feitas de madeira e obsidiana (vidro vulcânico), que são mais afiadas do que qualquer outro tipo de arma de sílex. A obsidiana pode ser mais afiada que o aço, mas, por ser vidro, é frágil e só pode ser esculpida em formatos desejados.
+
+#tech_oliveoil#1
+Azeite de oliva
+
+#tech_oliveoil_dscr_1#1
+O azeite de oliva é uma gordura líquida obtida de azeitonas, usada como ingrediente culinário, mas também como remédio e para cuidados com a pele.
+
+#tech_orecrush#1
+Moinho triturador de minérios
+
+#tech_orecrush_dscr_1#1
+Um moinho usado para triturar minérios mecanicamente em pedaços menores, melhorando a eficiência e a qualidade do refino de minérios.
+
+#tech_packanim#1
+Animais de carga
+
+#tech_packanim_dscr_1#1
+Agora podemos usar alguns animais para transportar cargas, colocando sacos pesados em suas costas e guiando-os a pé.
+
+#tech_paddarm#1
+Armadura acolchoada
+
+#tech_paddarm_dscr_1#1
+Uma jaqueta defensiva acolchoada e barata, usada sozinha ou combinada com cota de malha ou armadura de placas, geralmente feita de linho ou lã e produzida com a técnica de costura acolchoada.
+
+#tech_paparmor#1
+Armadura de papel
+
+#tech_paparmor_dscr_1#1
+Uma armadura feita de camadas de papel que é surpreendentemente eficiente em relação ao seu custo de produção.
+
+#tech_paper#1
+Papel
+
+#tech_paper_dscr_1#1
+Um material em folha fina produzido pelo processamento mecânico de fibras derivadas de madeira, trapos, gramíneas ou outros vegetais, usado como suporte para escrita.
+
+#tech_philo#1
+Filosofia
+
+#tech_philo_dscr_1#1
+O estudo de problemas gerais e fundamentais relacionados a questões como existência, conhecimento, valores, razão, mente e linguagem.
+
+#tech_phonetic#1
+Escrita fonética
+
+#tech_phonetic_dscr_1#1
+Escrita com um número limitado de sinais, um alfabeto, representando sons falados em vez de coisas.
+
+#tech_pickaxe#1
+Picareta
+
+#tech_pickaxe_dscr_1#1
+Uma ferramenta de aço para quebrar rochas.
+
+#tech_pictgrm#1
+Escrita pictográfica
+
+#tech_pictgrm_dscr_1#1
+Escrita sobre objetos, ações e ideias usando sinais em forma de imagens.
+
+#tech_plantselect#1
+Seleção de plantas
+
+#tech_plantselect_dscr_1#1
+O processo de selecionar cuidadosamente plantas com as melhores propriedades desejadas, geração após geração, para desenvolver certas características, como produtividade, velocidade de crescimento e resistência.
+
+#tech_plaster#1
+Gesso
+
+#tech_plaster_dscr_1#1
+Um material de construção usado para revestimento protetor ou decorativo de paredes e tetos, feito aquecendo cal em alta temperatura.
+
+#tech_platearm#1
+Armadura de placas
+
+#tech_platearm_dscr_1#1
+Um tipo de armadura feita de placas de aço cuidadosamente articuladas, envolvendo completamente o usuário e oferecendo proteção extrema, mantendo-se o mais leve possível.
+
+#tech_plough#1
+Arado
+
+#tech_plough_dscr_1#1
+Uma grande ferramenta agrícola com uma ou mais lâminas fixadas em uma estrutura, puxada sobre o solo para revolvê-lo e abrir sulcos em preparação para o plantio de sementes, aumentando a fertilidade e a homogeneidade dos campos.
+
+#tech_portage#1
+Transporte por Portagem
+
+#tech_portage_dscr_1#1
+Agora podemos ter pessoas especializadas em transportar mercadorias através de territórios para garantir uma transferência constante de recursos, em vez de depender de caravanas manuais pontuais.
+
+#tech_postal#1
+Serviço Postal
+
+#tech_postal_dscr_1#1
+Um serviço organizado de mensageiros e estações de revezamento especializados em transportar documentos escritos e mensagens entre cidades.
+
+#tech_prefects#1
+Prefeitos
+
+#tech_prefects_dscr#1
+Funcionários públicos do governo estabelecidos em estados subordinados para melhorar sua gestão e comunicação com eles.
+
+#tech_privl#1
+Privilégios
+
+#tech_privl_dscr_1#1
+Alguns Porcos são mais dignos que outros, e certamente seu tempo é precioso demais para ser gasto trabalhando. Eles ainda precisam de coisas para viver, no entanto. Como dedicam seu tempo para o bem de todos, todos devem contribuir e dar um pouco de seu trabalho a eles!
+
+#tech_prprt#1
+Propriedade
+
+#tech_prprt_dscr_1#1
+O conceito de que coisas e moradias não são mais compartilhadas por toda a tribo, mas sim utilizáveis apenas por um Porco específico.
+
+#tech_ptrwhl#1
+Roda de Oleiro
+
+#tech_ptrwhl_dscr_1#1
+A roda de oleiro é uma máquina usada na modelagem de peças cerâmicas redondas, melhorando a qualidade e a produção de cerâmica. Ela permite o desenvolvimento de um novo processo de fabricação chamado 'torno', no qual um bloco de argila é colocado em uma roda que gira rapidamente e moldado enquanto ela gira. Substitui a técnica mais primitiva de 'roletagem', na qual a argila era enrolada em fios longos para formar a cerâmica.
+
+#tech_ptry#1
+Cerâmica
+
+#tech_ptry_dscr_1#1
+Cerâmica é a arte de transformar material cerâmico em potes ou objetos de olaria.
+
+#tech_ptry_dscr_2#1
+É feita moldando uma massa de argila em objetos do formato desejado e aquecendo-os a altas temperaturas em um forno, o que remove toda a água da argila, endurecendo-a permanentemente e fixando sua forma. Os potes herméticos permitem uma melhor conservação dos alimentos.
+
+#tech_puddlngforg#1
+Forno de Reverberação
+
+#tech_puddlngforg_dscr_1#1
+Um forno metalúrgico que permite o isolamento do ferro sendo processado do contato com o combustível, produzindo ferro 'forjado' de maior qualidade (sem carbono) através do processo de pudlagem.
+
+#tech_pulley#1
+Polia
+
+#tech_pulley_dscr_1#1
+Uma roda em um eixo ou haste projetada para suportar movimento e mudança de direção de um cabo ou correia esticados, ou transferência de potência entre o eixo e o cabo ou correia. 
+
+#tech_quarr#1
+Extração de Pedra
+
+#tech_quarr_dscr_1#1
+A escavação organizada de blocos pesados de pedra.
+
+#tech_quarrhv#1
+Extração Pesada de Pedra
+
+#tech_quarrhv_dscr_1#1
+Melhoria na extração de pedra com o uso de mecânica de engenharia e guindastes de roda de tração.
+
+#tech_regions#1
+Administrações Regionais
+
+#tech_regions_dscr_1#1
+A organização do território em regiões separadas, cada uma com sua própria administração e supervisão, federadas sob um governo central.
+
+#tech_republic#1
+República
+
+#tech_republic_dscr#1
+Governo como uma república onde os estadoporcos governam em nome do povo.
+
+#tech_rotgraz#1
+Pastejo Rotativo
+
+#tech_rotgraz_dscr_1#1
+O gado agora é rotacionado regularmente para piquetes frescos no momento certo para evitar o superpastejo e otimizar o crescimento da grama.
+
+#tech_rum#1
+Rum
+
+#tech_rum_dscr_1#1
+Uma bebida alcoólica feita de cana-de-açúcar.
+
+#tech_runwat#1
+Água encanada
+
+#tech_runwat_dscr_1#1
+A expertise no gerenciamento do transporte de água por longas distâncias para fornecê-la diretamente aos edifícios.
+
+#tech_salt#1
+Sal
+
+#tech_salt_dscr_1#1
+O sal é muito útil para melhorar a conservação de carne fresca.
+
+#tech_sausg#1
+Linguiças
+
+#tech_sausg_dscr_1#1
+As linguiças são uma forma de processar carne fresca, permitindo uma conservação mais longa.
+
+#tech_scalearm#1
+Armadura de escamas
+
+#tech_scalearm_dscr_1#1
+Um tipo de armadura feita de muitas pequenas escamas individuais de armadura presas umas às outras e a um suporte de tecido ou couro em fileiras sobrepostas, oferecendo boa proteção contra golpes contundentes.
+
+#tech_seals#1
+Selos de autenticação
+
+#tech_seals_dscr_1#1
+A prática de usar carimbos e selos oficiais na administração para autenticar a origem de documentos e missivas vindos de lugares distantes.
+
+#tech_sedent#1
+Sedentarismo
+
+#tech_sedent_dscr_1#1
+A prática de viver permanentemente em um único lugar. 
+
+#tech_sewers#1
+Esgotos
+
+#tech_sewers_dscr_1#1
+Como gerenciar o esgoto com uma rede de canais com água corrente para evacuar resíduos.
+
+#tech_shield#1
+Escudo
+
+#tech_shield_dscr_1#1
+Uma peça de armadura pessoal feita de madeira e couro, segurada na mão para bloquear golpes em combate corpo a corpo ou projéteis como flechas. 
+
+#tech_sledge#1
+Trilho de carga
+
+#tech_sledge_dscr_1#1
+Uma plataforma móvel de suporte de carga montada sobre trilhos de madeira e usando graxa animal para mover cargas pesadas pelo solo com uma força de trabalho limitada, melhorando a velocidade e as capacidades de construção.
+
+#tech_smelt#1
+Fundição
+
+#tech_smelt_dscr_1#1
+O conhecimento de como extrair metais puros escondidos em minérios através do aquecimento.
+
+#tech_soilcol#1
+Coletores de resíduos
+
+#tech_soilcol_dscr_1#1
+Coleta de resíduos da população para usar como fertilizante na agricultura.
+
+#tech_spear#1
+Lança
+
+#tech_spear_dscr_1#1
+Uma arma básica de haste, geralmente de madeira, com uma ponta afiada.
+
+#tech_sprfish#1
+Pesca com lança
+
+#tech_sprfish_dscr_1#1
+A expertise de usar lanças para matar e capturar peixes nas margens ou em águas rasas.
+
+#tech_statedprt#1
+Departamentos Estatais
+
+#tech_statedprt_dscr#1
+Expansão da administração em diferentes departamentos com servidores civis especializados focados na gestão de um aspecto único do governo, melhorando a capacidade administrativa do Estado.
+
+#tech_steel#1
+Aço
+
+#tech_steel_dscr_1#1
+Uma liga de ferro com carbono de grande resistência e flexibilidade, usada para aprimorar ferramentas e armas.
+
+#tech_stlshld#1
+Escudo de aço
+
+#tech_stlshld_dscr_1#1
+Escudo reforçado com aço para resistência adicional, permanecendo mais leve que outros escudos metálicos.
+
+#tech_stonebdg#1
+Construção em pedra
+
+#tech_stonebdg_dscr_1#1
+A prática de construir estruturas com pedras empilhadas e unidas por argamassa rudimentar.
+
+#tech_stonecut#1
+Cantaria
+
+#tech_stonecut_dscr_1#1
+A habilidade de cortar pedra com ferramentas metálicas para moldá-las conforme desejado.
+
+#tech_storhaul#1
+Transporte de armazenamento
+
+#tech_storhaul_dscr_1#1
+Uso de animais de carga e carroças para melhorar o manuseio de mercadorias nos armazéns.
+
+#tech_storheav#1
+Elevação pesada
+
+#tech_storheav_dscr_1#1
+Uso de engenharia e rodas de tração para melhorar o manuseio de mercadorias nos armazéns.
+
+#tech_sword#1
+Espada
+
+#tech_sword_dscr_1#1
+Uma arma branca destinada a cortar ou perfurar o oponente.
+
+#tech_tanning#1
+Curtimento
+
+#tech_tanning_dscr_1#1
+Não há mais necessidade de usar peles de animais podres. Ao remover os pelos, secar e defumar os couros, podemos produzir couro adequado. Ele dura mais, é mais flexível e menos fedido para focinhos delicados.
+
+#tech_tax#1
+Tributação
+
+#tech_tax_dscr_1#1
+Um sistema organizado de tributação monetária.
+
+#tech_tercntrl#1
+Controle territorial
+
+#tech_tercntrl_dscr#1
+A organização de patrulhas para vigiar territórios vazios reivindicados.
+
+#tech_town#1
+Administração municipal
+
+#tech_town_dscr#1
+O desenvolvimento de uma administração local empregando servidores civis dedicados a administrar os assuntos da cidade e seus territórios rurais anexos.
+
+#tech_tradewg#1
+Carroças comerciais
+
+#tech_tradewg_dscr_1#1
+Agora usamos carroças com rodas puxadas por animais para transportar grandes quantidades de carga.
+
+#tech_transac#1
+Registro de transações
+
+#tech_transac_dscr_1#1
+Mantemos o controle de estoques, transações e pagamentos fazendo pequenas marcas em argila úmida de uma maneira especial conhecida apenas por alguns Porcos, que chamamos de Escribas. Não é mais preciso lembrar de tudo! Isso facilita muito a gestão da cidade, e podemos garantir que as coisas não sejam mais 'esquecidas' ou 'perdidas'...
+
+#tech_trdwheelcr#1
+Guindaste de roda de tração
+
+#tech_trdwheelcr_dscr_1#1
+Um guindaste de madeira, movido a força suína, usado em construção e manuseio de cargas, utilizando polias e contrapesos para lidar com cargas pesadas com pouca força porcina. 
+
+#tech_treasury#1
+Tesouraria
+
+#tech_treasury_dscr_1#1
+A separação das finanças do Líder e do Governo.
+
+#tech_treaties#1
+Tratados diplomáticos
+
+#tech_treaties_dscr_1#1
+A prática de manter tratados e compromissos diplomáticos formais.
+
+#tech_treaties_fx1#1
+Permite +7 subordinados Nacionais para líderes de Nações.
+
+#tech_tribut#1
+Tributos
+
+#tech_tribut_dscr_1#1
+O governo está cheio de porcos dedicando seu tempo integral para gerenciar as coisas: eles não têm tempo para trabalhos braçais! Mas é claro que ainda precisam comer e ter coisas bonitas e brilhantes. Portanto, é natural que todos os outros deem uma parte de seu trabalho para 'a comunidade' pelo bem comum de todos.
+
+#tech_tributaries#1
+Tributários
+
+#tech_tributaries_dscr_1#1
+A prática de manter reféns de estados vassalizados à força para garantir sua lealdade e submissão.
+
+#tech_urunhair#1
+Depilação com urina
+
+#tech_urunhair_dscr_1#1
+Quem diria que urina poderia ser útil: deixar as peles de molho nela por dias facilita o árduo processo de depilação, melhorando a produção de couro.
+
+#tech_vassalage#1
+Vassalagem
+
+#tech_vassalage_dscr_1#1
+O estabelecimento de relações hierárquicas complexas em níveis, onde Suseranos e Senhores estabelecem obrigações mútuas e se comprometem com lealdade.
+
+#tech_vassalage_fx1#1
+Permite ter subordinados Nacionais mesmo que você não seja o líder da Nação.
+
+#tech_vegettan#1
+Curtimento vegetal
+
+#tech_vegettan_dscr_1#1
+Porcos ecológicos se alegram: o curtimento vegetal, a evolução ecologicamente correta do curtimento, agora está disponível. Chega de usar cérebros e fumaça nojentos: taninos, que vêm de cascas de árvores, tornam o couro mais flexível, durável e resistente à água!
+
+#tech_ventshaft#1
+Poços de ventilação
+
+#tech_ventshaft_dscr_1#1
+Como melhorar e gerenciar a ventilação de ar em galerias de mineração, permitindo minas mais profundas e produtivas.
+
+#tech_verneer#1
+Folheamento
+
+#tech_verneer_dscr_1#1
+Uma técnica de colar finas folhas de madeira para produzir uma peça de madeira mais resistente e econômica, mantendo as mesmas qualidades estéticas.
+
+#tech_village#2
+Centro da aldeia
+
+#tech_village_dscr#1
+A ideia de ter um edifício comunitário usado para discutir e organizar assuntos do assentamento e empregar funcionários civis dedicados à administração de assuntos locais.
+
+#tech_warehous#1
+Armazéns
+
+#tech_warehous_dscr_1#1
+A construção de edifícios especializados para o armazenamento e transporte de grandes quantidades de recursos.
+
+#tech_warham#1
+Martelo de guerra
+
+#tech_warham_dscr_1#1
+Uma arma de cabo longo derivada de ferramentas e especialmente eficiente contra armaduras pesadas, como placas de aço.
+
+#tech_watres#1
+Reservatórios de água
+
+#tech_watres_dscr_1#1
+Como construir grandes reservatórios de água impermeáveis para armazenar água.
+
+#tech_weaving#1
+Tecelagem
+
+#tech_weaving_dscr_1#1
+Agora podemos criar estranhos tecidos a partir de um único fio feito de plantas!
+
+#tech_well#1
+Escavação de poços
+
+#tech_well_dscr_1#1
+Como cavar buracos no solo para explorar fontes subterrâneas de água.
+
+#tech_wheel#1
+Roda
+
+#tech_wheel_dscr_1#1
+Ela gira!
+
+#tech_wine#1
+Vinho
+
+#tech_wine_dscr_1#1
+Como produzir uma bebida intoxicante a partir de uvas.
+
+#tech_yeast#1
+Massa fermentada
+
+#tech_yeast_dscr_1#1
+Como preservar as propriedades desejáveis obtidas de uma mistura aleatória de leveduras, mantendo e reutilizando amostras de lotes anteriores para misturá-las com a massa dos próximos, melhorando a produção de pão.
+
