@@ -1,0 +1,923 @@
+#bdg_all#1
+Todos os edifícios
+
+#bdg_annex_dscr#1
+Anexos são edifícios que pertencem a outro e fornecem fontes adicionais de produção ou capacidades de distribuição.
+
+#bdg_annex_n#1
+anexo
+
+#bdg_battlem_dscr#1
+Ameias só podem ser construídas em plataformas. Elas fornecem um bônus de combate para unidades posicionadas na plataforma durante batalhas.
+
+#bdg_battlem_n#1
+ameias
+
+#bdg_deco_dscr#1
+Elementos puramente decorativos para melhorar a aparência da sua cidade.
+
+#bdg_deco_n#1
+decorativo
+
+#bdg_gates_dscr#1
+Portões bloqueiam tropas hostis durante batalhas. Precisam ser colocados adjacentes a uma plataforma no modo 'ponte'.
+
+#bdg_gates_n#1
+portão
+
+#bdg_hous_dscr#1
+Acomoda a população, melhorando sua saúde e qualidade de vida.
+
+#bdg_hous_n#1
+moradia
+
+#bdg_ind_dscr#1
+Produz bens a partir de recursos existentes.
+
+#bdg_ind_n#1
+edifício industrial
+
+#bdg_merch_dscr#1
+Distribuidores obtêm recursos de qualquer edifício produtor ou armazenamento e os disponibilizam para a população. Eles podem distribuir grandes quantidades de recursos, mas os comerciantes ficam com uma parte da renda das vendas, reduzindo a renda do produtor no processo.
+
+#bdg_merch_n#1
+distribuição
+
+#bdg_pltf_dscr#1
+Plataformas são elevações de terreno criadas pelos porcos sobre as quais você pode construir. Estruturas defensivas como torres e ameias só podem ser construídas sobre plataformas. Elas são caras e demoradas para construir.
+
+#bdg_pltf_n#1
+plataformas
+
+#bdg_prod_dscr#1
+Explora tiles de terreno para produzir recursos brutos.
+
+#bdg_prod_n#1
+edifício de produção
+
+#bdg_roads_dscr#1
+Melhora o movimento das unidades neste tile e fornece bônus para edifícios conectados. [Atualmente apenas decorativo]
+
+#bdg_roads_n#1
+estradas
+
+#bdg_srv_dscr#1
+Produz um serviço (um recurso não material que não pode ser armazenado).
+
+#bdg_srv_n#1
+serviço
+
+#bdg_stairs_dscr#1
+Permite que os porcos acessem tiles com alturas diferentes. Coloque contra plataformas ou penhascos para dar acesso. Pressione a barra de espaço para mudar a direção.
+
+#bdg_stairs_n#1
+escadas
+
+#bdg_stor_dscr#1
+Armazena recursos.
+
+#bdg_stor_n#1
+armazenamento
+
+#bdg_towers_dscr#1
+Torres defensivas empregam soldados independentemente de guarnições e formações. Elas só podem ser construídas em plataformas. Fornecem apoio de fogo durante batalhas.
+
+#bdg_towers_n#1
+torres defensivas
+
+#bdg_walls_dscr#1
+Estrutura defensiva que impede a passagem de todas as unidades.
+
+#bdg_walls_n#1
+muros
+
+#txt_academ_n#1
+Academia
+
+#txt_acedem_dscr#1
+Porcos sábios e conhecedores que estudam as artes e ciências aumentam a educação e a cultura e contribuem para projetos de pesquisa.
+
+#txt_agora_dscr#1
+Um edifício único da capital vinculado à política 'Democracia' que produz Poder Estatal. Uma grande praça onde os Cidadãos se reúnem para votar e discutir assuntos da governança da Cidade diretamente.
+
+#txt_agora_n#1
+Ágora
+
+#txt_archtct_dscr#1
+Produz o serviço Planos, necessário para monumentos importantes.
+
+#txt_archtct_n#1
+Arquiteto
+
+#txt_bakery_dscr#1
+Faz pão a partir de farinha.
+
+#txt_bakery_n#1
+Padaria
+
+#txt_baths_dscr#1
+Um local de convívio social e relaxamento que também melhora a saúde.
+
+#txt_baths_n#1
+Termas públicas
+
+#txt_batlm1_dscr#1
+Ameias de madeira rudimentares que oferecem cobertura básica contra disparos inimigos para unidades posicionadas na plataforma durante batalhas.
+
+#txt_batlm1_n#1
+Ameias de madeira
+
+#txt_batlm2_dscr#1
+Ameias de pedra que oferecem cobertura contra disparos inimigos para unidades posicionadas na plataforma durante batalhas.
+
+#txt_batlm2_n#1
+Ameias de pedra
+
+#txt_batlm3_dscr#1
+Ameias pesadas feitas de blocos maciços de pedra com mata-cães, oferecendo excelente cobertura contra disparos inimigos para unidades posicionadas na plataforma durante batalhas.
+
+#txt_batlm3_n#1
+Ameias de pedra com mata-cães
+
+#txt_batlm4_dscr#1
+Excelente cobertura, porém mais frágeis que as ameias de pedra.
+
+#txt_batlm4_n#1
+Galeria de madeira
+
+#txt_brewery_dscr#1
+Produz cerveja a partir de cevada. A cerveja é um recurso distribuível que satisfaz a necessidade da população por bebidas alcoólicas.
+
+#txt_brewery_n#1
+Cervejaria
+
+#txt_brickwk_dscr#1
+Produz tijolos, um material básico de construção.
+
+#txt_brickwk_n#1
+Olaria
+
+#txt_builder_dscr#1
+Muitos edifícios só podem ser construídos por equipes profissionais de construtores.
+
+#txt_builder_n#1
+Construtores
+
+#txt_butcher_dscr#1
+Abate gado vivo para produzir carne fresca.
+
+#txt_butcher_n#1
+Açougueiro
+
+#txt_carpetmkr_dscr#1
+Produz tapetes, um recurso distribuível que atende à necessidade da população por Mobiliário.
+
+#txt_carpetmkr_n#1
+Tapeceiro
+
+#txt_cattle_dscr#1
+A fazenda de gado permite criar pastos que produzem gado.
+
+#txt_cattle_n#1
+Fazenda de gado
+
+#txt_charcl_dscr#1
+Carboniza madeira em carvão vegetal.
+
+#txt_charcl_n#1
+Fornos de carvão vegetal
+
+#txt_cider_dscr#1
+Produz sidra a partir de maçãs. A sidra é um recurso distribuível que satisfaz a necessidade da população por bebidas alcoólicas.
+
+#txt_cider_n#1
+Serraria de sidra
+
+#txt_cityhall_dscr#1
+O edifício do centro administrativo regional necessário para uma Cidade.
+
+#txt_cityhall_n#1
+Prefeitura
+
+#txt_claycamp_dscr#1
+Pode explorar terrenos argilosos para produzir argila. Precisa ser colocado ao alcance de depósitos de argila.
+
+#txt_claycamp_n#1
+Exploração de argila
+
+#txt_claypit_dscr#1
+Coloque diretamente sobre terrenos argilosos. Aumenta a produção de argila desses terrenos.
+
+#txt_claypit_n#1
+Poço de argila
+
+#txt_clothmk_dscr#1
+Produz roupas a partir de tecidos. As roupas são um recurso distribuível que satisfaz a necessidade da população por vestuário.
+
+#txt_clothmk_n#1
+Fabricante de roupas
+
+#txt_comunhall_dscr#1
+O edifício do centro administrativo regional necessário para uma Aldeia. Uma grande casa comunal onde assuntos da aldeia podem ser discutidos e gerenciados.
+
+#txt_comunhall_n#1
+Sala Comunitária
+
+#txt_dock_dscr#1
+Docas para navios mercantes que transportam mercadorias entre territórios. Produz uma grande quantidade de Carga, necessária para operar rotas comerciais.
+
+#txt_dock_n#1
+Docas
+
+#txt_doctor_dscr#1
+Aumenta a saúde da população.
+
+#txt_doctor_n#1
+Médico
+
+#txt_drktwr_dscr#1
+Lar do Rei Negro e fonte de seus poderes malignos concedidos pelo Palantír.
+
+#txt_drktwr_n#1
+A Torre Negra
+
+#txt_dstrplatf_dscr#1
+Ordena a destruição das plataformas selecionadas.
+
+#txt_dstrplatf_n#1
+Destruir plataformas
+
+#txt_eldcounc_dscr#1
+Um conselho de anciãos para resolver conflitos na cidade.
+
+#txt_eldcounc_n#1
+Conselho dos Anciãos
+
+#txt_eldrcncl_dscr#1
+Um conselho de líderes de família que tenta resolver conflitos entre os membros da tribo e fornece uma forma primitiva de lei.
+
+#txt_eldrcncl_n#1
+Conselho Tribal
+
+#txt_elephantpen_dscr#1
+Currais de elefantes permitem o armazenamento de um único animal grande, como Elefantes.
+
+#txt_elephantpen_n#1
+Curral de elefantes
+
+#txt_farm_dscr#1
+Pode criar campos para produzir uma variedade de recursos agrícolas. Também pode explorar os naturalmente presentes ao alcance.
+
+#txt_farm_n#1
+Fazenda
+
+#txt_fence1_dscr#1
+Cercas rústicas feitas de madeira.
+
+#txt_fence1_n#1
+Cerca de madeira
+
+#txt_fence2_dscr#1
+Cercas decorativas dignas de jardins e avenidas.
+
+#txt_fence2_n#1
+Cerca elegante
+
+#txt_fence3_dscr#1
+Cercas rústicas feitas de pedra.
+
+#txt_fence3_n#1
+Cerca de pedra
+
+#txt_field_dscr#1
+Os campos só podem ser trabalhados pela fazenda à qual pertencem. Produzem uma ampla variedade de produtos agrícolas.
+
+#txt_field_n#1
+Campo
+
+#txt_fisher_dscr#1
+Pode explorar pontos de pesca selvagem para produzir peixe fresco. Precisa ser colocado na margem, ao alcance de um ponto de pesca selvagem.
+
+#txt_fisher_n#1
+Pescador
+
+#txt_flint_dscr#1
+Produz pederneira a partir de terrenos de cascalho. A pederneira pode ser usada por fabricantes de ferramentas para criar ferramentas de pedra.
+
+#txt_flint_n#1
+Coletor de pederneira
+
+#txt_flowerbed_dscr#1
+Um simples canteiro de flores para decoração.
+
+#txt_flowerbed_n#1
+Canteiro de flores
+
+#txt_forum_dscr#1
+Um local de encontro social para discutir assuntos relacionados à comunidade.
+
+#txt_forum_n#1
+Fórum
+
+#txt_ftower1#1
+Torre primitiva
+
+#txt_ftower1_dscr#1
+Uma torre defensiva primitiva feita de madeira. Dispara dardos.
+
+#txt_fundry_dscr#1
+Refina minérios metálicos em lingotes.
+
+#txt_fundry_n#1
+Fundição
+
+#txt_furnmkr_dscr#1
+Produz móveis, um recurso distribuível que atende à necessidade da população por Mobiliário.
+
+#txt_furnmkr_n#1
+Fabricante de móveis
+
+#txt_garden1_dscr#1
+Jardins decorativos com flores.
+
+#txt_garden1_n#1
+Jardins de flores
+
+#txt_garden2_dscr#1
+Jardins decorativos com árvores.
+
+#txt_garden2_n#1
+Jardins de árvores
+
+#txt_gate1_dscr#1
+Um portão barato de madeira.
+
+#txt_gate1_n#1
+Portão de madeira
+
+#txt_gate2_dscr#1
+Um portão resistente feito de madeira reforçada com bronze.
+
+#txt_gate2_n#1
+Portão resistente
+
+#txt_gate3_dscr#1
+Um portão sólido reforçado com ferro.
+
+#txt_gate3_n#1
+Portão reforçado
+
+#txt_gather_dscr#1
+Pode explorar recursos agrícolas selvagens. Precisa ser colocado ao alcance dos recursos.
+
+#txt_gather_n#1
+Acampamento de coleta
+
+#txt_grass_dscr#1
+Uma área de solo coberta com grama cuidadosamente mantida para fins estéticos e recreativos.
+
+#txt_grass_n#1
+Gramado
+
+#txt_grnry_dscr#1
+Pode armazenar recursos alimentícios.
+
+#txt_grnry_n#1
+Celeiro
+
+#txt_hapt_dscr#1
+Edifícios de múltiplos andares que oferecem moradia para várias famílias.
+
+#txt_hapt_n#1
+Apartamento
+
+#txt_hconf_dscr#1
+Moradias confortáveis que proporcionam alta qualidade de vida e bônus de saúde.
+
+#txt_hconf_n#1
+Casa grande
+
+#txt_hrustc_dscr#1
+Moradias rústicas que oferecem baixa qualidade de vida e bônus de saúde.
+
+#txt_hrustc_n#1
+Casa
+
+#txt_hslum_dscr#1
+Favelas não custam nada e surgem automaticamente quando os porcos não encontram moradia disponível. Oferecem baixa Qualidade de Vida e nenhum bônus de saúde.
+
+#txt_hslum_n#1
+Favela
+
+#txt_hunter_dscr#1
+Pode explorar animais selvagens para produzir carne fresca e couro. Precisa ser colocado ao alcance de um ponto de animais selvagens.
+
+#txt_hunter_n#1
+Caçador
+
+#txt_items_dscr#1
+Esses recursos estão abandonados no chão e irão se deteriorar com o tempo, a menos que sejam rapidamente armazenados em um local apropriado!
+
+#txt_items_n#1
+Itens
+
+#txt_jewelry_dscr#1
+Fabrica joias a partir de materiais preciosos.
+
+#txt_jewelry_n#1
+Joalheiro
+
+#txt_kiln_dscr#1
+Produz combustíveis como carvão vegetal e coque, além de materiais de construção como gesso.
+
+#txt_kiln_n#1
+Fornalha
+
+#txt_landock_dscr#1
+Um local de descanso para caravanas terrestres que transportam mercadorias por territórios. Produz uma pequena quantidade de Carga, necessária para operar rotas comerciais.
+
+#txt_landock_n#1
+Caravançará
+
+#txt_lawmkr_dscr#1
+Um edifício capital único vinculado à política 'Legislação' que produz Poder Estatal. Um edifício legislativo inicial onde servidores públicos especializados em legislação se reúnem para discutir e criar novas leis.
+
+#txt_lawmkr_n#1
+Casa dos Legisladores
+
+#txt_libr_dscr#1
+Armazena conhecimento.
+
+#txt_libr_n#1
+Biblioteca
+
+#txt_magistr_dscr#1
+Um edifício de serviço que fornece o serviço de Justiça à população, reduzindo conflitos.
+
+#txt_magistr_n#1
+Magistrado
+
+#txt_magistrt_dscr#1
+Reduz conflitos na população.
+
+#txt_magistrt_n#1
+Magistrado
+
+#txt_market_dscr#1
+As bancas de mercado distribuem à população a produção do edifício ao qual a banca pertence. A renda gerada vai inteiramente para os produtores, mas retira um trabalhador da produção para gerenciar a banca.
+
+#txt_market_n#1
+Banca de mercado
+
+#txt_merchant_dscr#1
+Distribuidores especializados que disponibilizam um recurso selecionável para a população.
+
+#txt_merchant_n#1
+Comerciante
+
+#txt_mill_dscr#1
+Tritura cereais para produzir farinha, que é mais fácil de armazenar e é usada para fazer pão.
+
+#txt_mill_n#1
+Moinho
+
+#txt_mine_dscr#1
+Pode explorar terrenos com depósitos especiais para produzir uma ampla gama de matérias-primas, especialmente por meio da exploração de seus anexos, quando disponíveis.
+
+#txt_mine_n#1
+Acampamento de mineração
+
+#txt_mineshaft_dscr#1
+Anexo essencial do acampamento de mineração. Os poços de mineração aumentam a produção do acampamento de mineração ao qual pertencem. Devem ser construídos sobre terrenos com depósitos válidos.
+
+#txt_mineshaft_n#1
+Poço de mineração
+
+#txt_ministry_dscr#1
+Um edifício capital único vinculado à política 'Ministério' que produz Poder do Estado.
+
+#txt_ministry_n#1
+Ministério
+
+#txt_mudcamp_dscr#1
+Um acampamento simples onde trabalhadores coletam e reúnem tipos de solo exploráveis, como lama, turfa ou cinzas.
+
+#txt_mudcamp_n#1
+Minerador de solo
+
+#txt_oilpress_dscr#1
+Produz azeite de oliva a partir de azeitonas.
+
+#txt_oilpress_n#1
+Prensa de azeitonas
+
+#txt_oldpcrcl_dscr#1
+Uma forma primitiva de armazenar conhecimento baseada na tradição oral.
+
+#txt_oldpcrcl_n#1
+Círculo dos Anciãos
+
+#txt_orcbutcher_dscr#1
+Abate prisioneiros para produzir bacon, o único alimento que os Orcs podem consumir.
+
+#txt_orcbutcher_n#1
+Açougueiro Orc
+
+#txt_orchuts_dscr#1
+Casebres precários construídos por Orcs e empilhados uns sobre os outros para sua moradia.
+
+#txt_orchuts_n#1
+Moradias Orcs
+
+#txt_orcmine_dscr#1
+Minas profundas subterrâneas exploradas por Orcs para minerar e refinar Ferro diretamente das profundezas da terra.
+
+#txt_orcmine_n#1
+Mina Orc
+
+#txt_paddock_dscr#1
+Currais permitem o armazenamento de recursos pecuários.
+
+#txt_paddock_n#1
+Curral
+
+#txt_palace1_dscr#1
+Um edifício único da capital inicial vinculado à política 'Liderança' que produz Poder Estatal. Cabana suntuosa onde o líder reside e exerce seu poder.
+
+#txt_palace1_n#1
+Cabana do Chefe
+
+#txt_palace2_dscr#1
+Um edifício único da capital vinculado à política 'Liderança' que produz Poder Estatal. Local luxuoso de residência do líder do Estado e onde seu conselho exerce o poder.
+
+#txt_palace2_n#1
+Palácio
+
+#txt_paper_dscr#1
+Produz papel
+
+#txt_paper_n#1
+Moinho de Papel
+
+#txt_pastr_dscr#1
+Uma área cercada de terra onde o gado pode se alimentar e reproduzir.
+
+#txt_pastr_n#1
+Pastagem
+
+#txt_pastrw_dscr#1
+Pastagens de animais produtores de lã, tosquiados regularmente para coletar sua lã.
+
+#txt_pastrw_n#1
+Pastagem de Lã
+
+#txt_pastregg_dscr#1
+Raças de aves selecionadas para sua produção intensiva de ovos.
+
+#txt_pastregg_n#1
+Granja Avícola
+
+#txt_pastrmilk_n#1
+Pastagem Leiteira
+
+#txt_pastremilk_dscr#1
+Pastagem de raças de gado selecionadas para sua produção de leite.
+
+#txt_platf1_dscr#1
+Uma plataforma barata e de baixa resistência. Usada para fazer defesas e pontes baratas.
+
+#txt_platf1_n#1
+Plataforma de Madeira
+
+#txt_platf2_dscr#1
+Uma plataforma sólida usada para fazer muros resistentes.
+
+#txt_platf2_n#1
+Plataforma de Pedra
+
+#txt_postoffice_dscr#1
+Produz um serviço de comunicação que reduz os fatores de distância dos centros regionais até a capital e dos subordinados da nação, melhorando assim a administração.
+
+#txt_postoffice_n#1
+Correio
+
+#txt_potter_dscr#1
+Ceramistas refinam argila em cerâmica. Cerâmica é um recurso distribuível que supre a necessidade da população por Mobiliário.
+
+#txt_potter_n#1
+Oleiro
+
+#txt_prisoncamp_dscr#1
+Armazena prisioneiros vivos.
+
+#txt_prisoncamp_n#1
+Campo de Prisioneiros
+
+#txt_quarry_dscr#1
+Anexo essencial do Cortador de Pedra, as pedreiras podem produzir blocos de pedra ou blocos especializados em tipos específicos de rocha.
+
+#txt_quarry_n#1
+Pedreira
+
+#txt_road1_dscr#1
+Uma estrada básica que é gratuita para construir.
+
+#txt_road1_n#1
+Estrada de Terra
+
+#txt_road2_dscr#1
+Uma estrada com pedaços de madeira embutidos na terra para limitar a lama durante o tempo chuvoso.
+
+#txt_road2_n#1
+Estrada de madeira
+
+#txt_road3_dscr#1
+Uma estrada pavimentada com pedras rústicas.
+
+#txt_road3_n#1
+Estrada de paralelepípedos
+
+#txt_road4_dscr#1
+Uma estrada cara feita de grandes blocos de pedra.
+
+#txt_road4_n#1
+Estrada de pedra
+
+#txt_road5_dscr#1
+Uma estrada feita de pequenos blocos de pedra dispostos artisticamente.
+
+#txt_road5_n#1
+Estrada pavimentada
+
+#txt_road6_dscr#1
+Um piso sofisticado feito de pequenas peças coloridas de pedra, vidro e outros materiais.
+
+#txt_road6_n#1
+Praça de mosaico
+
+#txt_road7_dscr#1
+Um piso sofisticado feito de blocos brilhantes de mármore.
+
+#txt_road7_n#1
+Praça de mármore
+
+#txt_road8_dscr#1
+Uma estrada cara feita de grandes blocos de calcário branco.
+
+#txt_road8_n#1
+Estrada de calcário
+
+#txt_road9_dscr#1
+Uma estrada cara feita de grandes blocos de arenito.
+
+#txt_road9_n#1
+Estrada de arenito
+
+#txt_rum_dscr#1
+Uma destilaria que produz rum a partir da cana-de-açúcar.
+
+#txt_rum_n#1
+Destilaria de rum
+
+#txt_sawmill_dscr#1
+A serraria refina madeira bruta em tábuas de madeira, um material necessário para construir muitos edifícios.
+
+#txt_sawmill_n#1
+Serraria
+
+#txt_school_dscr#1
+Escolas aumentam a inteligência da população.
+
+#txt_school_n#1
+Escola
+
+#txt_scrib_dscr#1
+Escribas a serviço do Estado ajudam a manter o controle de assuntos administrativos.
+
+#txt_scrib_n#1
+Escriba
+
+#txt_senate_dscr#1
+Um edifício único da capital vinculado à política 'República' que produz Poder Estatal. Um edifício legislativo onde Senadores se reúnem para discutir e criar novas leis.
+
+#txt_senate_n#1
+Senado
+
+#txt_stairs1_dscr#1
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem. Pressione a barra de espaço para mudar sua direção.
+
+#txt_stairs1_n#1
+Escadas de madeira
+
+#txt_stairs2_dscr#1
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem. Pressione a barra de espaço para mudar sua direção.
+
+#txt_stairs2_n#1
+Escadas de pedra
+
+#txt_state_court_dscr#1
+Um edifício único e caro da capital vinculado à política 'Corte' que produz algum Poder Estatal. Um edifício luxuoso usado para receber subordinados e vassalos com esplendor, a fim de controlá-los melhor.
+
+#txt_state_court_n#1
+Grande Salão
+
+#txt_state_dptmnt_dscr#1
+Um edifício capital dispendioso que produz um pouco de Poder Estatal adicional. Um edifício administrativo governamental onde Servidores Civis se especializam em gerenciar domínios específicos da governança, melhorando sua administração.
+
+#txt_state_dptmnt_n#1
+Departamento de Estado
+
+#txt_state_rcrds_dscr#1
+Um edifício capital único que produz Poder Estatal. Um edifício dedicado à guarda de documentos governamentais, melhorando sua administração.
+
+#txt_state_rcrds_n#1
+Arquivos Governamentais
+
+#txt_steel_dscr1#1
+Produz aço por carburação de ferro forjado através de forjamento.
+
+#txt_steel_dscr2#1
+Produz aço por descarburação de ferro fundido ao derretê-lo.
+
+#txt_steel_n#1
+Aciaria
+
+#txt_stonecut_dscr#1
+Pode explorar tiles de rocha no alcance para produzir pedra bruta. Anexos de pedreira produzem blocos de pedra ou blocos especializados em tiles de um tipo de rocha válido.
+
+#txt_stonecut_n#1
+Acampamento de Canteiro
+
+#txt_storegrnd_dscr#1
+Terreno marcado como área de armazenamento. É gratuito, mas desprotegido e não possui alta capacidade de armazenamento por tile.
+
+#txt_storegrnd_n#1
+Armazenamento no Solo
+
+#txt_tannery_dscr#1
+Curtumes refinam couro em roupas de couro, um recurso distribuível que atende à necessidade de vestuário da população.
+
+#txt_tannery_n#1
+Curtume
+
+#txt_tavern_dscr#1
+Um local de encontro social para beber e festejar.
+
+#txt_tavern_n#1
+Taverna
+
+#txt_taxcol_dscr#1
+Reduz o desperdício garantindo que a população pague seus impostos corretamente.
+
+#txt_taxcol_n#1
+Cobrador de Impostos
+
+#txt_theater_dscr#1
+Proporciona entretenimento aos Porcos.
+
+#txt_theater_n#1
+Teatro
+
+#txt_toolmk_dscr#1
+Ferreiros produzem diferentes tipos de ferramentas. Ferramentas são usadas para muitas coisas, especialmente como material de construção.
+
+#txt_toolmk_n#1
+Ferreiro
+
+#txt_tow1_dscr#1
+Uma torre defensiva barata, porém frágil, feita de madeira coberta com couro. Dispara flechas.
+
+#txt_tow1_n#1
+Torre de Vigia
+
+#txt_tow2_dscr#1
+Uma torre defensiva feita de vigas grossas de madeira. Dispara flechas.
+
+#txt_tow2_n#1
+Torre de Madeira
+
+#txt_tow3_dscr#1
+Torres de pedra são muito mais resistentes que suas equivalentes de madeira. Disparam flechas.
+
+#txt_tow3_n#1
+Torre de Pedra
+
+#txt_tow4_dscr#1
+Esta torre é construída com blocos sólidos de pedra para aumentar a resistência à artilharia inimiga. Dispara flechas.
+
+#txt_tow4_n#1
+Torre Pesada
+
+#txt_townhall_dscr#1
+O edifício do centro administrativo regional necessário para uma Vila.
+
+#txt_townhall_n#1
+Prefeitura
+
+#txt_treasury_dscr#1
+Um edifício único da capital vinculado à política 'Tesouro' que produz Poder Estatal. Gerencia o tesouro do Estado.
+
+#txt_treasury_n#1
+Tesouro
+
+#txt_trmarket_dscr#1
+Permite a criação de ofertas comerciais em massa para trocar mercadorias com outros territórios.
+
+#txt_trmarket_n#1
+Mercado
+
+#txt_wall1_dscr#1
+Uma simples muralha defensiva feita de madeira.
+
+#txt_wall1_n#1
+Paliçada
+
+#txt_wall2_dscr#1
+Uma simples muralha defensiva feita de tijolos de barro, mais fraca, mas mais barata de manter do que uma paliçada.
+
+#txt_wall2_n#1
+Muralha de tijolos de barro
+
+#txt_wall3_dscr#1
+Uma simples muralha defensiva feita de pedras arredondadas unidas com alvenaria rudimentar.
+
+#txt_wall3_n#1
+Muralha de pedregulho
+
+#txt_wall4_dscr#1
+Uma simples muralha defensiva feita de tijolos queimados. Mais resistente que os tijolos de barro.
+
+#txt_wall4_n#1
+Muralha de tijolos
+
+#txt_wall5_dscr#1
+Uma sólida muralha defensiva feita de blocos de pedra.
+
+#txt_wall5_n#1
+Muralha de blocos de pedra
+
+#txt_warehouse_dscr#1
+Armazéns podem guardar todos os tipos de materiais básicos. São protegidos e podem armazenar uma quantidade maior de recursos do que os estoques no chão.
+
+#txt_warehouse_n#1
+Armazém
+
+#txt_wash_dscr#1
+Um local onde as pessoas podem lavar suas roupas.
+
+#txt_wash_n#1
+Lavanderia
+
+#txt_watercol_dscr#1
+Um local onde as pessoas podem coletar água fresca de rios ou lagos.
+
+#txt_watercol_n#1
+Coletor de água
+
+#txt_waterwheel_dscr#1
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_waterwheel_n#1
+Roda d'água
+
+#txt_weapmk_dscr#1
+Armeiros podem produzir uma ampla variedade de armas e armaduras, usadas para equipar e recrutar tropas.
+
+#txt_weapmk_n#1
+Armeiro
+
+#txt_weaver_dscr#1
+O tecelão refina diferentes matérias-primas (algodão, linho, lã...) em tecidos. Os tecidos podem então ser usados para diversas finalidades, como a confecção de roupas.
+
+#txt_weaver_n#1
+Tecelão
+
+#txt_well_dscr#1
+Extrai água do solo.
+
+#txt_well_n#1
+Poço
+
+#txt_windwheel_dscr#1
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_windwheel_n#1
+Roda de Vento
+
+#txt_winery_dscr#1
+Produz vinho a partir de uvas.
+
+#txt_winery_n#1
+Adega de Vinho
+
+#txt_woodc_dscr#1
+Lenhadores podem explorar a maioria das árvores disponíveis no alcance para produzir madeira.
+
+#txt_woodc_n#1
+Lenhador
+
+#txt_brutes_n#1
+Cabana dos Brutos
+
+#txt_brutes_dscr#1
+Guerreiros poderosos da tribo, cuja lealdade é comprada por natureza e que mantêm os manifestantes sob controle.
