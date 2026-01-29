@@ -1,0 +1,277 @@
+#civ_aristo_dscr#1
+A oligarquia se consolida como um direito de nascimento oficial que vem com privilégios e é transmitido por hereditariedade, assegurando o status das famílias oligarcas.
+
+#civ_aristo_n#1
+Aristocracia
+
+#civ_bandsociety_dscr#1
+A forma mais simples de sociedade com organização frouxa e liderança informal.
+
+#civ_bandsociety_n#1
+Sociedade tribal
+
+#civ_coinage_dscr#1
+Uma moeda certificada pelo Estado.
+
+#civ_coinage_n#1
+Cunhagem
+
+#civ_comgood_dscr#1
+"Nós somos o povo."
+
+#civ_comgood_n#1
+Pelo Povo
+
+#civ_comwork_dscr#2
+Todos os ativos devem uma parte de seu tempo ao Governo como trabalho forçado.
+
+#civ_comwork_n#2
+Trabalho forçado
+
+#civ_council_dscr#1
+Um conselho de conselheiros de confiança que auxiliam o Líder em questões de governança, melhorando a administração do Estado.
+
+#civ_council_n#1
+Conselho
+
+#civ_court_dscr#1
+A constituição de uma Corte que hospeda e entretém subordinados e vassalos diretamente na capital para melhor controlá-los e gerenciá-los.
+
+#civ_court_n#1
+Corte
+
+#civ_currency_dscr#1
+Ter uma referência valiosa para facilitar trocas e usar como unidade de medida de valor. 
+
+#civ_currency_n#1
+Moeda
+
+#civ_democracy_dscr#1
+Governança como uma democracia direta onde os cidadãos votam e participam diretamente da governança, e onde a maioria governa sem nenhum líder ou representantes.
+
+#civ_democracy_n#1
+Democracia
+
+#civ_citystate_n#1
+Cidade-Estado
+
+#civ_citystate_dscr#1
+Governança centralizada e organizada em torno de uma única cidade.
+
+#civ_divine_dscr#1
+"Eu governo porque sou um deus."
+
+#civ_divine_n#1
+Líder divino
+
+#civ_divinerep_dscr#1
+"Eu governo porque fui escolhido pelos deuses."
+
+#civ_divinerep_n#1
+Representante divino
+
+#civ_fairxchang_dscr#1
+Troca imediata e recíproca de bens ou serviços de valor equivalente.
+
+#civ_fairxchang_n#1
+Escambo
+
+#civ_gifteco_dscr#1
+Um modo de troca onde valores não são negociados ou vendidos, mas sim dados sem um acordo explícito para recompensa imediata ou futura.
+
+#civ_gifteco_n#1
+Economia de dádiva
+
+#civ_lawmk_dscr#1
+Uma instituição de Servidores Públicos especializados em Legislação.
+
+#civ_lawmk_n#1
+Legislação
+
+#civ_leadership_dscr#1
+Um líder reconhecido para governá-los todos.
+
+#civ_leadership_n#1
+Liderança
+
+#civ_localchief_dscr#1
+A organização de administrações locais federadas sob um governo central, permitindo o controle de múltiplas regiões administrativas.
+
+#civ_localchief_n#1
+Administração Regional
+
+#civ_minist_dscr#1
+Um grupo de porcos-estado que ocupam cargos públicos significativos, tomando e implementando decisões sobre políticas em conjunto.
+
+#civ_minist_n#1
+Ministério
+
+#civ_olig_dscr#1
+"Eu governo para as elites."
+
+#civ_olig_n#1
+Para as Elites
+
+#civ_oligbribes_dscr#1
+Oferecer presentes e pagamentos para obter apoio político de oligarcas influentes.
+
+#civ_oligbribes_n#1
+Subornos Políticos
+
+#civ_paidrsrch_dscr#1
+Pesquisadores de projetos são pagos pelo estado proporcionalmente à sua riqueza atual e não reduzem mais a força de trabalho dos edifícios em que trabalham.
+
+#civ_paidrsrch_n#1
+Pesquisadores Remunerados
+
+#civ_people_dscr#1
+"Governamos em nome do povo."
+
+#civ_people_n#1
+Representantes do Povo
+
+#civ_prtctor_dscr#1
+"Eu governo porque sou responsável por proteger o povo."
+
+#civ_prtctor_n#1
+Protetor do Povo
+
+#civ_ration_dscr#1
+O racionamento de alimentos reduz o consumo de comida de cada porco. Em tempos de escassez, ajuda a melhorar o acesso de todos aos alimentos.
+
+#civ_ration_n#1
+Racionamento de Alimentos
+
+#civ_repmoney_dscr#1
+Uma moeda que representa um direito sobre uma mercadoria, em vez de ser uma mercadoria em si.
+
+#civ_repmoney_n#1
+Moeda Representativa
+
+#civ_republic_dscr#1
+Governo como uma república onde os porcos-estado governam em nome do povo.
+
+#civ_republic_n#1
+República
+
+#civ_statepriv_dscr#1
+Privilégios para a liderança do seu governo, concedendo-lhes uma porcentagem da riqueza de um território por direito.
+
+#civ_statepriv_n#1
+Privilégios
+
+#civ_statesal_dscr#2
+Todas as classes de funcionários públicos recebem um salário fixo do governo pelo seu trabalho.
+
+#civ_statesal_n#2
+Salários Governamentais
+
+#civ_subv_dscr#1
+Um auxílio pago pelo estado a cada porco de uma classe específica de trabalhadores, aumentando sua renda.
+
+#civ_subv_n#1
+Subvenção
+
+#civ_superior_dscr#1
+"Eu governo porque sou superior."
+
+#civ_superior_n#1
+Líder Superior
+
+#civ_tax_dscr#1
+Encargos financeiros organizados impostos aos contribuintes pelo Estado.
+
+#civ_tax_n#1
+Tributação
+
+#civ_treasury_dscr#1
+A separação das finanças do Líder e do Governo; o tesouro administra as finanças do Governo.
+
+#civ_treasury_n#1
+Tesouro
+
+#civ_tributes_dscr#2
+Uma forma primitiva de tributação em que o governo confisca uma parte de todos os bens agrícolas produzidos em suas terras.
+
+#civ_tributes_n#2
+Cobranças agrícolas
+
+#cltr_consume_dscr#1
+O costume cultural da sua população de consumir um recurso específico. Isso possibilita a demanda populacional e a venda desse recurso para a população.
+
+#cltr_consume_n#1
+Consumo de recursos
+
+#cltr_resprod_dscr#1
+A tradição cultural de produção libera a produção de um recurso específico. Os níveis subsequentes melhoram a eficiência da produção e reduzem os custos de materiais.
+
+#cltr_resprod_n#1
+Produção de recursos
+
+#cltr_resqual_dscr#1
+A tradição cultural de artesanato de um recurso específico melhora a qualidade da produção desse recurso.
+
+#cltr_resqual_n#1
+Especialização em recursos
+
+#civ_prefcts_n#1
+Prefeitos
+
+#civ_prefcts_dscr#1
+Funcionários do governo enviados a territórios subordinados para representar o Estado e melhorar o controle, a comunicação e a gestão.
+
+#civ_tribcouncl_n#1
+Conselho tribal
+
+#civ_tribcouncl_dscr#1
+A justiça é administrada por um conselho que reúne todos os líderes das famílias da tribo (habilita edifícios do Conselho Tribal).
+
+#civ_codelaw_n#1
+Código de Leis
+
+#civ_codelaw_dscr#1
+A justiça é administrada por um código de leis escrito, aplicado por Magistrados (habilita edifícios de Magistrado).
+
+#civ_banditextor_n#1
+Extorsão por banditismo
+
+#civ_banditextor_dscr#1
+Um governo corrupto faz vista grossa enquanto gangues organizadas de bandidos extorquem a população, em troca de uma parte justa de seus espólios.
+
+#civ_terrorpatrl_n#1
+Patrulhas do terror
+
+#civ_terrorpatrl_dscr#1
+Patrulhas de soldados invadem casas aleatórias à noite para saquear e aterrorizar a população, para que vivam com medo e lembrem constantemente da presença do exército.
+
+#civ_sumexec_n#1
+Execuções sumárias
+
+#civ_sumexec_dscr#1
+A prática de realizar execuções públicas sumárias de pessoas por crimes menores, para servir de exemplo e incutir medo na população.
+
+#civ_nepotism_n#1
+Nepotismo
+
+#civ_nepotism_dscr#1
+Favoritismo concedido aos parentes do Líder para posições de poder na sociedade, resultando em Oligarcas mais leais, mas com aumento de conflitos.
+
+#civ_bannish_n#1
+Banimento
+
+#civ_bannish_dscr#1
+Indesejáveis da comunidade são banidos da cidade, nunca podendo retornar, deixando suas famílias em uma existência precária.
+
+#civ_bloodfeuds_n#1
+Vinganças de sangue
+
+#civ_bloodfeuds_dscr#1
+O direito de perseguir vinganças de sangue: violência retaliatória por parentes de alguém que foi morto, prejudicado ou desonrado contra os culpados ou seus familiares. 
+
+#civ_delegflab_n#1
+Trabalho Forçado Delegado
+
+#civ_delegflab_dscr#1
+Os ricos podem escapar de suas obrigações de trabalho forçado pagando outro — geralmente os pobres — para cumpri-las em seu lugar.
+
+
