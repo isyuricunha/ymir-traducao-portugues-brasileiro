@@ -1,0 +1,566 @@
+#civfx_multireg_n#2
+múltiplas cidades
+
+#civfx_multireg_dscr#2
+Permite que centros regionais não-capitais cresçam além do status de aldeia.
+
+#civfx_claimrc_n#1
+reivindicação de centro regional
+
+#civfx_claimrc_dscr#1
+Permite fabricar reivindicações diretamente em centros regionais não-capitais de regiões adjacentes.
+
+#civfx_captlter_n#1
+campo da capital
+
+#civfx_captlter_dscr#1
+Aumenta a quantidade máxima de territórios de Campo da capital.
+
+#civfx_singlereg_n#1
+limite de região única
+
+#civfx_singlereg_dscr#1
+Permite apenas um centro regional (a capital).
+
+#civfx_militsprt_n#1
+suporte militar
+
+#civfx_militsprt_dscr#1
+Modifica a capacidade de suporte militar dos territórios.
+
+#civfx_nationmaintn_n#1
+manutenção de subordinados
+
+#civfx_nationmaintn_dscr#1
+Modifica os custos de manutenção de Poder Estatal de seus subordinados na Nação.
+
+#civfx_autodist_dscr#1
+Todos os recursos ficam automaticamente disponíveis para toda a população e não há necessidade de distribuidores
+
+#civfx_autodist_n#1
+distribuição automática
+
+#civfx_bdgeff_dscr#1
+Modifica a eficiência dos edifícios
+
+#civfx_bdgeff_n#1
+eficiência de construções
+
+#civfx_waste_n#1
+desperdício
+
+#civfx_waste_dscr#1
+Afeta a taxa de desperdício em todos os territórios.
+
+#civfx_bribes_dscr#1
+Presentes e subornos pagos à classe Oligarca, aumentando sua riqueza e favorecendo seu apoio.
+
+#civfx_bribes_n#1
+subornos
+
+#civfx_bribes_set#2
+subornos por Oligarca
+
+#civfx_bribes_setd#1
+O valor médio dos subornos pagos a cada Oligarca.
+
+#civfx_capadmin_dscr#1
+Modifica a administração na capital
+
+#civfx_capadmin_n#1
+administração da capital
+
+#civfx_caplead_dscr#1
+adiciona Líder na capital
+
+#civfx_caplead_n#1
+Líder
+
+#civfx_capnob_dscr#1
+adiciona Oligarcas na capital
+
+#civfx_capnob_n#1
+Oligarcas da capital
+
+#civfx_cityadmin_dscr#1
+Modifica a administração em todas as cidades
+
+#civfx_cityadmin_n#1
+administração urbana
+
+#civfx_comwork_dscr#2
+Porcentagem de tempo que os Ativos devem ao Estado como trabalho forçado, em detrimento da eficiência de construção.
+
+#civfx_comwork_n#2
+trabalho forçado
+
+#civfx_comwork_set#1
+alocação de tempo
+
+#civfx_comwork_setd#2
+Define a porcentagem de tempo que os ativos gastarão em trabalho forçado (diminui a eficiência de construção proporcionalmente).
+
+#civfx_comworkmod_actv#2
+[x]% de trabalho forçado
+
+#civfx_comworkmod_dscr#2
+modifica a eficiência do trabalho forçado.
+
+#civfx_comworkmod_n#2
+trabalho forçado
+
+#civfx_conflict_dscr#1
+Modifica o conflito da população
+
+#civfx_conflict_n#1
+conflito populacional
+
+#civfx_enmerch_dscr#1
+Permite o uso de mercadores que podem vender recursos para a população
+
+#civfx_popcltr_n#1
+Cultura da população
+
+#civfx_popcltr_dscr#1
+Modifica a produção de Cultura da população
+
+#civfx_poplifeq_n#1
+Qualidade de Vida da população
+
+#civfx_poplifeq_dscr#1
+Modifica a Qualidade de Vida da população
+
+#civfx_popmurder_n#1
+taxa de homicídios
+
+#civfx_popmurder_dscr#1
+Modifica a porcentagem da população que morre por violência a cada geração.
+
+#civfx_author_n#1
+autoridade
+
+#civfx_author_dscr#1
+Modifica a Lealdade decorrente da autoridade em todos os territórios.
+
+#civfx_authortroop_n#1
+autoridade das tropas do Estado
+
+#civfx_authortroop_dscr#1
+Modifica a autoridade das tropas do Estado, afetando a Lealdade de todos os territórios.
+
+#civfx_banditextr_n#1
+extorsão
+
+#civfx_banditextr_dscr#1
+Renda da população roubada ou furtada por criminosos, metade da qual é então canalizada para o Tesouro como 'impostos'.
+
+#civfx_enmerch_n#1
+mercadores
+
+#civfx_entrout_dscr#1
+Permite a criação de rotas comerciais permanentes entre territórios
+
+#civfx_entrout_n#1
+rotas comerciais
+
+#civfx_foodcons_dscr#1
+Afeta a quantidade de comida necessária pelos porcos para satisfazer sua necessidade alimentar
+
+#civfx_foodcons_n#1
+consumo de alimentos
+
+#civfx_goldstck_dscr#1
+aumenta a riqueza de todos os territórios para cada unidade de metais preciosos (ouro e prata) nos estoques
+
+#civfx_goldstck_n#1
+Riqueza proveniente de metais preciosos
+
+#civfx_happy_dscr#1
+modifica a felicidade da população
+
+#civfx_happy_n#1
+felicidade da população
+
+#civfx_inc_dscr#1
+Libera a riqueza dinâmica da população
+
+#civfx_inc_n#1
+rendimentos da população
+
+#civfx_inctax_dscr#1
+Um imposto aplicado a todos os rendimentos da população no território 
+
+#civfx_inctax_n#1
+imposto de renda
+
+#civfx_inctax_set#1
+percentual do imposto de renda
+
+#civfx_inctax_setd#1
+Define a porcentagem da renda que será tributada
+
+#civfx_ldcntrb_actv#1
+[x]% de contribuição do tesouro do Líder
+
+#civfx_ldcntrb_dscr#1
+O líder pode contribuir para as finanças do governo com sua própria riqueza (isso reduz sua riqueza).
+
+#civfx_ldcntrb_n#1
+Contribuição do tesouro do Líder
+
+#civfx_ldcntrb_set#1
+Taxa de contribuição
+
+#civfx_ldcntrb_setd#1
+A porcentagem da riqueza do líder que vai para o tesouro do governo (Observe que isso reduzirá a riqueza do Líder proporcionalmente).
+
+#civfx_leadsal_dscr#1
+Os líderes recebem um salário pago pelo Estado
+
+#civfx_leadsal_n#1
+Salário do Líder
+
+#civfx_leadsal_set#1
+Salário do Líder
+
+#civfx_leadsal_setd#1
+Valor do salário em moedas
+
+#civfx_leadwlth_actv#1
+[x]% dos privilégios do Líder
+
+#civfx_leadwlth_dscr#1
+O líder recebe uma parte da riqueza produzida pela capital como privilégios.
+
+#civfx_leadwlth_n#1
+Privilégios do Líder
+
+#civfx_leadwlth_set#1
+Taxa de privilégios
+
+#civfx_leadwlth_setd#1
+A porcentagem da riqueza produzida pela capital concedida como privilégio ao líder.
+
+#civfx_legitolig_dscr#1
+A quantidade de poder e apoio da Oligarquia.
+
+#civfx_legitolig_n#1
+Apoio da Oligarquia
+
+#civfx_legitpop_dscr#1
+O quanto o povo aprova o governo atual.
+
+#civfx_legitpop_n#1
+Aprovação do Povo
+
+#civfx_legitprt_dscr#1
+A quantidade de poder e apoio dos militares.
+
+#civfx_legitprt_n#1
+Apoio Militar
+
+#civfx_legitr_dscr#1
+A quantidade de poder e apoio da religião.
+
+#civfx_legitr_n#1
+Apoio Religioso
+
+#civfx_legitrep_dscr#1
+A quantidade de poder e apoio dos representantes do Povo.
+
+#civfx_legitrep_n#1
+Apoio dos Representantes
+
+#civfx_legitw_dscr#1
+A quantidade de respeito, poder e influência que o Líder possui pessoalmente.
+
+#civfx_legitw_n#1
+Superioridade do Líder
+
+#civfx_modhap_dscr#1
+Modifica a felicidade da população
+
+#civfx_modhap_n#1
+felicidade da população
+
+#civfx_nobsal_dscr#1
+Os Oligarcas recebem um salário pago pelo Estado
+
+#civfx_nobsal_n#1
+Salário dos Oligarcas
+
+#civfx_nobsal_set#1
+Salário
+
+#civfx_nobsal_setd#1
+Valor do salário em moedas
+
+#civfx_nobwlth_actv#1
+[x]% dos privilégios da Oligarquia
+
+#civfx_nobwlth_dscr#1
+Os Oligarcas recebem uma parte da riqueza do território como privilégio.
+
+#civfx_nobwlth_n#1
+Privilégios Oligárquicos
+
+#civfx_nobwlth_set#1
+Taxa de privilégios
+
+#civfx_nobwlth_setd#1
+A porcentagem da riqueza do território concedida como privilégio à classe dos Oligarcas.
+
+#civfx_nomoney_dscr#1
+Não existe nenhuma forma de dinheiro armazenável.
+
+#civfx_nomoney_n#1
+sem dinheiro
+
+#civfx_offsal_dscr#1
+Os Funcionários recebem um salário pago diretamente pelo governo.
+
+#civfx_offsal_n#2
+Salário dos Funcionários
+
+#civfx_offsal_set#1
+Salário dos Funcionários
+
+#civfx_offsal_setd#2
+Salário pago aos Funcionários do governo
+
+#civfx_statesal_dscr#1
+Todas as classes da população de trabalhadores do Estado recebem um salário pago diretamente pelo governo.
+
+#civfx_statesal_n#2
+Salários dos Trabalhadores do Estado
+
+#civfx_statesal_set#1
+Salário dos Trabalhadores do Estado
+
+#civfx_statesal_setd#2
+Salário pago a cada trabalhador regular do Estado
+
+#civfx_offwlth_dscr#2
+A classe dos Funcionários recebe uma parte da riqueza produzida no território como privilégios.
+
+#civfx_offwlth_n#2
+Privilégios dos Funcionários
+
+#civfx_offwlth_actv#1
+[x]% dos privilégios dos Funcionários
+
+#civfx_offwlth_set#2
+Taxa de privilégios
+
+#civfx_offwlth_setd#1
+a porcentagem da riqueza do território concedida como privilégio aos trabalhadores do Estado
+
+#civfx_paidmat_dscr#1
+Recursos agora têm preços e propriedade.
+
+#civfx_paidmat_n#1
+preços de recursos
+
+#civfx_paidrsrch_dscr#1
+Pesquisadores recebem pagamento e não reduzem mais a força de trabalho dos edifícios onde trabalham.
+
+#civfx_paidrsrch_n#1
+pesquisadores pagos
+
+#civfx_price_dscr#1
+Recursos e bens valiosos têm preços dinâmicos baseados na oferta e demanda da população
+
+#civfx_price_n#1
+preços dinâmicos
+
+#civfx_prodtax_dscr#2
+Uma parte de todos os bens agrícolas e gado produzidos é confiscada pelo governo como imposto.
+
+#civfx_prodtax_n#1
+tributos agrícolas
+
+#civfx_prodtax_set#1
+produção confiscada
+
+#civfx_prodtax_setd#1
+Define a porcentagem de recursos produzidos (bens agrícolas e gado) que serão confiscados pelo governo
+
+#civfx_regadmin_dscr#1
+Modifica a administração em todos os territórios
+
+#civfx_regadmin_n#1
+administração territorial
+
+#civfx_regnob_dscr#1
+adiciona Oligarcas em cada centro regional
+
+#civfx_regnob_n#1
+Oligarcas regionais
+
+#civfx_rescons_dscr#1
+Recurso culturalmente adotado pela sua população:
+
+#civfx_rescons_n#1
+Consumo de [x]
+
+#civfx_saltax_dscr#1
+Um imposto aplicado a todas as vendas no território (imposto sobre valor agregado simplificado)
+
+#civfx_saltax_n#1
+imposto sobre vendas
+
+#civfx_saltax_set#1
+porcentagem do imposto sobre vendas
+
+#civfx_saltax_setd#1
+Define a porcentagem das vendas que serão tributadas
+
+#civfx_seizem_dscr#1
+Quando materiais pagos está ativo, todos ou uma fração dos materiais são confiscados gratuitamente em vez de serem pagos pelo Estado.
+
+#civfx_seizem_n#1
+materiais confiscados
+
+#civfx_seizem_set#1
+porcentagem confiscada
+
+#civfx_seizem_setd#1
+Define a porcentagem do preço de um material que você deseja confiscar
+
+#civfx_statepow_n#1
+Poder do Estado
+
+#civfx_statepow_dscr#1
+Modifica a quantidade de Poder do Estado
+
+#civfx_expanpt_n#1
+Pontos de Expansão
+
+#civfx_expanpt_dscr#1
+Modifica a quantidade de Pontos de Expansão
+
+#civfx_stress_dscr#1
+Modifica o estresse da população
+
+#civfx_stress_n#1
+estresse populacional
+
+#civfx_subv_actv#1
+Subvenção de [y] moeda para [x]
+
+#civfx_subv_dscr#1
+Um auxílio governamental concedido a cada trabalhador de uma classe social especificada, para aumentar sua renda
+
+#civfx_subv_n#1
+subvenção
+
+#civfx_subv_set1#1
+Classe subvencionada
+
+#civfx_subv_set1d#1
+A classe social que recebe esta subvenção
+
+#civfx_subv_set2#1
+Valor da subvenção em moedas
+
+#civfx_subv_set2d#1
+O valor da subvenção em moedas, por Porco. Cada um receberá este valor em moedas adicionado à sua renda.
+
+#civfx_territ_dscr#1
+Cidades podem anexar outros territórios como sua província
+
+#civfx_territ_n#1
+territórios provinciais
+
+#civfx_treasury_dscr#1
+O tesouro do governo e as propriedades privadas do Líder agora são duas coisas separadas.
+
+#civfx_treasury_n#1
+separação de fundos
+
+#civfx_wlegitolig_dscr#1
+Como o fator de apoio da Oligarquia afeta a Legitimidade.
+
+#civfx_wlegitolig_n#1
+importância da Oligarquia
+
+#civfx_wlegitpop_dscr#1
+Como o fator de aprovação do povo afeta a Legitimidade.
+
+#civfx_wlegitpop_n#1
+importância da aprovação do povo
+
+#civfx_wlegitprt_dscr#1
+Como o apoio militar afeta a Legitimidade
+
+#civfx_wlegitprt_n#1
+importância do apoio militar
+
+#civfx_wlegitr_dscr#1
+Como o fator de apoio religioso afeta a Legitimidade.
+
+#civfx_wlegitr_n#1
+importância da religião
+
+#civfx_wlegitrep_dscr#1
+Quanto o fator de apoio do Representante afeta a Legitimidade.
+
+#civfx_wlegitrep_n#1
+importância do poder dos representantes
+
+#civfx_wlegitw_dscr#1
+Como o fator de superioridade do Líder afeta a Legitimidade.
+
+#civfx_wlegitw_n#1
+importância da superioridade do Líder
+
+#traitfx_resprod_dscr#1
+O 1º nível permite a produção e os níveis seguintes melhoram a eficiência da produção e reduzem os custos de materiais quando relevante.
+
+#traitfx_resprod_n#1
+Nível de produção
+
+#traitfx_resqual_dscr#1
+Aumenta a qualidade base de produção do recurso.
+
+#traitfx_resqual_n#1
+Nível de qualidade
+
+#civfx_subormntn_n#1
+manutenção de subordinados
+
+#civfx_subormntn_dscr#1
+Modifica o custo de manutenção do Poder Estatal dos subordinados da Nação.
+
+#civfx_multireg_n#2
+múltiplas cidades
+
+#civfx_multireg_dscr#2
+Permite o crescimento de regiões não-capitais além do status de Aldeia.
+
+#civfx_leadcntrbmod_n#1
+contribuições do líder
+
+#civfx_leadcntrbmod_dscr#1
+Modifica a quantidade de dinheiro obtida a partir da Riqueza do Líder
+
+#civfx_leadcntrbmod_actv#1
+Contribuições do líder [x]%
+
+#civfx_prvlgmalus_n#1
+tolerância a privilégios
+
+#civfx_prvlgmalus_dscr#1
+Modifica a penalidade de Lealdade nos territórios causada por privilégios.
+
+#civfx_prvlgmalus_actv#1
+Penalidade de Lealdade por privilégios [x]%
+
+#civfx_flabmalus_n#1
+tolerância a trabalho forçado
+
+#civfx_flabmalus_dscr#1
+Modifica a penalidade de Lealdade nos territórios causada por trabalho forçado.
+
+#civfx_flabmalus_actv#1
+Penalidade de Lealdade por trabalho forçado [x]%
