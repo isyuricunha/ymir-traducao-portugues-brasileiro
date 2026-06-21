@@ -4,8 +4,7 @@
 
 Este é um guia **super detalhado** para instalar a tradução em português brasileiro para o jogo Ymir. Vamos explicar **passo a passo**, como se você estivesse aprendendo a usar um computador pela primeira vez.
 
-**Participe da comunidade no Discord:** https://discord.com/invite/aYbWBr4
-
+> **Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
 
 ---
 
